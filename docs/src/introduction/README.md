@@ -1,4 +1,4 @@
-## Getting Started
+### Getting Started
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
@@ -32,7 +32,7 @@ After inputting the access IP address, a user is directed to the login page wher
 The following video demonstrates how to successfully login to FundMaster from your browser: 
 
 <video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/fmlogin.mp4" type="video/mp4">
+  <source src="../.vuepress/public/videos/login.mp4" type="video/mp4">
 </video>
 
 
