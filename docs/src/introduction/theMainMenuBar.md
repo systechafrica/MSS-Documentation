@@ -55,3 +55,8 @@ system as shown below:
 
   -   Click **label 3** button to remove a selected product category.
 
+
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/login_tutorial" type="video/mp4">
+</video>

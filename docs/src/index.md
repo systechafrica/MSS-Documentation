@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster.png
+heroImage: https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster-500x500.png
 tagline: A knowledge base - This central repository provides relevant information on how to run various end-to-end processes in FundMaster and its peripheral products
 actionText: Get Started →
 actionLink: /introduction/
