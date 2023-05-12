@@ -4,10 +4,11 @@ To access FundMaster on your device, launch your preferred internet browser and 
 
 <img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd7.png"> 
 
+
 ## Login Process
 
 After inputting the access IP address, a user is directed to the login page where one is supposed to enter login credentials for authentication.
-git 
+
 **Note:** to successfully access the login page, the IP address must be correct and the local area connection stable. The following is a screenshot of the login page:
 
 <img  alt="Login Image" width="35%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd10.png">   
@@ -27,6 +28,15 @@ git
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
+## How to Login (video) 
+
+The following video demonstrates how to successfully login to FundMaster from your browser: 
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/login_tutorial" type="video/mp4">
+</video>
+
+
 ## Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
@@ -35,7 +45,7 @@ This is the dashboard (with the main menu and other controls) seen on a user’s
 
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
-
++
 
 | **No.** 	| **Interface Elements**    	| **Description**                                                                                                                                   	|
 |---------	|---------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -45,9 +55,20 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 4.    	| Main menu bar             	| This is the location of the major menu. Click to expand and display more menu items.                                                                                    	|
 | 5.    	| Scheme Setup link         	| A shortcut to launching the scheme setup module. Click to open the setup page.                                                                    	|
 | 6.    	| Investments link          	| A link to the Investments Module.                                                                                                                 	|
-| 7.    	| Workflow link             	| A link to the Workflow Module.                                                                                                                    	|
+| 7.    	| Workflow link             	| A link to the Workflow 
+
+.                                                                                                                    	|
 | 8.    	| Fees and Commission link  	| A link to the Fees and Commission Module.                                                                                                         	|
 | 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
 | 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
-| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
+| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                          |
+
+
+## Landing Page Walkthrough (video) 
+
+The following video demonstrates how to successfully login to FundMaster from your browser: 
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/fmlogin.mp4" type="video/mp4">
+</video>
