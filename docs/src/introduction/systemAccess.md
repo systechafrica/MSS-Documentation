@@ -31,7 +31,7 @@ After inputting the access IP address, a user is directed to the login page wher
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 
-<img  alt="Landing Page Image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png">  
+<img  alt="Landing Page" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png">  
 
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
@@ -51,3 +51,12 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
 | 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
 | 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
+
+
+## How to video
+
+The following video shows interface walk through in FundMaster landing page: 
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/landingpage.mp4" type="video/mp4">
+</video>
