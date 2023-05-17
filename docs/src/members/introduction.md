@@ -5,7 +5,7 @@ The Members Module enables the registration of members (contributors)into a sche
 Below is a screenshot of the Members Module dashboard with the left side panel expanded to reveal links to different configuration windows:
 
 
-<img  alt="Members module dashboard " width="95%" height="auto"  class="center"  src="../media3/memberslinks.png"> 
+<img  alt="Members module dashboard " width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/memberslinks.png"> 
 
 
 **Action**

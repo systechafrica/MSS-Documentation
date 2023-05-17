@@ -74,7 +74,7 @@ module.exports = {
           'batchMembersReport',
           'dashboardComponents',
           'gettingStarted',
-          'introduction',
+          'Introduction',
           'membersBenefitReport',     
         ],
       },

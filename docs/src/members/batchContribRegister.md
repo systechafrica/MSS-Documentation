@@ -2,7 +2,7 @@
 
 After batch contributions are successfully uploaded into the system, they are collectively saved in a register where all the members batch contributions are tabulated based on the different sponsors in the scheme. To open this register, click the **Batch Contributions Register** link to view batch records as shown below:
 
-<img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../media3/contri10.png"> 
+<img  alt="Batch Contributions Register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/contri10.png"> 
 
 
 **Action**
@@ -28,4 +28,4 @@ After batch contributions are successfully uploaded into the system, they are co
 
 To view contributions distribution to members accounts, check the **Show Details** checkbox found in a drop-down menu on the right upper corner of the window. This will display Extra details such as contributions allocation, batch exceptions and batch details on the lower section of the window as shown below:
 
-<img  alt="Batch Contribution Distribution to Members" width="95%" height="auto"  class="center"  src="../media3/contri11.png"> 
+<img  alt="Batch Contribution Distribution to Members" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/contri11.png"> 

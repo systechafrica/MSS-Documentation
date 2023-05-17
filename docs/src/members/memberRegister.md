@@ -2,7 +2,7 @@
 
 Clicking the **View Member** button will open the **Members Register** window where all members are listed under a selected sponsor as shown below:
 
-<img  alt="members register" width="95%" height="auto"  class="center"  src="../media3/memberregister.png"> 
+<img  alt="members register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/memberregister.png"> 
 
 
 **Action**
@@ -25,6 +25,6 @@ Clicking the **View Member** button will open the **Members Register** window wh
 
 Clicking the **Show Details** checkbox will add a section on the lower part of the window showing member's extra details e.g., contribution, beneficiaries, closing balances, etc. as shown below:
 
-<img  alt="members details" width="95%" height="auto"  class="center"  src="../media3/membercontriview.png"> 
+<img  alt="members details" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/membercontriview.png"> 
 
 

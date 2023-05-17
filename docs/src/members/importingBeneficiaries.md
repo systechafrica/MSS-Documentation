@@ -5,4 +5,4 @@ Every Member of a Scheme is expected to provide a list of beneficiaries who can 
 To import beneficiaries in batch, click the **Beneficiaries** link to load a Beneficiaries Import window as shown below:
 
 
-<img  alt="import beneficiaries in batch" width="90%" height="auto"  class="center"  src="../media3/beneficiaryupdate.png"> 
+<img  alt="import beneficiaries in batch" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media3/beneficiaryupdate.png"> 

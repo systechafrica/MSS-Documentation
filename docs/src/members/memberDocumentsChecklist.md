@@ -2,7 +2,7 @@
 
 For successful registration of members, the administrators of a scheme will need the members to submit specific documents as a requirement for the registration process. The screenshot below shows the window through which a list of such documents is displayed:
 
-<img  alt="Members Document Checklist" width="97%" height="auto"  class="center"  src="../media3/memberdocchecklist.png"> 
+<img  alt="Members Document Checklist" width="97%" height="auto"  class="center"  src="../.vuepress/public/img/media3/memberdocchecklist.png"> 
 
 
 **Action**
@@ -28,22 +28,22 @@ For successful registration of members, the administrators of a scheme will need
 
 To add a new document checklist, click the **New** button, as shown previous, to open a dialog box through which the details for a new document checklist are captured and saved as shown below:
 
-<img  alt="add memebr document" width="70%" height="auto"  class="center"  src="../media3/newdocchecklist.png"> 
+<img  alt="add memebr document" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media3/newdocchecklist.png"> 
 
 
 Clicking the **Process Checklist Application** button will open a dialog box through prompting for confirmation regarding the distribution of the document checklist to members as shown below:
 
-<img  alt="Process Checklist Application" width="60%" height="auto"  class="center"  src="../media3/confirmdocdistribution.png"> 
+<img  alt="Process Checklist Application" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media3/confirmdocdistribution.png"> 
 
 
 Click the **Yes** button to load another dialog box through which a document checklist is distributed to members based on the statutes selected from the drop-down list as shown below:
 
-<img  alt="member documents status" width="60%" height="auto"  class="center"  src="../media3/membersstatus.png"> 
+<img  alt="member documents status" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media3/membersstatus.png"> 
 
 
 Click the **What is this** button to open a new window displaying detailed information as shown below:
 
-<img  alt="tracking member document submission status" width="70%" height="auto"  class="center"  src="../media3/whatisthis.png"> 
+<img  alt="tracking member document submission status" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media3/whatisthis.png"> 
 
 
 ### Receiving Documents
@@ -55,4 +55,4 @@ Clicking the **Show Details** button (as shown previous) will display a new sect
 To upload a document, click the **Receive Document** button after selecting a member from the list. Otherwise, reverse a received document, and remove an application among other actions as shown below:
 
 
-<img  alt="Receive Document" width="95%" height="auto"  class="center"  src="../media3/docchecklistapp.png"> 
+<img  alt="Receive Document" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/docchecklistapp.png"> 

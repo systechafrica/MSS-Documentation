@@ -5,7 +5,7 @@ All members who have been registered in a scheme are listed in a members registe
 To view a list of existing members under different scheme sponsors, click the **Existing Members** link to open the Sponsors Register where all the sponsors in a scheme are managed as shown below:
 
 
-<img  alt="existing members" width="95%" height="auto"  class="center"  src="../media3/existingmembers.png"> 
+<img  alt="existing members" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/existingmembers.png"> 
 
 
 **Action**

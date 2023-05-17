@@ -2,7 +2,7 @@
 
 The Members Batch Register holds the details of the members who have been uploaded via a template. From the members batch register window, click the **Authorization** button to certify, authorize and approve a selected batch from the grid table. Then click the **Show Details** button on the upper right corner to load a new section on the lowers side of the window listing all members in the batch as shown below:
 
-<img  alt="members batch register" width="95%" height="auto"  class="center"  src="../media3/memberbatchreg.png"> 
+<img  alt="members batch register" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media3/memberbatchreg.png"> 
 
  
 **Action**
@@ -27,6 +27,6 @@ the list.
 
 Click the **Cancel Membership** button to open a new section listing all members whose membership has been revoked. To retore membership, select individuals from the grid table and click the **Restore Membership** button as shown below:
 
-<img  alt="members upload window" width="96%" height="auto"  class="center"  src="../media3/cancelledmembership.png"> 
+<img  alt="members upload window" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media3/cancelledmembership.png"> 
 
  
