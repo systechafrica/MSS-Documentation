@@ -5,7 +5,7 @@ Exit, Interest Formula, Interest Rates, B+enefits Configuration Matrix, End Year
 
 To access the Scheme Setup dashboard, click the **Scheme Setup** link on the FundMaster landing page to open the **Setup Links** Window as shown below:
 
-<img  alt="scheme setup dashboard image" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM44.jpg">  
+<img  alt="scheme setup dashboard image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM44.jpg">  
 
 
 **Action**
@@ -27,7 +27,7 @@ Access more Scheme configuration links from the left side panel of the **Setup L
 **Tip**
 - links are arranged into categories making the order of configurations convenient. See the screenshot shown below:
 
-<img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="![img](/img/media2/schemeM69.png)"> 
+<img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM69.png"> 
 
 
 **Action**

@@ -2,7 +2,7 @@
 
 Private equity describes investment partnerships that buy and manage companies before selling them. Private equity firms operate these investment funds on behalf of institutional and accredited investors. To view a list of private equities, see the screenshot below:
 
-<img  alt="list of Private equity" width="90%" height="auto"  class="center"  src="![img](/img/media8/image69.jpg">  
+<img  alt="list of Private equity" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image69.jpg">  
 
 
 **Action**

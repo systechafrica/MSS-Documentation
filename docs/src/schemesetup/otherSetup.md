@@ -2,28 +2,28 @@
 
 Configurations under **Other Setup** menu enables formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a drop-down submenu where various links are located:
 
-<img  alt="other setup links" width="100%" height="auto"  class="center"  src="![img](/img/media2/schemeM4.png)">
+<img  alt="other setup links" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM4.png">
 
 
 ## Pay Points
 
 Click the **Pay Points** link to open a Pay Points window and then click the **New Pay Point** button to capture details for a new Pay Point as shown below:
 
-<img  alt="pay points" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM3.png)">
+<img  alt="pay points" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM3.png">
 
 
 ## Pay Point Branches
 
 Click the **Pay Points Branches** link to open a Pay Points Branches window and then click the **Pay Point Branches** button to capture details for a new Pay Point Branch as shown below:
 
-<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="![img](/img/media2/paypointbranches.png)">
+<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/paypointbranches.png">
 
 
 ## Reasons for Exit
 
 Click the **Reasons for Exit** link to open the Reasons for Exit window where a grid table displaying various reasons for exit configurations. See scheenshot below: 
 
-<img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="![img](/img/media2/reasonsforexit.png)">
+<img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/reasonsforexit.png">
 
 
 **Tips**
@@ -35,33 +35,33 @@ members register module).
 
 Click the **New Reason for Exit** button to open a dialogue box through which a new exit reason is configured as shown below: 
 
-<img  alt="reasons for exit config box" width="65%" height="auto"  class="center"  src="![img](/img/media2/schemeM28.png)">
+<img  alt="reasons for exit config box" width="65%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM28.png">
 
 
 ## Interest Rates
 
 Click the **Interest Rates** link to open the Interest Rates window to view the details of rates already configured in the scheme as shown below: 
 
-<img  alt="interest rates" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM56.png)">
+<img  alt="interest rates" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM56.png">
 
 
 Clicking the **New Interest Rates** link from the **Operations** drop-down menu as shown in the previous screenshot will open a dialogue box through which a new interest rate can be defined as shown below:
 
-<img  alt="interst rates config box" width="65%" height="auto"  class="center"   src="![img](/img/media2/schemeM1.png)">
+<img  alt="interst rates config box" width="65%" height="auto"  class="center"   src="../.vuepress/public/img/media2/schemeM1.png">
 
 
 ## Interest Formula
 
 Click the **Interest Formula** link to open the Interest Formula window, then click the **New Formular** button to create a formular as shown below:
 
-<img  alt="interst formular window" width="90%" height="auto"  class="center"  src="![img](/img/media2/interestformula.png)">
+<img  alt="interst formular window" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/interestformula.png">
 
 
 ## Maximum Registered Contribution Configuration
 
 Click the **Max Registered Contribution** link to open the Maximum Registered Contribution window, then click the New Max Registered Contribution button to create a configuration as shown below:
 
-<img  alt="Maximum Registered Contribution Configuration" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM50.png)">
+<img  alt="Maximum Registered Contribution Configuration" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM50.png">
 
 
 **Tips**
@@ -72,4 +72,4 @@ Click the **Max Registered Contribution** link to open the Maximum Registered Co
 
 Clicking the **New Max Registered Contribution** button will load a dialogue box through which a new configuration is set as shown below:
 
-<img  alt="Maximum Registered Contribution config box" width="65%" height="auto"  class="center"  src="![img](/img/media2/maximumtaxfree.png')">
+<img  alt="Maximum Registered Contribution config box" width="65%" height="auto"  class="center"  src="../.vuepress/public/img/media2/maximumtaxfree.png">

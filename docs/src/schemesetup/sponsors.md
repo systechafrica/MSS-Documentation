@@ -2,14 +2,14 @@
 
 The word Sponsor is used in the system to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). The following section demonstrates how sponsors are created and managed in the system. Locate the Sponsors drop-down submenu as shown below:
 
-<img  alt="Sponsor" width="100%" height="auto"  class="center"  src="![img](/img/media2/schemeM65.png)">
+<img  alt="Sponsor" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM65.png">
 
 
 ## Importing Sponsors from a Template
 
 Click the **Import From Template** link to upload sponsors in batch using a template as shown in the screenshot below:
 
-<img  alt="Import From Template" width="85%" height="auto"  class="center"  src="![img](/img/media2/sponsorimport.png)">
+<img  alt="Import From Template" width="85%" height="auto"  class="center"  src="../.vuepress/public/img/media2/sponsorimport.png">
 
 
 **Action**
@@ -21,7 +21,7 @@ Click the **Import From Template** link to upload sponsors in batch using a temp
 
 A successful batch upload of sponsors from a template will result in a display of all uploaded sponsors details in a grid table as shown below:
 
-<img  alt="patch sponsors upload" width="85%" height="auto"  class="center"  src="![img](/img/media2/schemeM32.png)">
+<img  alt="patch sponsors upload" width="85%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM32.png">
 
 
 ## Sponsors List
@@ -31,21 +31,21 @@ Clicking the **Sponsors List** will open the sponsor’s window where sponsors�
 Click **New Sponsor** button to add a new employer, click the **Details** button to see the all the details of a selected sponsor on the list, and the Merge Selected to combine two or more sponsors into one. Finally, you can filter records by name, reference number, or by scheme as shown below:
 
 
-<img  alt="Sponsors List" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM11.png)">
+<img  alt="Sponsors List" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM11.png">
 
 
 ## New Sponsor
 
 Clicking the **New Sponsor** button will load a Sponsor Details dialogue box through which the employer’s data is captured into the system as shown below:
 
-<img  alt="Sponsors List" width="80%" height="auto"  class="center"  src="![img](/img/media2/schemeM40.png)">
+<img  alt="Sponsors List" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM40.png">
 
 
 ## Sponsor Approval
 
 After creating a Sponsor, the next step before the sponsor can officially be put on the register, is to approve them. To approve a sponsor, Click the **Sponsors Approval** link to open the Approval window as shown below:
 
-<img  alt="Sponsor Approval" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM21.png)">
+<img  alt="Sponsor Approval" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM21.png">
 
 
 **Action**
@@ -70,7 +70,7 @@ Supervisor’ set of configurations aid in capturing supervisors’ details for 
 
 Click the **Supervisors** link to open the Supervisors window where all the supervisors in a scheme are listed. From the **Operations** drop-down menu, click to **Add**, **Remove**, and **View** the details of a supervisor as shown in the screenshot below:
 
-<img  alt="Supervisors" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM67.png)">
+<img  alt="Supervisors" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM67.png">
 
 
 ## Cost Centers
@@ -79,7 +79,7 @@ Cost Centers are created to aid in the management of sponsors in a scheme with m
 
 To create a new cost center, click the **Cost Center** link to open the Cost Center window and then click the **New Cost Center** to create a new center as shown below:
 
-<img  alt="Cost Center" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM31.png)">
+<img  alt="Cost Center" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM31.png">
 
 
 ## Principal Officers
@@ -89,7 +89,7 @@ Principal Officer’s set of configurations aid in capturing schemes’ principa
 Click the **Principal Officer** link to open the Principal Officers window which displays a list of officers’ details in a grid table. Click the **New Principal Officer** button to open a dialog box and capture a new officer’s details in the system as shown in the screenshot below:
 
 
-<img  alt="principal officers" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM7.png)">
+<img  alt="principal officers" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM7.png">
 
 
 ## Member Classes
@@ -98,7 +98,7 @@ Member Classes are created to aid in the managementr of members in a scheme wher
 
 Click the **Member Classes** link to open the Member Classes window where a list of sponsors and their member classes are listed in a grid table. To create a new member class, click the **New Member Class** button to open a Member Class Details dialog box for capturing a new member class details as shown in the screenshot below:
 
-<img  alt="Member Classes" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM62.png)">
+<img  alt="Member Classes" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM62.png">
 
 
 ## Vesting Scales
@@ -107,7 +107,7 @@ In the event an employee resigns, the vesting scales configurations will aid in 
 
 Click the **Vesting Scales** link to open the Vesting Scales Window where different vesting configurations are listed as shown below:
 
-<img  alt="Vesting Scales" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM41.png)">
+<img  alt="Vesting Scales" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM41.png">
 
 
 **Action**
@@ -127,4 +127,4 @@ Click the **Vesting Scales** link to open the Vesting Scales Window where differ
 
 To create a new vesting scale, click the **New Vesting Scale** button to load a dialog box through which a new configuration can be set. Fill the dialog box with appropriate details as shown below:
 
-<img  alt="creating new Vesting Scales" width="70%" height="auto"  class="center"  src="![img](/img/media2/schemeM64.png)">
+<img  alt="creating new Vesting Scales" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM64.png">

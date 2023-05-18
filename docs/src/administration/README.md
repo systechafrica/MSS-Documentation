@@ -4,7 +4,7 @@ The administrative panel aids in the creation and management of system **User Pr
 
 Clicking the **Administrative Pane** link on the landing page will open the Admin Panel Links window as shown below:
 
-<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="![img](/img/media/adfd2.jpeg">  
+<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd2.jpeg">  
 
 
 **Action**

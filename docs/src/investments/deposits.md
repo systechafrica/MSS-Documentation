@@ -1,13 +1,13 @@
 ## Deposits
 
-<img  alt="deposits menu" width="98%" height="auto"  class="center"  src="![img](/img/media8/image53.jpg">  
+<img  alt="deposits menu" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image53.jpg">  
 
 
 ### Fixed Term Deposits
 
 A term deposit is a fixed-term investment that includes the deposit of money into an account at a financial institution. Term deposit investments usually carry short-term maturities ranging from one month to a few years and will have varying levels of required minimum deposits. To view a list of fixed term deposits, the screenshot below:
 
-<img  alt="Fixed Term Deposits" width="90%" height="auto"  class="center"  src="![img](/img/media8/image54.jpg">  
+<img  alt="Fixed Term Deposits" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image54.jpg">  
 
 
 **Action**
@@ -27,21 +27,21 @@ A term deposit is a fixed-term investment that includes the deposit of money int
 
 Clicking the **New Fixed Term** will open a dialog box through which a new fixed term can be created as shown below:
 
-<img  alt="new Term Deposits" width="90%" height="auto"  class="center"  src="![img](/img/media8/image55.jpg">  
+<img  alt="new Term Deposits" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image55.jpg">  
 
 
 #### Run Accrued Interest
 
 To process accrued interest for a fixed term, select the record or run process for all deposits as shown below:
 
-<img  alt="accrued interest" width="90%" height="auto"  class="center"  src="![img](/img/media8/image56.jpg">  
+<img  alt="accrued interest" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image56.jpg">  
 
 
 #### Posting a Fixed Term Deposit
 
 To post a transaction, select the record from the grid table and take actions as shown below:
 
-<img  alt="Posting a Fixed Term Deposit" width="95%" height="auto"  class="center"  src="![img](/img/media8/image57.jpg">  
+<img  alt="Posting a Fixed Term Deposit" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image57.jpg">  
 
 **Action**
 
@@ -61,21 +61,21 @@ To post a transaction, select the record from the grid table and take actions as
 
 A successful posted fixed term deposit acquisition transaction will look as shown in the screenshot below:
 
- <img  alt="successful Posting message" width="98%" height="auto"  class="center"  src="![img](/img/media8/image58.jpg">  
+ <img  alt="successful Posting message" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image58.jpg">  
 
 
 #### Printing Various Reports
 
 Click the print menu and from the drop-down click to print various reports as shown below:
 
- <img  alt="Printing Various Report" width="70%" height="auto"  class="center"  src="![img](/img/media8/image59.jpg">  
+ <img  alt="Printing Various Report" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image59.jpg">  
 
 
 ### Cash & Call Deposits
 
 Call deposits are basically accounts that require you to keep a minimum balance in exchange for a higher interest rate. Unlike time deposits, you have ready access to most of your cash, yet are still able to earn a higher return. To view a list of cash & call deposits, the screenshot below:
 
- <img  alt="Cash & Call Deposits window" width="95%" height="auto"  class="center"  src="![img](/img/media8/image60.jpg">  
+ <img  alt="Cash & Call Deposits window" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image60.jpg">  
 
 
 **Action**
@@ -99,31 +99,31 @@ Call deposits are basically accounts that require you to keep a minimum balance 
 
 Clicking the **New Cash & Call** from the Operations menu as shown below:
 
- <img  alt="new Cash & Call" width="90%" height="auto"  class="center"  src="![img](/img/media8/image61.jpg">  
+ <img  alt="new Cash & Call" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image61.jpg">  
 
 
 Clicking the link shown above will open a dialog box through which a new cash & call deposit can be created as shown below:
 
- <img  alt="new Cash & Call dialog box" width="90%" height="auto"  class="center"  src="![img](/img/media8/image62.jpg">  
+ <img  alt="new Cash & Call dialog box" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image62.jpg">  
 
 
 #### Run Accrued Interest
 
 To process accrued interest for a cash & call, select the record and click calculate accrued interest among other actions shown below:
 
- <img  alt="Run Accrued Interest for calls and deposits" width="90%" height="auto"  class="center"  src="![img](/img/media8/image63.jpg">  
+ <img  alt="Run Accrued Interest for calls and deposits" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image63.jpg">  
 
 
 Clicking the **Calculate** link will open a dialog box for defining the date of running the **interest** and **spot rate** as shown below:
 
- <img  alt="calculate interest" width="90%" height="auto"  class="center"  src="![img](/img/media8/image64.jpg">  
+ <img  alt="calculate interest" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image64.jpg">  
 
 
 #### Posting a Call & Cash deposit
 
 To post a transaction, select the record from the grid table and take actions as shown below:
 
- <img  alt="posting a call and cash deposit" width="95%" height="auto"  class="center"  src="![img](/img/media8/image65.jpg">  
+ <img  alt="posting a call and cash deposit" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image65.jpg">  
 
 
 **Action**
@@ -144,19 +144,19 @@ To post a transaction, select the record from the grid table and take actions as
 
 A successful posted transaction will look as shown in the screenshot below:
 
- <img  alt="successful posted of a cash ans call deposit interst" width="98%" height="auto"  class="center"  src="![img](/img/media8/image66.jpg">  
+ <img  alt="successful posted of a cash ans call deposit interst" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image66.jpg">  
 
 
 ## Other Investments
 
-<img  alt="other investments menu" width="98%" height="auto"  class="center"  src="![img](/img/media8/image67.jpg">  
+<img  alt="other investments menu" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image67.jpg">  
 
 
 ### Offshore Investments
 
 Offshore investments refer to a wide range of investment strategies that capitalize on advantages offered outside of an investor\'s home country. To view a list of Offshore investments, see the screenshot below:
 
-<img  alt=" list of Offshore investments" width="90%" height="auto"  class="center"  src="![img](/img/media8/image68.jpg">  
+<img  alt=" list of Offshore investments" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image68.jpg">  
 
 
 **Action**

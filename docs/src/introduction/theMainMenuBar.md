@@ -4,7 +4,7 @@ Clicking the hamburger icon on the upper-left corner of the landing page will en
 
 Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
 
-<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="![img](/img/media/adfd1.png)">  
+<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd1.png">  
 
 
  
@@ -28,7 +28,7 @@ Clicking the **Product Setup** link labelled 2(d), will open a window displaying
 Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
 
-<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="![img](/img/media/adfd15.png)">  
+<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd15.png">  
 
 
 **Action**
@@ -45,7 +45,7 @@ Clicking the **Product** tab will open a window displaying a list of all fund pr
 Clicking the **Product Category** tab will open a window displaying a list of all fund product categories. From this window, the details of each product category can be viewed, new product category added and removed from the
 system as shown below:
 
-<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="![img](/img/media/adfd18.png)">
+<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd18.png">
 
 **Action**
 

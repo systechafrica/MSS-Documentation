@@ -2,4 +2,4 @@
 
 Click the **Pension Calculation Parameters** link to open a dialog window and set the configurations as shown the screenshot below:
 
-<img  alt="Pension Calculation Parameters" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM30.png)"> 
+<img  alt="Pension Calculation Parameters" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM30.png"> 

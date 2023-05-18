@@ -4,17 +4,17 @@ After successfully approving a newly created scheme, one can go ahead and make i
 
 To switch schemes, first navigate back to the **Admin Panel links** window and click **Existing Users** as shown in the following screenshot:
 
-<img  alt="existing users link image" width="95%" height="auto"  class="center"  src="![img](/img/media2/M66.png')">
+<img  alt="existing users link image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/M66.png">
 
 
 Clicking the Admin Panels links will open the **Existing Users** window displaying a grid table listing all system users. Select the current user in the table and click the **Details** button as shown below:
 
-<img  alt="existing users image" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM72.png)"> 
+<img  alt="existing users image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM72.png"> 
 
 
 Clicking the Details button will open the **User Details** window which shows **Allowed Schemes**, **Sponsors** and **MemberClasses**. Click the appropriate link to perform the specific action as shown in the screenshot below:
 
-<img  alt="user details window image" width="80%" height="auto"  class="center"  src="![img](/img/media2/schemeM47.png)">
+<img  alt="user details window image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM47.png">
 
 
 **Action**
@@ -28,7 +28,7 @@ Clicking the Details button will open the **User Details** window which shows **
 
 Clicking the **Assign Schemes to User button** will open another window from which slected or all Scheme can be allowed for a user account as shown below:
 
-<img  alt="pick allowed scheme window image" width="80%" height="auto"  class="center"  src="![img](/img/media2/schemeM42.png)">
+<img  alt="pick allowed scheme window image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM42.png">
 
 
 **Action**
@@ -50,12 +50,12 @@ Clicking the **Assign Schemes to User button** will open another window from whi
 
 After assigning the new scheme to the current user account, navigate to the landing page and on the left side panel, click the **Switch Scheme** button as shown below:
 
-<img  alt="scheme switch" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM16.png)"> 
+<img  alt="scheme switch" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM16.png"> 
 
 
 Clicking this button will open a new window displaying all the available schemes the user can switch to as shown below:
 
-<img  alt="available schemes" width="80%" height="auto"  class="center"  src="![img](/img/media2/schemeM68.png)"> 
+<img  alt="available schemes" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM68.png"> 
 
 
 **Action**

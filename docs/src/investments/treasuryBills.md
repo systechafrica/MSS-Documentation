@@ -2,7 +2,7 @@
 
 Under the Government Securities sub menu, click the **Treasury Bills** option to view a grid table with a list of all the added bills in categories of maturity terms in years as shown below:
 
-<img  alt="Treasury Bills" width="90%" height="auto"  class="center"  src="![img](/img/media8/image44.jpg">  
+<img  alt="Treasury Bills" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image44.jpg">  
 
 
 **Action**
@@ -18,7 +18,7 @@ Under the Government Securities sub menu, click the **Treasury Bills** option to
 
 Corporate Bond are just like treasury bonds only that they are issued by private institutes. **Corporate bonds acquired can be viewed in a** grid table from the corporate bonds window as shown below:
 
-<img  alt="Corporate Bond" width="90%" height="auto"  class="center"  src="![img](/img/media8/image45.jpg">  
+<img  alt="Corporate Bond" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image45.jpg">  
 
 
 **Tips**
@@ -30,14 +30,14 @@ Corporate Bond are just like treasury bonds only that they are issued by private
 
 ### Issues Debts & Approved Issuers
 
-<img  alt="Issues Debts & Approved Issuers" width="90%" height="auto"  class="center"  src="![img](/img/media8/image46.jpg">  
+<img  alt="Issues Debts & Approved Issuers" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image46.jpg">  
 
 
 ### Issued Debts
 
 Under the Government Securities sub menu, click the **Issued Debts** option to open the Issued Debts Securities window where all issued securities are listed in a grid table as shown below:
 
-<img  alt="Issues Debt securities window" width="90%" height="auto"  class="center"  src="![img](/img/media8/image47.jpg">  
+<img  alt="Issues Debt securities window" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image47.jpg">  
 
 
 **Action**
@@ -53,19 +53,19 @@ Under the Government Securities sub menu, click the **Issued Debts** option to o
 
 Clicking the **New Debt(S)** menu (Single or batch) will open a dialog box through which a new bond - example of a single bond - is issued as shown below:
 
-<img  alt="new bond window" width="90%" height="auto"  class="center"  src="![img](/img/media8/image48.jpg">  
+<img  alt="new bond window" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image48.jpg">  
 
 
 #### Bond Acquisition
 
 To acquire a bond, select the bond from the Issued Debt Securities window, click the hamburger button on the right upper side and from the drop-down menu, select **Acquisition** then **Single Acquisition** as show below:
 
-<img  alt="single Bond Acquisition" width="90%" height="auto"  class="center"  src="![img](/img/media8/image49.jpg">  
+<img  alt="single Bond Acquisition" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image49.jpg">  
 
 
 Clicking the **Single Acquisition** button will open a dialog box to fill bond acquisition details as shown below:
 
-<img  alt="single Bond Acquisition dialog box" width="90%" height="auto"  class="center"  src="![img](/img/media8/image50.jpg">  
+<img  alt="single Bond Acquisition dialog box" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image50.jpg">  
 
 
 **Tip**
@@ -77,7 +77,7 @@ Clicking the **Single Acquisition** button will open a dialog box to fill bond a
 
 Under the Government Securities sub menu, click the **Approved Issuers** option to open the Approved Issuers window where all issuers of securities are listed in a grid table as shown below:
 
-<img  alt="Approved Issuers sub menu" width="90%" height="auto"  class="center"  src="![img](/img/media8/image51.jpg">  
+<img  alt="Approved Issuers sub menu" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image51.jpg">  
 
 
 **Action**
@@ -95,5 +95,5 @@ Under the Government Securities sub menu, click the **Approved Issuers** option 
 
 Clicking the **New Approved Issuers button** will open a dialog box through which a new issuer details are captured in the system as shown below:
 
-<img  alt="New approved issuers" width="90%" height="auto"  class="center"  src="![img](/img/media8/image52.jpg">  
+<img  alt="New approved issuers" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media8/image52.jpg">  
 
