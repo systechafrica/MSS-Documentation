@@ -9,4 +9,5 @@ dist
 .nyc_output
 .basement
 basement_dist
-.idea/
+.idea
+docs/src/.vuepress/dist
