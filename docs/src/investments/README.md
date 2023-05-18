@@ -7,7 +7,7 @@ The features of the module include: A Property sub-module that handles all aspec
 
 To access the investments Module dashboard, click the **Investments Module** link on the FundMaster landing page to open **Investments Links** window shown below:
 
-<img  alt="investments dashboard image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media7/image1.png">  
+<img  alt="investments dashboard image" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media7/image1.png)">  
 
 
 **Action**

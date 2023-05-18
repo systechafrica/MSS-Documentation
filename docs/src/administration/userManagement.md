@@ -7,7 +7,7 @@ User accounts are individual accounts for the system users. User accounts are as
 
 Clicking the **Existing Users** link will open the Existing Users window where a grid table listing all system users and their specific details are displayed as shown below:
 
-<img  alt="system users image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd21.png">  
+<img  alt="system users image" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd21.png)">  
 
 
 **Action**
@@ -33,7 +33,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 
 Clicking the **New User** button will open a New User Details dialog box. To successfully create a new user, the fields marked with a red asterisk must be filled with relevant details as shown in the following screenshot:
 
-<img  alt="new user image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd14.png">  
+<img  alt="new user image" width="80%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd14.png)">  
 
 
 **Action**
@@ -49,7 +49,7 @@ Clicking the **New User** button will open a New User Details dialog box. To suc
 
 Clicking the **Allowed Scheme** tab will display a grid table listing all the schemes that a user has access to. From this window, a list of all schemes available in the system can be accessed by clicking the **Assign Schemes to User** button as shown in the next screenshot:
 
-<img  alt="schemes to user image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd8.png">  
+<img  alt="schemes to user image" width="80%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd8.png)">  
 
 
 **Action**
@@ -68,7 +68,7 @@ Clicking the **Assign Scheme to User** tab will open a grid table listing all th
 
 Locate the button on the upper-right side from which selected schemes or all schemes in the list can be picked and assigned to a user as shown in the screenshot below:
 
-<img  alt="assign schemes to user image" width="85%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd20.png">  
+<img  alt="assign schemes to user image" width="85%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd20.png)">  
 
 
 **Action**

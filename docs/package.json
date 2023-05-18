@@ -10,7 +10,7 @@
   "repository": "https://github.com/systechafrica/FundMaster-Knowledgebase",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src",
+    "build": "vuepress build src && cp -R src/.vuepress/dist/ ./dist",
     "deploy": "vuepress deploy"
   },
   "license": "MIT",

@@ -5,7 +5,7 @@ Actuarial set of configurations aids in setting up actuarial factors that are us
 
 Click on the links under the drop-down submenu as shown in the screenshot below to set fixed factors and annuity rates.
 
-<img  alt="actuarial links" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM17.png">  
+<img  alt="actuarial links" width="100%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM17.png)">  
 
 
 ### Fixed Factors
@@ -14,7 +14,7 @@ Fixed factors are provided by the scheme actuaries and aid in the calculation of
 
 Click the **Fixed Factors** link to open the fixed factors window to view a list of set factors and to create new factors as shown below:
 
-<img  alt="fixed factors" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM17a.png"> 
+<img  alt="fixed factors" width="100%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM17a.png)"> 
 
 
 **Action**
@@ -35,7 +35,7 @@ Annuity rates are provided by the third-party insurance companies with the help 
 Click the **Annuity Rates** link to open the Annuity Rates window and set **New Rates** as shown below:
 
 
-<img  alt="annuity rates" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM17b.png">  
+<img  alt="annuity rates" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM17b.png)">  
 
 
 **Action**

@@ -2,7 +2,7 @@
 
 To access additional system administration panel settings, see the expandable menu bar on the left side. Click the links labeled 1 to 10 to open the appropriate windows where the respective configurations are set as shown in the screenshot below: 
 
-<img  alt="password policy image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd13.png">  
+<img  alt="password policy image" width="70%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd13.png)">  
 
 
 

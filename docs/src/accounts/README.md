@@ -6,7 +6,7 @@ Among the key configurations done in this module includes functionalities such a
 
 To access the Accounts Module dashboard, click the **Accounts Module** link on the FundMaster landing page to open the **Accounts Links** window as shown below:
 
-<img  alt="Accounts Module" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media4/acc001.png"> 
+<img  alt="Accounts Module" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media4/acc001.png)"> 
 
 
 **Action**

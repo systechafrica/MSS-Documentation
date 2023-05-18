@@ -9,7 +9,7 @@ Clicking the **Notifications** link labeled 3, will display a drop-down menu fro
 
 Check the **Yes** or **No** checkbox on the listed items enclosed under label 1, otherwise, choose whether to make the configurations global or not under the text box labeled 2 as shown in the screenshot below:
 
-<img  alt="notification configuration matrix image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd5.png">  
+<img  alt="notification configuration matrix image" width="80%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd5.png)">  
 
 
 **Action**
@@ -25,7 +25,7 @@ Check the **Yes** or **No** checkbox on the listed items enclosed under label 1,
 
 The system allows administrators to design notifications templates in such a way that instead of writing a notification to every recipient individually, keywords (e.g., member name, member number etc. are dynamically embedded in a message from the database to enable sending of a copy to a list of members in a click. See a grid table listing available templates on the screenshot below:
 
-<img  alt="notifications template image" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd6.png">  
+<img  alt="notifications template image" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd6.png)">  
 
 
 **Action**
@@ -39,7 +39,7 @@ The system allows administrators to design notifications templates in such a way
 
 Clicking the **New** button will open a dialogue box where a new email notification template can be configured as shown below:
 
-<img  alt="notifications template design" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/notificationtempdesign.png">  
+<img  alt="notifications template design" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/notificationtempdesign.png)">  
 
 
 **Tip**

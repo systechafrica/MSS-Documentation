@@ -2,7 +2,7 @@
 
 Click the **Other Pension Parameters** link to open a dialog window and set the configurations for Lumpsum Tax Free and other related items as shown the screenshot below:
 
-<img  alt="Other Pension Parameters" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM23.png">  
+<img  alt="Other Pension Parameters" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM23.png)">  
 
 
 **Action**
