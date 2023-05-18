@@ -3,10 +3,20 @@
   "version": "0.0.1",
   "description": "system help Documentation",
   "main": "index.js",
-  "authors": {
-    "name": "Martin K",
-    "email": "martin.mutuma@systechafrica.com"
-  },
+  "authors": [
+    {
+      "name": "Martin K",
+      "email": "martin.mutuma@systechafrica.com"
+    },
+    {
+      "name": "Tracey",
+      "email": "tracey.nduta@systechafrica.com"
+    },
+    {
+      "name": "Simon Kimathi",
+      "email": "simon.kimathi@systechafrica.com"
+    }
+  ],
   "repository": "https://github.com/systechafrica/FundMaster-Knowledgebase",
   "scripts": {
     "dev": "vuepress dev docs/src",
