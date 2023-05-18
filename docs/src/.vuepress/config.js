@@ -42,5 +42,6 @@ module.exports = {
     ],
     sidebar:require('./sidebar.js'),
   },
+  base:'/FundMaster-Knowledgebase/'
 };
   
