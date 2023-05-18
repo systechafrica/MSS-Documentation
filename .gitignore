@@ -8,5 +8,6 @@ dist
 .DS_Store
 .nyc_output
 .basement
-config.local.js
 basement_dist
+.idea
+docs/src/.vuepress/dist

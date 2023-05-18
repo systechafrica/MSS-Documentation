@@ -1,5 +1,21 @@
 {
+  "name": "FundMaster_Documentation",
+  "version": "0.0.1",
+  "description": "system help Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Martin K",
+    "email": "martin.mutuma@systechafrica.com"
+  },
+  "repository": "https://github.com/systechafrica/FundMaster-Knowledgebase",
+  "scripts": {
+    "dev": "vuepress dev docs/src",
+    "build": "vuepress build docs/src",
+    "deploy": "vuepress deploy"
+  },
+  "license": "MIT",
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "vuepress": "^1.5.3"
   }
 }

@@ -10,9 +10,9 @@ To set parameters for these items, locate the **Contribution Configuration Matri
 
 Clicking this link will open the Contribution Configuration Matrix dialog box where the **Severance Due Entitlement** parameters are configured as shown below:
 
-<img  alt="Severance Due Entitlement" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM24.png"> 
+<img  alt="Severance Due Entitlement" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM24.png">
 
 
 Clicking the **UnderPayments Threshold** tab will allow configuration of details pertaining contribution under payments as shown below:
 
-<img  alt="UnderPayments Threshold" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM43.png"> 
+<img  alt="UnderPayments Threshold" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM43.png">

@@ -4,7 +4,7 @@ To create a new scheme, click the **New Scheme** link to load a **Scheme Details
 as shown below:
 
 
-<img  alt="internet access protocal image" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM26.png">  
+<img  alt="internet access protocal image" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM26.png"> 
 
 
 **Tip**

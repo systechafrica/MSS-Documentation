@@ -27,7 +27,7 @@ Access more Scheme configuration links from the left side panel of the **Setup L
 **Tip**
 - links are arranged into categories making the order of configurations convenient. See the screenshot shown below:
 
-<img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM69.png">  
+<img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM69.png"> 
 
 
 **Action**

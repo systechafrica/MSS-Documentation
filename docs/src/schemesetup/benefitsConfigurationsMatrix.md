@@ -2,7 +2,7 @@
 
 The Benefits Configuration Matrix is a tool that aids in setting the laid down rules or procedures in the trust deed and rules regarding each of the item in the drop-down submenu as shown in the screenshot below:
 
-<img  alt="Benefits configuration matrix" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM10.png">  
+<img  alt="Benefits configuration matrix" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM10.png"> 
 
 
 ## Withdrawals
@@ -64,7 +64,7 @@ Click the **Withdrawals** link to open a Withdrawal Configurations Matrix dialog
 
 Clicking on the **Death Claim Configuration** link to open a Death Claim Configuration Matrix dialog box where a set of parameters informing death claims are set. See the parameters descriptions after the screenshot below: 
 
-<img  alt="Death Claim Configuration" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM60.png">  
+<img  alt="Death Claim Configuration" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM60.png"> 
 
 
 **Action**
@@ -123,21 +123,21 @@ Clicking on the **Death Claim Configuration** link to open a Death Claim Configu
 
 Click the **Minors Funds Configurations** link to open a Minors Funds Configurations dialog window and set the configurations as shown the screenshot below:
 
-<img  alt="Minors Funds Configurations" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM45.png">  
+<img  alt="Minors Funds Configurations" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM45.png"> 
 
 
 ## Retirements
 
 Click the **Retirements** link to open a Retirement Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
-<img  alt="Retirements" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM76.png">  
+<img  alt="Retirements" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM76.png"> 
 
 
 ##  Medical
 
 Click the **Medical** link to open a Medical Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
-<img  alt="Medical" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM36.png">  
+<img  alt="Medical" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM36.png"> 
 
 
 **Parameter Description**
@@ -157,7 +157,7 @@ Click the **Medical** link to open a Medical Configuration Matrix dialog window 
 
 Click the **Claims Computation** link to load the dialogue box through which the settings are configured as shown below:
 
-<img  alt="Claim Computation" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM6.png">  
+<img  alt="Claim Computation" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM6.png"> 
 
 
 **Tip**
@@ -171,4 +171,4 @@ The trivial pension is the minimum pension amount that can be paid to a scheme m
 
 Click the **Trivial Pension Configurations** link to open a Trivial Pensions Configurations dialog window and set the configurations as shown the screenshot below:
 
-<img  alt="Trivial Pension Configurations" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM79.png">  
+<img  alt="Trivial Pension Configurations" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM79.png"> 

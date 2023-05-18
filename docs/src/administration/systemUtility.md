@@ -2,14 +2,14 @@
 
 Configurations under system utility enable configurations related to FundMaster integration with other systems. To configure specific utilities, click the enclosed links to open configuration dialogue boxes as shown below:
 
-<img  alt="System Utility menu" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd22.png">  
+<img  alt="System Utility menu" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd22.png"> 
 
 
 ## Report Settings
 
 Click the **Report Server** link to open a **Report Server Config** dialogue box to configure setting that enable FundMaster to connect to a report server as shown in the screenshot below:
 
-<img  alt="Report server image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd23.png">  
+<img  alt="Report server image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd23.png"> 
 
 
 ### Reports Configurations
@@ -40,7 +40,7 @@ Click the **Report Server** link to open a **Report Server Config** dialogue box
 
 Clicking the **New Configuration** button will open a dialog box where settings for a new report configurations are done as shown below:
 
-<img  alt="New Report configurations image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd25.png">  
+<img  alt="New Report configurations image" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd25.png"> 
 
 
 ### Uploading report logos
