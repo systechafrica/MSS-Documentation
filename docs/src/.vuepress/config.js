@@ -42,12 +42,6 @@ module.exports = {
     ],
     sidebar:require('./sidebar.js'),
   },
-  configureWebpack: {
-    resolve: {
-      alias: {
-        '@alias': './public'
-      }
-    }
-  }
+  base:'/FundMaster-Knowledgebase/'
 };
   

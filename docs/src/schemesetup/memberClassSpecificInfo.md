@@ -4,14 +4,14 @@ These configurations inform how a member of a particular class in a scheme is to
 
 The screenshot below shows a drop-down submenu with links through which different setups are done:
 
-<img  alt="Member Class Specific Info" width="100%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM59.png)"> 
+<img  alt="Member Class Specific Info" width="100%" height="auto"  class="center"  src="![img](/img/media2/schemeM59.png)">
 
 
 ## Contribution Rates
 
 To set contribution rates, click the **Contribution Rates** link and then click the **New Contribution Rates** button to add a new rate as shown below:
 
-<img  alt="New Contribution Rates window" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM71.png)"> 
+<img  alt="New Contribution Rates window" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM71.png)">
 
 
 **Action**
@@ -31,7 +31,7 @@ To set contribution rates, click the **Contribution Rates** link and then click 
 
 Clicking the **New Contribution Rates** button labeled 1, will load a **Contribution Rates** **Details** dialogue box through which a new Rate can be configured as shown below:
 
-<img  alt="Contribution Rates settings" width="70%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM13.png)"> 
+<img  alt="Contribution Rates settings" width="70%" height="auto"  class="center"  src="![img](/img/media2/schemeM13.png)">
 
 
 **Tip**
@@ -45,7 +45,7 @@ Retirement Age configurations are set to categorize the different types of retir
 
 Click the **Retirement Ages** link to open retirement ages window and view already configured retirement ages, add a new configuration, delete and certify selected records from the list as show below:
 
-<img  alt="Retirement Ages" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM70.png)"> 
+<img  alt="Retirement Ages" width="95%" height="auto"  class="center"  src="![img](/img/media2/schemeM70.png)">
 
 
 **Action**
@@ -61,11 +61,11 @@ Click the **Retirement Ages** link to open retirement ages window and view alrea
 
 Clicking the New Retirement Age button will open a dialogue box. Fill in the details to create a new retirement age as shown below:
 
-<img  alt="Retirement Ages configs box" width="70%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM52.png)"> 
+<img  alt="Retirement Ages configs box" width="70%" height="auto"  class="center"  src="![img](/img/media2/schemeM52.png)">
 
 
 ## Eligible Ages
 
 Eligibility age is a configuration set to determine who can be allowed in a member class in terms of age limits. Fill in the details to create a new member eligibility age as shown below:
 
-<img  alt="Eligibility age configs window" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media2/schemeM57.png)"> 
+<img  alt="Eligibility age configs window" width="90%" height="auto"  class="center"  src="![img](/img/media2/schemeM57.png)">

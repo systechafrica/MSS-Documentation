@@ -3,11 +3,11 @@ After uploading pensioners successfully, as show in the previous screenshot, the
 
 To approve uploaded pensioners, click the **Pensioners Approval** link to load a window with a grid table showing all uploaded pensioners ready for approval as shown in the screenshot below:
 
-<img  alt="approval" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media10/5.png)"> 
+<img  alt="approval" width="90%" height="auto"  class="center"  src="![img](/img/media10/5.png)">
 
 From the pensioners approval window, select a pensioner from the grid table and take a number of actions as shown below: 
 
-<img  alt="approval" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media10/6.png)"> 
+<img  alt="approval" width="90%" height="auto"  class="center"  src="![img](/img/media10/6.png)">
 
 **Action**
 
@@ -19,7 +19,7 @@ From the pensioners approval window, select a pensioner from the grid table and 
 
 **Note:** when a selected pensioner is approved by clicking the **Approve Selected** button, as shown previously, the pensioner will be moved to the **Pensioners Register** as shown below:
 
-<img  alt="approval" width="90%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media10/7.png)"> 
+<img  alt="approval" width="90%" height="auto"  class="center"  src="![img](/img/media10/7.png)">
 
 
 

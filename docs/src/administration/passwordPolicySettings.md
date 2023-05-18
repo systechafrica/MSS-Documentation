@@ -2,7 +2,7 @@
 
 Clicking the **Password Policy Settings** link will open a dialog box, allowing one to set a new password policy as shown below:
 
-<img  alt="password policy image" width="70%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd9.png)">  
+<img  alt="password policy image" width="70%" height="auto"  class="center"  src="![img](/img/media/adfd9.png)"> 
 
 
 **Action**

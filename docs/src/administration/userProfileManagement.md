@@ -9,7 +9,7 @@ Profiles store specific users or groups of users with separate roles, e.g., mana
 
 Clicking the **Profiles** link will open the profile’s grid table where profiles created in the system to date are listed. A user can browse through the list, create a new profile, view details of a selected profile and remove a profile from the system as shown in the screenshot below:
 
-<img  alt="profile register image" width="80%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd11.png)">  
+<img  alt="profile register image" width="80%" height="auto"  class="center"  src="![img](/img/media/adfd11.png)"> 
 
 
 **Action**
@@ -27,7 +27,7 @@ Clicking the **Profiles** link will open the profile’s grid table where profil
 
 Clicking the **New Profile** tab will open a dialogue box. Through this, a new profile can be created by providing the profile name and a description as shown below:
 
-<img  alt="New profile creation image" width="70%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd4.png)">  
+<img  alt="New profile creation image" width="70%" height="auto"  class="center"  src="![img](/img/media/adfd4.png)"> 
 
 
 ## Enabling Profile Permissions
@@ -41,7 +41,7 @@ individual module.
 Clicking the **Profile Permissions** link will open the profiles permission grid table where permissions are assigned to profiles. The table provides drop-down menus to choose profiles and the modules whose permissions are to be assigned to
 a profile among others as shown below:
 
-<img  alt="profile permissions image" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd19.png)">  
+<img  alt="profile permissions image" width="95%" height="auto"  class="center"  src="![img](/img/media/adfd19.png)"> 
 
 
 **Action**
@@ -57,7 +57,7 @@ a profile among others as shown below:
 
 After clicking the **Filter** button, a grid table listing all **Permissions** in a selected Module will be displayed. Select Permission from the list and click the **Enable** button to activate the sub-functions in that Profile. Otherwise, click the **Disable** button to deactivate a Permission. 
 
-<img  alt="enable permissions image" width="95%" height="auto"  class="center"  src="![Image from alias](~@alias/img/media/adfd16.png)">  
+<img  alt="enable permissions image" width="95%" height="auto"  class="center"  src="![img](/img/media/adfd16.png)"> 
 
 
 **Action**
