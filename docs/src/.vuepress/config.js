@@ -1,11 +1,11 @@
 const { description } = require('../../package');
 
 module.exports = {
-  logo: "https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster-500x500.png)",
+  logo: "/img/logo/fundmaster-hero-image.png",
   title: 'FundMaster Xe',
   description: description,
   themeConfig: {
-    logo: "https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster-500x500.png)",
+    logo: "/img/logo/fundmaster-hero-image.png",
     searchPlaceholder: 'Search...',
     search:true,
     lastUpdated: 'Last Updated',
