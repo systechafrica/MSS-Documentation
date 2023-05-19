@@ -30,7 +30,7 @@ After inputting the access IP address, a user is directed to the login page wher
 The following video demonstrates how to successfully login to FundMaster from your browser: 
 
 <video width="640" height="340" controls>
-  <source src="![An image]/img/videos/login.mp4" type="video/mp4">
+  <source src="../.vuepress/public/videos/login.mp4" type="video/mp4">
 </video>
 
 
@@ -65,5 +65,5 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 The following video shows interface walk through in FundMaster landing page: 
 
 <video width="640" height="340" controls>
-  <source src="![An image]/img/videos/landingpage.mp4" type="video/mp4">
+  <source src="../.vuepress/public/videos/landingpage.mp4" type="video/mp4">
 </video>
