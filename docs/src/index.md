@@ -20,5 +20,5 @@ FundMaster Xe 'how to' tutorials.
 - [Quick Video Tutorial](https://www.systechafrica.com)
 ---
  ::: slot footer
- Licensed | Copyright © 2023 [Systech Africa Ltd](https://systechafrica.com/)
+ Licensed | Copyright © 2023 [Systech Limited](https://systechafrica.com/)
 :::
