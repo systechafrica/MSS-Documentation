@@ -2,7 +2,7 @@
 
 The following screenshot shows the member dashboard that consists of a menu bar on the left side and main sections with summarized information.
 
-<img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media9/dashreport.png"> 
+<img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media9/dashreport.png">
 
 The numbered sections in this screenshot above correspond to the numbers in the following table that describe the key components of the Reports module dashboard.
 

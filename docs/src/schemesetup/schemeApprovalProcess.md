@@ -2,14 +2,14 @@
 
 After a scheme is created, the next step is to approve it by first providing a checklist for necessary documents and then approving the scheme. From the Setup Links left side panel, click the appropriate link as shown below:
 
-<img  alt="scheme approval links" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM51.png">  
+<img  alt="scheme approval links" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM51.png"> 
 
 
 ## Scheme Documents Checklist
 
 Click the **Scheme Documents Checklist** link to open the window through which the management of such document is done as shown below:
 
-<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM8.png"> 
+<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM8.png">
 
 
 **Action**
@@ -25,7 +25,7 @@ Click the **Scheme Documents Checklist** link to open the window through which t
 
 Clink the **Scheme Approval** link to open the window through which the verification and certification of the scheme is done among other actions as shown below:
 
-<img  alt="Scheme Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM2.png">  
+<img  alt="Scheme Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM2.png"> 
 
 
 **Action**
@@ -47,7 +47,7 @@ Clink the **Scheme Approval** link to open the window through which the verifica
 
 Clicking the **Checklist Validation** button will open a **Schemes Document Approval** dialog box where documents can be searched from the list, received, and downloaded as shown below:
 
-<img  alt="Checklist Validation" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM27.png">  
+<img  alt="Checklist Validation" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM27.png"> 
 
 
 **Action**
@@ -63,4 +63,4 @@ Clicking the **Checklist Validation** button will open a **Schemes Document Appr
 
 Clicking the **Receive Documents(s)** button will allow a user to upload a file from his/her device through the dialog box shown below:
 
-<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM73.png">  
+<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM73.png"> 

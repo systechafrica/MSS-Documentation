@@ -2,7 +2,7 @@
 
 To generate members statement report for all members (a batch) in a scheme, follow the steps highlighted in the sample screenshot below:
 
-<img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media9/batchreport.png"> 
+<img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media9/batchreport.png">
 
 **Action**
 

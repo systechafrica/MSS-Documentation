@@ -1,117 +1,91 @@
 module.exports = {
-    '/introduction/': [
-      {
-        text: 'Introduction',
-        children: [
-          '',
-          'theMainMenuBar', 
-        ],
-      },
-    ],
-    
-
-    '/administration/': [
-      {
-        text: 'administration',
-        children: [
-          '',
-          'auditTrail',
-          'email',
-          'notifications',
-          'otherAdminSettings',
-          'passwordPolicySettings',
-          'sms',
-          'systemRights',
-          'systemUtility',
-          'userManagement',
-          'userProfileManagement',
-        ],
-      },
-    ],
-
-
-    '/acccounts/': [
-      {
-        text: 'accounts',
-        children: [
-          '',
-          'budget',
-          'cashManagement',
-          'creditorsDebtors',
-          'fixedAssets',
-          'generalLedger',
-          'intro',
-          'journals',
-          'payablesPayments',
-          'receivableReceipts',
-          'setup',
-        ],
-      },
-    ],
-
-
-    '/pensioners/': [
-      {
-        text: 'Pensioners',
-        children: [
-          '',
-          'approval',
-          'deductionAndArrears',
-          'introduction',
-          'liabilities',
-          'onboarding',
-          'payroll',      
-        ],
-      },
-    ],
-
-  
-    '/reports/': [
-      {
-        text: 'reports',
-        children: [
-          '',
-          'batchMembersReport',
-          'dashboardComponents',
-          'gettingStarted',
-          'Introduction',
-          'membersBenefitReport',     
-        ],
-      },
-    ],
-
-
-    '/workflow/': [
-      {
-        text: 'workflow',
-        children: [
-          '',
-          'adminPanel',
-          'analysis',
-          'intro',
-          'taskMgt',     
-        ],
-      },
-    ],
-
-
-    '/investments/': [
-      {
-        text: 'investments',
-        children: [
-          '',
-          'bond&Securities',
-          'deposits',
-          'equity',
-          'fundManagement',
-          'intro',
-          'posting',
-          'privateEquities',
-          'property',
-          'treasuryBills',
-        ],
-      },
-    ],
- 
-  };
-  
+  '/': [
+    {
+      title: 'Introduction',
+      children: [
+        '/introduction/',
+        '/introduction/theMainMenuBar',
+      ],
+    },
+    {
+      title: 'Administration',
+      children: [
+        '/administration/',
+        '/administration/auditTrail',
+        '/administration/email',
+        '/administration/notifications',
+        '/administration/otherAdminSettings',
+        '/administration/passwordPolicySettings',
+        '/administration/sms',
+        '/administration/systemRights',
+        '/administration/systemUtility',
+        '/administration/userManagement',
+        '/administration/userProfileManagement',
+      ],
+    },
+    {
+      title: 'Accounts',
+      children: [
+        '/accounts/',
+        '/accounts/budget',
+        '/accounts/cashManagement',
+        '/accounts/creditorsDebtors',
+        '/accounts/fixedAssets',
+        '/accounts/generalLedger',
+        '/accounts/intro',
+        '/accounts/journals',
+        '/accounts/payablesPayments',
+        '/accounts/receivableReceipts',
+        '/accounts/setup',
+      ],
+    },
+    {
+      title: 'Pensioners',
+      children: [
+        '/pensioners/',
+        '/pensioners/approval',
+        '/pensioners/deductionAndArrears',
+        '/pensioners/introduction',
+        '/pensioners/liabilities',
+        '/pensioners/onboarding',
+        '/pensioners/payroll',
+      ],
+    },
+    {
+      title: 'Reports',
+      children: [
+        '/reports/',
+        '/reports/batchMembersReport',
+        '/reports/dashboardComponents',
+        '/reports/gettingStarted',
+        '/reports/Introduction',
+        '/reports/membersBenefitReport',
+      ],
+    },
+    {
+      title: 'Workflow',
+      children: [
+        '/workflow/',
+        '/workflow/adminPanel',
+        '/workflow/analysis',
+        '/workflow/intro',
+        '/workflow/taskMgt',
+      ],
+    },
+    {
+      title: 'Investments',
+      children: [
+        '/investments/',
+        '/investments/bond&Securities',
+        '/investments/deposits',
+        '/investments/equity',
+        '/investments/fundManagement',
+        '/investments/intro',
+        '/investments/posting',
+        '/investments/privateEquities',
+        '/investments/property',
+        '/investments/treasuryBills',
+      ],
+    },
+  ],
+};

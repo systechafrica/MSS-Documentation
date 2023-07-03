@@ -2,13 +2,13 @@
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
-<img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd7.png"> 
+<img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd7.png">
 
 After inputting the access IP address, a user is directed to the login page where one is supposed to enter login credentials for authentication.
 
 **Note:** to successfully access the login page, the IP address must be correct and the local area connection stable. The following is a screenshot of the login page:
 
-<img  alt="Login Image" width="35%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd10.png">   
+<img  alt="Login Image" width="35%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd10.png">  
 
   
 **Action**
@@ -38,7 +38,7 @@ The following video demonstrates how to successfully login to FundMaster from yo
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 
-<img  alt="Landing Page Image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png">  
+<img  alt="Landing Page Image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media/adfd17.png"> 
 
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
