@@ -58,5 +58,5 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 The following video shows interface walk through in FundMaster landing page: 
 
 <video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/landingpage.mp4" type="video/mp4">
+  <source src="../.vuepress/public/videos/landing-page-fm.mp4" type="video/mp4">
 </video>
