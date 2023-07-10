@@ -71,3 +71,12 @@ After clicking the **Filter** button, a grid table listing all **Permissions** i
 -	Click the button **labelled 7** to undo the inherited process.
 
 -	Select an option from the print drop-down menu **labelled 8** to view a print layout copy of Permission details.
+
+
+## How to video
+
+The following video shows how to create a user profile and work with permissions: 
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/user-profiles.mp4" type="video/mp4">
+</video>
