@@ -21,3 +21,4 @@ The following video shows interface walk through in FundMaster Admin Panel Modul
 <video width="640" height="340" controls>
   <source src="../.vuepress/public/videos/admin-module.mp4" type="video/mp4">
 </video>
+
