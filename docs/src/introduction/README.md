@@ -27,7 +27,11 @@ After inputting the access IP address, a user is directed to the login page wher
 
 ## How to video
 
-The following video demonstrates how to successfully login to FundMaster from your browser: 
+The following video demonstrates how to successfully login to FundMaster from your browser:
+
+<video width="640" height="340" controls>
+  <source src="../.vuepress/public/videos/login.mp4" type="video/mp4">
+</video> 
 
 
 
