@@ -75,7 +75,7 @@ After clicking the **Filter** button, a grid table listing all **Permissions** i
 
 ## How to video
 
-The following video shows how to create a user profile and work with permissions: 
+The following video shows how to create a user profile and enable/disable gpermissions: 
 
 <video width="640" height="340" controls>
   <source src="../.vuepress/public/videos/user-profiles.mp4" type="video/mp4">
