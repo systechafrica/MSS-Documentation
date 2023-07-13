@@ -61,7 +61,7 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                           |
 
 
-## How to video
+## Landing Page walk through video
 
 The following video shows interface walk through in FundMaster landing page: 
 
