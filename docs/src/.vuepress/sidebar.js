@@ -11,8 +11,9 @@ module.exports = {
       title: 'Administration',
       children: [
         '/administration/',
-        '/administration/userManagement',
-        '/administration/userProfileManagement',
+        '/administration/usersRegister',
+        '/administration/profilesRegister',
+        '/administration/profilePermissions',
         '/administration/passwordPolicySettings',
         '/administration/notifications',
         '/administration/sms',

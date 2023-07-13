@@ -1,4 +1,4 @@
-## User Accounts
+## Users Register
 
 User accounts are individual accounts for the system users. User accounts are assigned to specific profiles which define the permissions assigned to a user to allow access to specific system functions.
 
