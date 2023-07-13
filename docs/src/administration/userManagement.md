@@ -1,4 +1,4 @@
-## Creating User Accounts
+## User Accounts
 
 User accounts are individual accounts for the system users. User accounts are assigned to specific profiles which define the permissions assigned to a user to allow access to specific system functions.
 
@@ -29,7 +29,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 -   Click **label 8** button to view a print copy of users details.
 
 
-## Adding a New User
+## Adding New User
 
 Clicking the **New User** button will open a New User Details dialog box. To successfully create a new user, the fields marked with a red asterisk must be filled with relevant details as shown in the following screenshot:
 
