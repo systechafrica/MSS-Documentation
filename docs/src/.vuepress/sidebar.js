@@ -89,5 +89,11 @@ module.exports = {
         '/investments/treasuryBills',
       ],
     },
+    {
+      title: 'How To Videos',
+      children: [
+        '/videotutorials/',
+      ]
+    }
   ],
 };
