@@ -1,8 +1,8 @@
 ---
-title: FundMaster Admin Panel
+title: Admin Panel
 ---
 
-# FundMaster Admin Panel 
+# Admin Panel 
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 
