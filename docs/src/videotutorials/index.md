@@ -1,10 +1,11 @@
 ---
-title: FundMaster Administration Panel Videos
+title: FundMaster Admin Panel
 ---
 
-# FundMaster Administration Panel 
+# FundMaster Admin Panel 
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
+
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
     <a @click="openModal(video)">
