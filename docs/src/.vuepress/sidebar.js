@@ -90,7 +90,7 @@ module.exports = {
       ],
     },
     {
-      title: 'How To Videos',
+      title: 'Video Tutorials',
       children: [
         '/videotutorials/',
       ]

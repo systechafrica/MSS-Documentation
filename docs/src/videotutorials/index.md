@@ -1,10 +1,10 @@
 ---
-title: FundMaster Xe 'how to' tutorials
+title: FundMaster Xe 'how to' Video tutorials
 ---
 
 # FundMaster Xe 'how to' tutorials
 
-Welcome to the FundMaster Xe 'how to' tutorials! Check out our quick video tutorials below:
+Welcome to the FundMaster Xe 'how to' Video tutorials! Check out our quick video tutorials below:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
