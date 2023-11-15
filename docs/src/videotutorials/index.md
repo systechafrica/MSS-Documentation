@@ -1,5 +1,5 @@
 ---
-title: FundMaster Xe 'how to' Video tutorials
+title: FundMaster Administration Panel Videos
 ---
 
 # FundMaster Xe 'how to' tutorials
