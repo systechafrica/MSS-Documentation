@@ -2,10 +2,9 @@
 title: FundMaster Administration Panel Videos
 ---
 
-# FundMaster Xe 'how to' tutorials
+# FundMaster Administration Panel 
 
-Welcome to the FundMaster Xe 'how to' Video tutorials! Check out our quick video tutorials below:
-
+This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
     <a @click="openModal(video)">
