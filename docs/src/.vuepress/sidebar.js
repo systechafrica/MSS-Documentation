@@ -93,9 +93,6 @@ module.exports = {
       title: 'Video Tutorials',
       children: [
         '/videotutorials/',
-        '/videotutorials/index',
-        '/videotutorials/membersModule',
-        '/videotutorials/schemeSetup',
       ]
     }
   ],
