@@ -1,8 +1,8 @@
 ---
-title: Scheme Setup
+title: Category 3
 ---
 
-# Admin Panel 
+# Category 3
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 
@@ -31,23 +31,23 @@ export default {
   data() {
     return {
       videos: [
-        {
+             {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/CTnr9bLD48k/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/CTnr9bLD48k",
-          description: "Financial Adviser Explains - The New State Pension (UK)"
+          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
+          description: "How to log in to FundMaster"
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/E2RDvUiRRG8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/E2RDvUiRRG8",
-          description: "Pensions Explained UK | Pension Basics for everyone"
+          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
+          description: "How to navigate FundMaster Landing Page interface."
         },
         {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/QsyQ5wazRno/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/QsyQ5wazRno",
-          description: "Pensions For Beginners 2023 - A Complete Guide (UK)"
+          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
+          description: "How to nagivate FundMaster Xe Admin Panel interface."
         },
         // Add more videos here...
       ],

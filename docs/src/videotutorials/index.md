@@ -1,72 +1,10 @@
 ---
-title: Admin Panel
+title: Category 1
 ---
 
-# Admin Panel 
+# Category 1
 
-This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
-
-<div class="videos-grid">
-  <div v-for="video in videos" :key="video.id" class="video-item">
-    <a @click="openModal(video)">
-      <img :src="video.thumbnail" alt="Video Thumbnail">
-    </a>
-    <p>{{ video.description }}</p>
-  </div>
-</div>
-
-<template>
-  <div class="video-modal" v-if="currentVideo">
-    <div class="video-modal-overlay" @click="closeModal">
-      <div class="video-modal-frame">
-        <iframe :src="currentVideo.videoUrl" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <button class="close-modal">Close</button>
-    </div>
-  </div>
-</template>
-
-<script>
-export default {
-  data() {
-    return {
-      videos: [
-        {
-          id: 1,
-          thumbnail: "https://img.youtube.com/vi/CTnr9bLD48k/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/CTnr9bLD48k",
-          description: "Financial Adviser Explains - The New State Pension (UK)"
-        },
-        {
-          id: 2,
-          thumbnail: "https://img.youtube.com/vi/E2RDvUiRRG8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/E2RDvUiRRG8",
-          description: "Pensions Explained UK | Pension Basics for everyone"
-        },
-        {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/QsyQ5wazRno/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/QsyQ5wazRno",
-          description: "Pensions For Beginners 2023 - A Complete Guide (UK)"
-        },
-        // Add more videos here...
-      ],
-      currentVideo: null
-    };
-  },
-  methods: {
-    openModal(video) {
-      this.currentVideo = video;
-    },
-    closeModal() {
-      this.currentVideo = null;
-    }
-  }
-};
-</script>
-
-
-This categories of videos shows how different configurations and processes are done in the fundMaster Scheme Setup Module:
+This categories of videos shows how different configurations and processes are done in the FundMaster Admin panel:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -95,23 +33,24 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/CTnr9bLD48k/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/CTnr9bLD48k",
-          description: "Financial Adviser Explains - The New State Pension (UK)"
+          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
+          description: "How to log in to FundMaster"
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/E2RDvUiRRG8/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/E2RDvUiRRG8",
-          description: "Pensions Explained UK | Pension Basics for everyone"
+          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
+          description: "How to navigate Fundmaster Landing Page interface."
         },
         {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/QsyQ5wazRno/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/QsyQ5wazRno",
-          description: "Pensions For Beginners 2023 - A Complete Guide (UK)"
+          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
+          description: "How to nagivate FundMaster Xe Admin Panel interface."
         },
         // Add more videos here...
+        
       ],
       currentVideo: null
     };
