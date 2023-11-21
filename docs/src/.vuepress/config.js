@@ -5,7 +5,7 @@ module.exports = {
   title: 'FundMaster Xe',
   description: description,
   themeConfig: {
-    logo: "/img/logo/fundmaster-hero-image.png",
+    logo: "/img/logo/fundmaste.png",
     searchPlaceholder: 'Search...',
     search:true,
     lastUpdated: 'Last Updated',
