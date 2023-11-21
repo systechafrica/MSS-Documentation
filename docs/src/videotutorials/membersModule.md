@@ -33,9 +33,9 @@ export default {
       videos: [
         {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
-          description: "How to log in to FundMaster"
+          thumbnail: "https://img.youtube.com/vi/J6FkE4QBZN4/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
+          description: "How to create a receivable in accounts module"
         },
         {
           id: 2,
