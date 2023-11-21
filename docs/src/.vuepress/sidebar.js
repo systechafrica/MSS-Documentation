@@ -101,8 +101,6 @@ module.exports = {
       title: 'Glossary',
       children: [
         '/glossary/',
-        '/glossary/letterB',
-        '/glossary/letterC',
       ]
     }
   ],
