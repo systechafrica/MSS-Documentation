@@ -1,7 +1,7 @@
 const { description } = require('../../package');
 
 module.exports = {
-  logo: "/img/logo/knowledgebase-hero",
+  logo: "/img/logo/fundmaster-hero-image",
   title: 'FundMaster Xe',
   description: description,
   themeConfig: {
