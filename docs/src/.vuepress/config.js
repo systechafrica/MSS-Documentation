@@ -21,11 +21,11 @@ module.exports = {
       text: 'System Modules',
       items: [
         {text: 'Admin Panel', link: '/administration/' },
+        {text: 'Scheme Setup', link: '/schemesetup/' },  
+        {text: 'Member Register', link:'/members/'},
         {text: 'Accounts', link: '/accounts/' },
         {text: 'Pensioner Register', link:'/pensioners/'},
-        {text: 'Scheme Setup', link: '/schemesetup/' },     
         {text: 'Investment', link: '/investments/'},
-        {text: 'Member Register', link:'/members/'},
         {text: 'Workflow', link:'/workflow/'},
         {text: 'Reports', link:'/reports/'},
       ]
