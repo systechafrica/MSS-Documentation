@@ -36,15 +36,7 @@ module.exports = {
       children: [
         '/schemes/',
         '/schemes/newScheme',
-        '/schemes/schemeSetupProcess',
-        '/schemes/schemeApprovalProcess',
-        '/schemes/schemeSwitching',
-        '/schemes/otherSetup',
-        '/schemes/additionalSchemeInfoSetup',
-        '/schemes/memberClassSpecificationInfo',
-        '/schemes/contributionConfigurationMatrix',
-        '/schemes/benefitsConfigurationMatrix',
-        '/schemes/actuarialFactors',
+
       ],
     },
     {
