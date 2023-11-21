@@ -1,6 +1,6 @@
 ### FundMaster Glossary
 
-
+### A
 **Actuary:** means a person who is a Fellow of the Institute of Actuaries in England, or the Faculty of Actuaries in Scotland, or the Canadian Institute of Actuaries, or the Society of Actuaries of the United States of America or the Institute of Actuaries of Japan or the Institute of Actuaries of Australia or a person holding such equivalent qualification as the Commissioner of Insurance may approve.
 
 **Administrator:** means a person appointed by trustees to administer a scheme in accordance with such terms and conditions of service as may be specified in the instrument of appointment.
@@ -17,6 +17,9 @@
 
 **Augmentation:** The provision of additional benefits offered to members of a DB scheme, normally where the cost is borne by the scheme and/or the employer.
 
+
+### B
+
 **Base tax regime:** means to the base country taxation rules to be applied in the schemes taxation calculations.
 
 **Base currency:** means to the base country currency.
@@ -25,6 +28,9 @@
 Commissioner means:
 (a) The Commissioner-General appointed under section 11(1) of the Kenya Revenue Authority Act; or
 (b) With respect to powers or functions that have been delegated under section 11(4) of the Kenya Revenue Authority Act to another Commissioner, that other Commissioner.
+
+
+### C
 
 **Contribution holiday:** means a period when an employer is not required to make contributions into a scheme fund.
 
@@ -45,6 +51,8 @@ Commissioner means:
 **Closed Scheme:** a scheme which is closed to new members but which otherwise functions as a normal scheme for its continuing members.
 
 **Closure date as the upper bound for exits:** refers to the application of a schemes closure date as the upper limit while calculating the member’s years in service in a scheme when calculating the member benefits.
+
+### D
 
 **Deal date:** is the date of the agreement to acquire the government security
 
@@ -69,13 +77,18 @@ Commissioner means:
 **Defined contribution registered fund:** means a registered fund under which the benefits of a member are determined by a defined contribution provision and does not contain a defined benefit provision.
 
 **Declared interest rate:** refers to the actual gain in percentage of the scheme contributions in a scheme investment; usually this gain id distributed the scheme members at the end of the year,
-Existing scheme means a scheme which existed prior to the coming into force of these Regulations.
+
+### E
+
+**Existing scheme** means a scheme which existed prior to the coming into force of these Regulations.
 
 **Excess contribution allocation mode:** in a define contribution scheme, the commissioner of domestic tax exempts tax on all contributions that are less than Ksh 240,000 per annum or Ksh 20, 000 per month. This is referred to us the registered account or the tax-exempt account. The commissioner of taxes however taxes contributions that are over and above Ksh 240,000 per year or Ksh 20, 000 per month. This is referred to as the unregistered account or the non tax exempt account.
 
 **Effective date:** the date at which the liabilities and assets of the scheme are measured for the purposes of a valuation.
 
 **Early retirement age:** An age earlier than the normal retirement age at which time the scheme member can receive benefits.
+
+### F
 
 **Financial year** — in relation to a scheme, means such accounting period as may be prescribed in the scheme rules
 Fund means the Retirement Benefits Authority Fund.
@@ -86,7 +99,12 @@ Guaranteed fund means an asset class: —
 
 (b) which is referred to as the Retirement Benefits Fund established as a statutory fund within the meaning of the provisions of the Insurance Act in which the capital of the scheme fund or pooled fund together with investment income thereof is guaranteed by the approved issuer in accordance with the terms of the policy of insurance issued to the scheme or pooled fund by the approved issuer.
 
+
+### G
+
 **Group life assurance:** means life insurance policy covering several individuals a life insurance policy that covers a number of people, for example a group of employees at a company.
+
+### I
 
 **Interest:** means interest payable in any manner in respect of the members’ contributions investments returns or other right.
 
@@ -102,13 +120,18 @@ Guaranteed fund means an asset class: —
 
 **Issuer:** is a legal entity that develops registers and sells securities for the purpose of financing its operations.
 
-**Investment name:** This is the name of the government security; it bears the period of investment, year of commencement, the coupon rate and the maturity year. For example EXAMPLE BOND FXD1/2010/10 AT 8PCT TO 01.01.2020
+**Investment name:** This is the name of the government security; it bears the period of investment, year of commencement, the coupon rate and the maturity year. For example EXAMPLE BOND FXD1/2010/10 AT 8PCT TO 01.01.2020.
+
+### L
 
 **Levy:** means the Retirement Benefits Levy.
 
 **Lump-sum:** full and final payment of retirement benefit upon cessation of employment on attaining the normal retirement age.
 
 **Late retirement age:** an age later than the normal retirement age at which time the scheme member can receive benefits.
+
+
+### M
 
 **Management or professional fee:** means a payment made to a person, other than a payment made to an employee by his employer, as consideration for managerial, technical, agency, contractual, professional or consultancy services however calculated.
 
@@ -126,6 +149,9 @@ Member means a member of a retirement benefits scheme and includes a person enti
 
 **Maturity date:** This refers to the final payment date of a loan or other financial instrument, at which point the principal (and all remaining interest) is due to be paid.
 
+
+### N
+
 **Number of full-year members** in respect of a registered fund, means the sum of the periods of service in the year under the fund of all members of the fund, where the periods are expressed as fractions of a year.
 
 **National Social Security Fund:** means the National Social Security Fund established under Section 3 of the National Social Security Fund Act.
@@ -134,9 +160,15 @@ Member means a member of a retirement benefits scheme and includes a person enti
 
 **Normal retirement age:** the expected retirement age, usually for pension purposes, as defined in the scheme rules.
 
+
+### O
+
 **Original issue discount:** means the difference between the amount received on the final satisfaction or redemption of any debt, bond, loan, claim, obligation or other evidence of indebtedness, and the price paid on original issuance of the bond or evidence of indebtedness, and the price paid on original issuance of the bond or evidence of indebtedness or the sum originally loaned upon creation of the obligation, loan, claim or other obligation.
 
 **Open scheme:** refers to an active scheme which serves its current members and also caters for any new members desiring to join; a running scheme which is open to new members to join.
+
+
+### P
 
 **Pension fund:** means a fund for payment of pensions or other similar benefits to employees on retirement, or to the dependants of employees on the death of those employees and registered pension fund means one which has been registered with the Commissioner in such manner as may be prescribed.
 
@@ -160,6 +192,8 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 
 **Pooled scheme investment:** seeks to establish whether the pension scheme invested is in one container with other pension schemes.
 
+### R
+
 **Registered fund:** means a registered pension fund or a registered provident fund.
 
 **Registered trust scheme:** means a trust scheme for the provision of retirement annuities which has been registered with the Commissioner in such manner as may be prescribed.
@@ -169,6 +203,8 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 **Retirement benefits scheme:** means any scheme of arrangement (other than a contract for life assurance) whether established by a written law for the time being in force or by any other instrument, under which persons are entitled to benefits in the form of payments, determined by age, length of service, amount of earnings or otherwise and payable primarily upon retirement, or upon death, termination of service, or Retirement Benefits CAP. 197 7 Rev. 2010
 
 **Retirement annuity:** means a retirement annuity payable under a registered annuity contract.
+
+### S
 
 **Sector:** refers to the ideal industry/institution category of a scheme. For example: educational, industrial, and legal.
 
@@ -196,6 +232,9 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 
 **Strategic investment allocation:** refers to the asset investments allocation by the retirement benefits regulatory body, usually in percentage, occupational schemes can invest at a given stipulated period.
 
+
+### T
+
 **Target investment allocation:** refers to the internal scheme asset investment allocation by the scheme trustees in reference to the strategic asset investment allocation as dictated by the retirement benefits regulatory body.
 
 **Tax:** means the income tax charged under the income Tax Act.
@@ -204,6 +243,8 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 Provided that such company does not, by any prospectus, circular, advertisements, or other documents issued by it or on its behalf, state or hold out that any liability attaches to the Public Trustee or to the Consolidated Fund in respect of any act or omission of the company when acting as an executor or administrator.
 
 **Trustee:** means a trustee of a scheme fund and includes a trust corporation; these are the legal owners of a pension scheme.
+
+### V
 
 **Vested Benefit:** any accrued benefit to which a member would be immediately entitled to on withdrawal from service of sponsor, from the scheme or at retirement.CAP. 197 Retirement Benefits 1 4 0 Rev. 2010.
 
