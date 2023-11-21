@@ -37,6 +37,7 @@ module.exports = {
         '/schemes/',
         '/schemes/newScheme',
         '/schemes/schemeApprovalProcess',
+        '/schemes/schemeSwitching',
       ],
     },
     {
