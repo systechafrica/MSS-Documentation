@@ -20,7 +20,7 @@ module.exports = {
      {
       text: 'System Modules',
       items: [
-        {text: 'Admin panel', link: '/administration/' },
+        {text: 'Admin Panel', link: '/administration/' },
         {text: 'Accounts', link: '/accounts/' },
         {text: 'Pensioner Register', link:'/pensioners/'},
         {text: 'Scheme Setup', link: '/schemesetup/' },     

@@ -7,7 +7,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Video Tutorials',
+      title: 'How To Videos',
       children: [
         '/videotutorials/',
         '/videotutorials/membersModule',
@@ -22,7 +22,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Administration',
+      title: 'Admin Panel User Guide',
       children: [
         '/administration/',
         '/administration/usersRegister',
@@ -40,7 +40,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Accounts',
+      title: 'Accounts Module User Guide',
       children: [
         '/accounts/',
         '/accounts/budget',
@@ -56,7 +56,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Pensioners',
+      title: 'Pensioners Module User Guide',
       children: [
         '/pensioners/',
         '/pensioners/approval',
@@ -68,7 +68,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Reports',
+      title: 'Reports Engine User Guide',
       children: [
         '/reports/',
         '/reports/batchMembersReport',
@@ -79,7 +79,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Workflow',
+      title: 'Workflow Management User Guide',
       children: [
         '/workflow/',
         '/workflow/adminPanel',
@@ -89,7 +89,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Investments',
+      title: 'Investments module User Guide',
       children: [
         '/investments/',
         '/investments/bond&Securities',

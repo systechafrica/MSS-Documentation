@@ -25,16 +25,6 @@ After inputting the access IP address, a user is directed to the login page wher
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
-## How to video
-
-The following video demonstrates how to successfully login to FundMaster from your browser:
-
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/login-tutorial.mp4" type="video/mp4">
-</video> 
-
-
-
 ## Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
@@ -61,10 +51,3 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                           |
 
 
-## How to Video
-
-The following video shows interface walk through in FundMaster landing page: 
-
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/landing-page-fm.mp4" type="video/mp4">
-</video>
