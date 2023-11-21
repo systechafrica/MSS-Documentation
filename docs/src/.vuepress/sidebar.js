@@ -36,6 +36,7 @@ module.exports = {
       children: [
         '/schemes/',
         '/schemes/newScheme',
+        '/schemes/newScheme',
 
       ],
     },
