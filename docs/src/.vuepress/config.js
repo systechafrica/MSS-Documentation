@@ -21,7 +21,7 @@ module.exports = {
       text: 'System Modules',
       items: [
         {text: 'Admin Panel', link: '/administration/' },
-        {text: 'Scheme Setup', link: '/scheme/' },  
+        {text: 'Scheme Setup', link: '/schemesetup/' },  
         {text: 'Member Register', link:'/members/'},
         {text: 'Accounts', link: '/accounts/' },
         {text: 'Pensioner Register', link:'/pensioners/'},

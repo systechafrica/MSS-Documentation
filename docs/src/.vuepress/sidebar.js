@@ -34,8 +34,10 @@ module.exports = {
     {
       title: 'Scheme Setup User Guide',
       children: [
-        '/scheme/',
-        '/scheme/newScheme',
+        '/accounts/',
+        '/accounts/budget',
+        '/accounts/cashManagement',
+        '/schemesetup/newscheme',
         '/schemesetup/schemeSetupProcess',
         '/schemesetup/schemeApprovalProcess',
         '/schemesetup/schemeSwitching',
