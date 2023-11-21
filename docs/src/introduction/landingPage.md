@@ -22,12 +22,3 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
 | 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
 | 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
-
-
-## How to video
-
-The following video shows interface walk through in FundMaster landing page: 
-
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/landing-page-fm.mp4" type="video/mp4">
-</video>
