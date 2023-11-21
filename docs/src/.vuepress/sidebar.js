@@ -96,6 +96,14 @@ module.exports = {
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
       ]
+    },
+    {
+      title: 'Glossary',
+      children: [
+        '/glossary/',
+        '/glossary/letterB',
+        '/glossary/letterC',
+      ]
     }
   ],
 };
