@@ -38,6 +38,10 @@ module.exports = {
         '/schemes/newScheme',
         '/schemes/schemeApprovalProcess',
         '/schemes/schemeSwitching',
+        '/schemes/otherSetup',
+        '/schemes/additionalSchemeInfoSetup',
+        '/schemes/memberClassSpecificInfo',
+        '/schemes/contributionConfigurationMatrix',
       ],
     },
     {
