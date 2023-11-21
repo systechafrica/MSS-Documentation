@@ -1,4 +1,4 @@
-### FundMaster Glossary
+ FundMaster Glossary
 
 ### A
 **Actuary:** means a person who is a Fellow of the Institute of Actuaries in England, or the Faculty of Actuaries in Scotland, or the Canadian Institute of Actuaries, or the Society of Actuaries of the United States of America or the Institute of Actuaries of Japan or the Institute of Actuaries of Australia or a person holding such equivalent qualification as the Commissioner of Insurance may approve.
