@@ -36,7 +36,6 @@ module.exports = {
       title: 'Scheme Setup User Guide',
       children: [
         '/schemesetup/',
-        '/schemesetup/introduction',
         '/schemesetup/newScheme',
         '/schemesetup/schemeSetupProcess',
         '/schemesetup/schemeApprovalProcess',
