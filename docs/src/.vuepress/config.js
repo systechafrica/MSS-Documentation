@@ -31,10 +31,6 @@ module.exports = {
       ]
     },
       {
-        text: 'MSS',
-        link: 'https://www.systechafrica.com',
-      },
-      {
         text: 'Glossary',
         link: '/glossary/'     
       },

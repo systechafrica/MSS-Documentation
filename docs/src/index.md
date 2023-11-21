@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: "/img/knowledge-base-hero.jpg"
-tagline: This central repository provides relevant information on how to run various end-to-end processes in FundMaster and its peripheral products.
+tagline: This central repository provides relevant information on how to run various end-to-end processes in FundMaster system.
 actionText: Get Started →
 actionLink: /introduction/
 
