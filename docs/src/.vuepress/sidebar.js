@@ -11,7 +11,7 @@ module.exports = {
       children: [
         '/introduction/',
         '/introduction/landingPage',
-        '/introduction/theMainMenuBar',
+        '/introduction/productsSetup',
       ],
     },
     {
