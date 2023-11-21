@@ -35,8 +35,12 @@ module.exports = {
         link: 'https://www.systechafrica.com',
       },
       {
-        text: ' Glossary',
-        link: '/videotutorials/'
+        text: 'Glossary',
+        items: [
+          {text: 'Letter A', link: '/glossary/' },
+          {text: 'Letter B', link: '/letterB/' },
+          {text: 'Letter C', link: '/letterC/' },      
+        ]
       },
       {
         text: ' Video Tutorial',
