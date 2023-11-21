@@ -7,7 +7,7 @@ module.exports = {
       ],
     },
     {
-      title: 'How To Videos',
+      title: 'Videos Tutorials',
       children: [
         '/videotutorials/',
         '/videotutorials/membersModule',
@@ -18,6 +18,7 @@ module.exports = {
       title: 'Accessing FundMaster',
       children: [
         '/introduction/',
+        '/introduction/landingPage',
         '/introduction/theMainmenuBar',
       ],
     },
