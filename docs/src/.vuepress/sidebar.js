@@ -17,8 +17,8 @@ module.exports = {
     {
       title: 'Accessing FundMaster',
       children: [
-        '/videotutorials/membersModule',
-        '/accessprocess/theMainmenuBar',
+        '/introduction/',
+        '/introduction/theMainmenuBar',
       ],
     },
     {
