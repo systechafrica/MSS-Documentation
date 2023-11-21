@@ -7,19 +7,11 @@ module.exports = {
       ],
     },
     {
-      title: 'Videos Tutorials',
+      title: 'How to Access FundMaster',
       children: [
         '/videotutorials/',
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
-      ],
-    },
-    {
-      title: 'Accessing FundMaster',
-      children: [
-        '/introduction/',
-        '/introduction/landingPage',
-        '/introduction/theMainmenuBar',
       ],
     },
     {
@@ -103,7 +95,15 @@ module.exports = {
         '/investments/property',
         '/investments/treasuryBills',
       ],
-    }
+    },
+    {
+      title: 'Videos Tutorials',
+      children: [
+        '/videotutorials/',
+        '/videotutorials/membersModule',
+        '/videotutorials/schemeSetup',
+      ],
+    },
 
   ],
 };
