@@ -40,7 +40,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Accounts Module User Guide',
+      title: 'Accounts User Guide',
       children: [
         '/accounts/',
         '/accounts/budget',
@@ -56,7 +56,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Pensioners Module User Guide',
+      title: 'Pensioners User Guide',
       children: [
         '/pensioners/',
         '/pensioners/approval',
@@ -79,7 +79,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Workflow Management User Guide',
+      title: 'Workflow User Guide',
       children: [
         '/workflow/',
         '/workflow/adminPanel',
@@ -89,7 +89,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Investments module User Guide',
+      title: 'Investments User Guide',
       children: [
         '/investments/',
         '/investments/bond&Securities',
