@@ -30,10 +30,13 @@ module.exports = {
         {text: 'Reports', link:'/reports/'},
       ]
     },
-
       {
         text: 'MSS',
         link: 'https://www.systechafrica.com',
+      },
+      {
+        text: ' Glossary',
+        link: '/videotutorials/'
       },
       {
         text: ' Video Tutorial',
@@ -43,4 +46,3 @@ module.exports = {
     sidebar:require('./sidebar.js'),
   },
 };
-  
