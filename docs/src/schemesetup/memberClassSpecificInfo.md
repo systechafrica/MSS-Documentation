@@ -1,4 +1,4 @@
-## Member Class Configurations
+### Member Class Configurations
 
 These configurations inform how a member of a particular class in a scheme is to be treated apart from a member from another class within the same sponsor.
 

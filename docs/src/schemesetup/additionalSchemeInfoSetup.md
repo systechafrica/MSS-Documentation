@@ -1,4 +1,4 @@
-## Additional Scheme Info Setup
+### Additional Scheme Info Setup
 
 This is another set of particulars of the scheme. Parameter to inform contributions and interest calculations are configured here. Click the **Additional Schemes Info Setup** link, as shown previously, to launch the dialog box as shown in the following screenshot:
 

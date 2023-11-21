@@ -1,4 +1,4 @@
-## Service Providers configs
+### Service Providers configs
 
 Configurations under Service Providers aid in capturing and managing a scheme’s various service prover details. The screenshot below shows a section of the sidebar panel where links to various configurations are located.
 

@@ -1,4 +1,4 @@
-## Other Scheme Setup configs
+### Other Scheme Setup configs
 
 Configurations under **Other Setup** menu enables formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a drop-down submenu where various links are located:
 

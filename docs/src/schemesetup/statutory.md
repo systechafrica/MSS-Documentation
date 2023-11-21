@@ -1,4 +1,4 @@
-## Statutory settings
+### Statutory settings
 
 Statutory configurations are tax rates that affect the retirement benefits processes as defined by a regime’s commissioner of tax. The screenshot below shows a drop-down submenu with links through which different setups are done:
 

@@ -1,4 +1,4 @@
-## Sponsor Creation Process
+### Sponsor Creation Process
 
 The word Sponsor is used in the system to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). The following section demonstrates how sponsors are created and managed in the system. Locate the Sponsors drop-down submenu as shown below:
 

@@ -1,4 +1,4 @@
-## Benefits Configuration Matrix 
+### Benefits Configuration Matrix 
 
 The Benefits Configuration Matrix is a tool that aids in setting the laid down rules or procedures in the trust deed and rules regarding each of the item in the drop-down submenu as shown in the screenshot below:
 

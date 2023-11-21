@@ -1,5 +1,4 @@
-
-## Actuarial settings
+### Actuarial settings
 
 Actuarial set of configurations aids in setting up actuarial factors that are used in DB and DC lump sum calculations. Click the links shown in the screenshot below to set fixed factors and annuity rates.
 

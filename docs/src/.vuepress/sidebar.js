@@ -29,7 +29,6 @@ module.exports = {
         '/administration/systemRights',
         '/administration/systemUtility',
         '/administration/otherAdminSettings',
-
       ],
     },
     {

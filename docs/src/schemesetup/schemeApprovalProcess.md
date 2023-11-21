@@ -1,4 +1,4 @@
-## Approving a Scheme
+### Approving a Scheme
 
 After a scheme is created, the next step is to approve it by first providing a checklist for necessary documents and then approving the scheme. From the Setup Links left side panel, click the appropriate link as shown below:
 
