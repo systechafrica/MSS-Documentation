@@ -1,10 +1,24 @@
 module.exports = {
   '/': [
     {
-      title: 'Introduction',
+      title: 'FundMaster Glossary',
       children: [
-        '/introduction/',
-        '/introduction/theMainMenuBar',
+        '/glossary/',
+      ]
+    },
+    {
+      title: 'Video Tutorials',
+      children: [
+        '/videotutorials/',
+        '/videotutorials/membersModule',
+        '/videotutorials/schemeSetup',
+      ]
+    },
+    {
+      title: 'Access Process',
+      children: [
+        '/accessprocess/',
+        '/accesssprocess/theMainMenuBar',
       ],
     },
     {
@@ -88,20 +102,7 @@ module.exports = {
         '/investments/property',
         '/investments/treasuryBills',
       ],
-    },
-    {
-      title: 'Video Tutorials',
-      children: [
-        '/videotutorials/',
-        '/videotutorials/membersModule',
-        '/videotutorials/schemeSetup',
-      ]
-    },
-    {
-      title: 'Glossary',
-      children: [
-        '/glossary/',
-      ]
     }
+
   ],
 };

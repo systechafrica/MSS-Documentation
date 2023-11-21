@@ -26,12 +26,15 @@
 **Base currency:** means to the base country currency.
 
 **Banks:** financial institution licensed under the Banking Act and in which schemes’ accounts are operated or held.
-Commissioner means:
-(a) The Commissioner-General appointed under section 11(1) of the Kenya Revenue Authority Act; or
-(b) With respect to powers or functions that have been delegated under section 11(4) of the Kenya Revenue Authority Act to another Commissioner, that other Commissioner.
 
 
 ### C
+
+**Commissioner:** means:
+
+(i) The Commissioner-General appointed under section 11(1) of the Kenya Revenue Authority Act; or
+
+(ii) With respect to powers or functions that have been delegated under section 11(4) of the Kenya Revenue Authority Act to another Commissioner, that other Commissioner.
 
 **Contribution holiday:** means a period when an employer is not required to make contributions into a scheme fund.
 
@@ -45,8 +48,6 @@ Commissioner means:
 
 **Commuted Payment:** the whole or part of a pension entitlement paid to a member on retirement subject to scheme rules and/or Income Tax Regulations.
 
-**Interest Formula:** the interest formula used in calculating the interest to be distributed to the members contributions at in a scheme.
-
 **Contributory Scheme:** a retirement benefits scheme in which both the sponsor(s) and the members contribute to the fund.
 
 **Closed Scheme:** a scheme which is closed to new members but which otherwise functions as a normal scheme for its continuing members.
@@ -55,7 +56,7 @@ Commissioner means:
 
 ### D
 
-**Deal date:** is the date of the agreement to acquire the government security
+**Deal date:** is the date of the agreement to acquire the government security.
 
 **Date of Commencement:** means the financial year following the initial financial year of a scheme or the year with the first opening balance obtained from the initial closing balances.
 
@@ -72,12 +73,15 @@ Commissioner means:
 **Defined benefit registered fund:** means a registered fund that contains a defined benefit provision, whether or not it also contains a defined contribution provision.
 
 **Defined contribution provision:** in respect of a registered fund, means terms of the fund –
+
 (a) which provide for separate account to be maintained in respect of each member, to which are credited contributions made to the fund by, or in respect of, the member and any other amounts allocated to the member, and to which are charged payments in respect of the member; and
+
 (b) Under which the only benefits in respect of a member are benefits determined solely with reference to, and provided by, the amount of the member's account.
 
 **Defined contribution registered fund:** means a registered fund under which the benefits of a member are determined by a defined contribution provision and does not contain a defined benefit provision.
 
-**Declared interest rate:** refers to the actual gain in percentage of the scheme contributions in a scheme investment; usually this gain id distributed the scheme members at the end of the year,
+**Declared interest rate:** refers to the actual gain in percentage of the scheme contributions in a scheme investment; usually this gain id distributed the scheme members at the end of the year.
+
 
 ### E
 
@@ -89,6 +93,7 @@ Commissioner means:
 
 **Early retirement age:** An age earlier than the normal retirement age at which time the scheme member can receive benefits.
 
+
 ### F
 
 **Financial year** — in relation to a scheme, means such accounting period as may be prescribed in the scheme rules
@@ -96,18 +101,22 @@ Fund means the Retirement Benefits Authority Fund.
 
 **Facility:** means a retirement benefits mortgage facility or house ownership loan arrangement.
 Guaranteed fund means an asset class: —
-(a) Issued by an approved issuer, whereby the approved issuer guarantees the accumulated capital of the scheme fund or pooled fund together with the investment income thereof in accordance with the terms of the guaranteed fund contract entered into between the approved issuer and the scheme or pooled fund.
 
-(b) which is referred to as the Retirement Benefits Fund established as a statutory fund within the meaning of the provisions of the Insurance Act in which the capital of the scheme fund or pooled fund together with investment income thereof is guaranteed by the approved issuer in accordance with the terms of the policy of insurance issued to the scheme or pooled fund by the approved issuer.
+(i) Issued by an approved issuer, whereby the approved issuer guarantees the accumulated capital of the scheme fund or pooled fund together with the investment income thereof in accordance with the terms of the guaranteed fund contract entered into between the approved issuer and the scheme or pooled fund.
+
+(ii) which is referred to as the Retirement Benefits Fund established as a statutory fund within the meaning of the provisions of the Insurance Act in which the capital of the scheme fund or pooled fund together with investment income thereof is guaranteed by the approved issuer in accordance with the terms of the policy of insurance issued to the scheme or pooled fund by the approved issuer.
 
 
 ### G
 
 **Group life assurance:** means life insurance policy covering several individuals a life insurance policy that covers a number of people, for example a group of employees at a company.
 
+
 ### I
 
 **Interest:** means interest payable in any manner in respect of the members’ contributions investments returns or other right.
+
+**Interest Formula:** the interest formula used in calculating the interest to be distributed to the members contributions at in a scheme.
 
 **Incapacitated person:** means a minor, or a person adjudged under any law, whether in Kenya or elsewhere, to be in a state of unsoundness of mind (however described).
 
@@ -138,8 +147,11 @@ Guaranteed fund means an asset class: —
 **Management or professional fee:** means a payment made to a person, other than a payment made to an employee by his employer, as consideration for managerial, technical, agency, contractual, professional or consultancy services however calculated.
 
 **Manager:** means a company whose business includes:
+
 (i) Undertaking, pursuant to a contract or other arrangement, the management of the funds and other assets of a scheme fund for purposes of investment.
+
 (ii) Providing consultancy services on the investment of scheme funds; or
+
 (iii) Reporting or disseminating information concerning the assets available for investment of scheme funds.
 Member means a member of a retirement benefits scheme and includes a person entitled to or receiving a benefit under a retirement benefits scheme.
 
@@ -175,9 +187,10 @@ Member means a member of a retirement benefits scheme and includes a person enti
 **Pension fund:** means a fund for payment of pensions or other similar benefits to employees on retirement, or to the dependants of employees on the death of those employees and registered pension fund means one which has been registered with the Commissioner in such manner as may be prescribed.
 
 **Pensionable income:** means -
-(a) In relation to a member of a registered pension or provident fund or of an individual eligible to contribute to a registered individual retirement fund, the employment income or services rendered are subjected to deduction of tax on emoluments by the employer.
 
-(b) In the case of an individual eligible to contribute to a registered individual retirement fund, the gains or profits from business, earned as the sole proprietor or as a partner is subject to tax; Provided that where a loss from business is realized, the loss shall be deemed to be zero.
+(i) In relation to a member of a registered pension or provident fund or of an individual eligible to contribute to a registered individual retirement fund, the employment income or services rendered are subjected to deduction of tax on emoluments by the employer.
+
+(ii) In the case of an individual eligible to contribute to a registered individual retirement fund, the gains or profits from business, earned as the sole proprietor or as a partner is subject to tax; Provided that where a loss from business is realized, the loss shall be deemed to be zero.
 
 **Provident fund:** includes a fund or scheme for the payment of lump sums and other similar benefits, to employees when they leave employment or to the dependants of employees on the death of those employees but does not include a national provident fund or national social security fund established by the Government and registered provident fund means one which has been registered with the Commissioner in such manner as may be prescribed.
 
@@ -193,6 +206,7 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 **Pension purchase price:** refers to the amount of the pension fund that is available to buy an annuity.
 
 **Pooled scheme investment:** seeks to establish whether the pension scheme invested is in one container with other pension schemes.
+
 
 ### R
 
@@ -253,6 +267,3 @@ Provided that such company does not, by any prospectus, circular, advertisements
 **Vested Benefit:** any accrued benefit to which a member would be immediately entitled to on withdrawal from service of sponsor, from the scheme or at retirement.CAP. 197 Retirement Benefits 1 4 0 Rev. 2010.
 
 **Vesting Formula:** the method of determining the benefits to be vested.
-
- 
-
