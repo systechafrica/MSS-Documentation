@@ -133,7 +133,7 @@ module.exports = {
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
       ],
-    },
+    }
 
   ],
 };
