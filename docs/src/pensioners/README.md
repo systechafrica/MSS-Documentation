@@ -1,5 +1,7 @@
-## **Pensioners Module**
+### Introduction
+
 The Pensioners Module enables the registration of pensioners through templates into FundMaster. The Pensioners are connected to the members register through member numbers. Furthermore, the module allows viewing of pensioners' registers at different status i.e., Active, Suspended, Deferred. It enables onboarding of new pensioners, initiating death in retirement process, running certificate of existence, running payroll, adding deductions among other activities as will be demonstrated in this chapter.
+
 
 To access the Pensioners Module dashboard, click the Pensioners Module hot link on the FundMaster landing page to open the **Pensioners Links** window shown below:
 

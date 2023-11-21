@@ -1,4 +1,4 @@
-### Administrative Panel Module
+### Introduction
 
 The administrative panel aids in the creation and management of system **User Profiles** and **User Accounts**. The system administrator is responsible for **Enabling** and **Disabling** system Rights and **Permissions** to specific User Profiles. 
 
