@@ -31,7 +31,7 @@ To access the details dialog box, from the left side panel of the Setup Links wi
 - If you modify any item, remember to click the **Save** button to reflect changes.
 
 
-## Scheme configurations
+### Scheme configurations
 
 These are some of the key configurations that need to be set for the scheme to execute effectively. The screenshot below shows the locations links within the scheme setup sidebar panel:
 
