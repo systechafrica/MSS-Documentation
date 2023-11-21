@@ -32,7 +32,7 @@ module.exports = {
       ],
     },
     {
-      title: 'Schemes Creation User Guide',
+      title: 'Schemes Setup User Guide',
       children: [
         '/schemes/',
         '/schemes/newScheme',
@@ -52,25 +52,6 @@ module.exports = {
         '/schemes/takeNotes',
         '/schemes/riskAssessment',
         '/schemes/serviceProviders',
-
-        
-
-      ],
-    },
-    {
-      title: 'Scheme Setup User Guide',
-      children: [
-        '/schemesetup/benefitsConfigurationMatrix',
-        '/schemesetup/actuarialFactors',
-        '/schemesetup/bankers',
-        '/schemesetup/endYearParameters',
-        '/schemesetup/pensionParameters',
-        '/schemesetup/pensionCalculationParameters',
-        '/schemesetup/sponsors',
-        '/schemesetup/statutory',
-        '/schemesetup/takeNotes',
-        '/schemesetup/riskAssessment',
-        '/schemesetup/serviceProviders',
       ],
     },
     {
