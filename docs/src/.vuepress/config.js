@@ -14,7 +14,7 @@ module.exports = {
     prevLinks: true,
     nav: [
       {
-        text: 'Getting Started', link: '/introduction/',
+        text: 'Getting Started', link: '/accessprocess/',
       },
 
      {
