@@ -13,11 +13,3 @@ Clicking the **Administrative Pane** link on the landing page will open the Admi
 
 -	Click the menu items links listed on the left-side panel in the section **labelled 2** to configure other related settings such as notifications and schedular.
 
-
-## How to video
-
-The following video shows interface walk through in FundMaster Admin Panel Module: 
-
-<video width="640" height="340" controls>
-  <source src="../.vuepress/public/videos/admin-module.mp4" type="video/mp4">
-</video>
