@@ -41,6 +41,15 @@ module.exports = {
         '/schemes/otherSetup',
         '/schemes/additionalSchemeInfoSetup',
         '/schemes/memberClassSpecificInfo',
+        '/schemes/benefitsConfigurationsMatrix',
+        '/schemes/actuarialFactors',
+        '/schemes/bankers',
+        '/schemes/endYearParameters',
+        '/schemes/pensionSetupParameters',
+        '/schemes/pensionCalculationParameters',
+        '/schemes/sponsors',
+        
+
       ],
     },
     {
