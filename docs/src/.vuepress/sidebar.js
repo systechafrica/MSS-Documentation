@@ -9,7 +9,7 @@ module.exports = {
     {
       title: 'How to Access FundMaster',
       children: [
-        '/videotutorials/',
+        '/introduction/',
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
       ],
