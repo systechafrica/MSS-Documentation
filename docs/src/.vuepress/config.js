@@ -36,11 +36,7 @@ module.exports = {
       },
       {
         text: 'Glossary',
-        items: [
-          {text: 'Letter A', link: '/glossary/' },
-          {text: 'Letter B', link: '/letterB/' },
-          {text: 'Letter C', link: '/letterC/' },      
-        ]
+        link: '/glossary/'     
       },
       {
         text: ' Video Tutorial',
