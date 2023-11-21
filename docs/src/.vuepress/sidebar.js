@@ -10,8 +10,8 @@ module.exports = {
       title: 'How to Access FundMaster',
       children: [
         '/introduction/',
-        '/videotutorials/membersModule',
-        '/videotutorials/schemeSetup',
+        '/introduction/landingPage',
+        '/introduction/theMainMenuBar',
       ],
     },
     {
