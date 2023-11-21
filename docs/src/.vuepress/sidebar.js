@@ -48,6 +48,11 @@ module.exports = {
         '/schemes/pensionSetupParameters',
         '/schemes/pensionCalculationParameters',
         '/schemes/sponsors',
+        '/schemes/statutory',
+        '/schemes/takeNotes',
+        '/schemes/riskAssessment',
+        '/schemes/serviceProviders',
+
         
 
       ],
