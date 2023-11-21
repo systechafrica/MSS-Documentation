@@ -32,12 +32,16 @@ module.exports = {
       ],
     },
     {
+      title: 'Schemes Creation User Guide',
+      children: [
+        '/schemes/',
+      ],
+    },
+    {
       title: 'Scheme Setup User Guide',
       children: [
-        '/accounts/',
-        '/accounts/budget',
-        '/accounts/cashManagement',
-        '/schemesetup/newscheme',
+        '/schemesetup/',
+        '/schemesetup/newScheme',
         '/schemesetup/schemeSetupProcess',
         '/schemesetup/schemeApprovalProcess',
         '/schemesetup/schemeSwitching',
