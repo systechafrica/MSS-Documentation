@@ -4,7 +4,7 @@ module.exports = {
       title: 'FundMaster Glossary',
       children: [
         '/glossary/',
-      ]
+      ],
     },
     {
       title: 'Video Tutorials',
@@ -12,10 +12,10 @@ module.exports = {
         '/videotutorials/',
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
-      ]
+      ],
     },
     {
-      title: 'Access Process',
+      title: 'Accessing FundMaster',
       children: [
         '/accessprocess/',
         '/accesssprocess/theMainMenuBar',
