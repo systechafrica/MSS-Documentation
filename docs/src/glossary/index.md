@@ -1,6 +1,7 @@
- FundMaster Glossary
+ ### List of Key Terms
 
 ### A
+
 **Actuary:** means a person who is a Fellow of the Institute of Actuaries in England, or the Faculty of Actuaries in Scotland, or the Canadian Institute of Actuaries, or the Society of Actuaries of the United States of America or the Institute of Actuaries of Japan or the Institute of Actuaries of Australia or a person holding such equivalent qualification as the Commissioner of Insurance may approve.
 
 **Administrator:** means a person appointed by trustees to administer a scheme in accordance with such terms and conditions of service as may be specified in the instrument of appointment.
@@ -122,6 +123,7 @@ Guaranteed fund means an asset class: —
 
 **Investment name:** This is the name of the government security; it bears the period of investment, year of commencement, the coupon rate and the maturity year. For example EXAMPLE BOND FXD1/2010/10 AT 8PCT TO 01.01.2020.
 
+
 ### L
 
 **Levy:** means the Retirement Benefits Levy.
@@ -204,6 +206,7 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 
 **Retirement annuity:** means a retirement annuity payable under a registered annuity contract.
 
+
 ### S
 
 **Sector:** refers to the ideal industry/institution category of a scheme. For example: educational, industrial, and legal.
@@ -243,6 +246,7 @@ Paid up Scheme a scheme where contributions to the scheme have ceased e.g. due t
 Provided that such company does not, by any prospectus, circular, advertisements, or other documents issued by it or on its behalf, state or hold out that any liability attaches to the Public Trustee or to the Consolidated Fund in respect of any act or omission of the company when acting as an executor or administrator.
 
 **Trustee:** means a trustee of a scheme fund and includes a trust corporation; these are the legal owners of a pension scheme.
+
 
 ### V
 
