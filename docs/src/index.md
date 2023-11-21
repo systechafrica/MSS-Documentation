@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/img/logo/fundmaster-hero-image.png"
+heroImage: "/img/knowledgebase-hero.jpg"
 tagline: A knowledge base - This central repository provides relevant information on how to run various end-to-end processes in FundMaster and its peripheral products
 actionText: Get Started →
 actionLink: /introduction/
