@@ -37,18 +37,7 @@ export default {
           videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
           description: "How to create a receivable in accounts module"
         },
-        {
-          id: 2,
-          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate Fundmaster Landing Page interface."
-        },
-        {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xe Admin Panel interface."
-        },
+     
         // Add more videos here...
       ],
       currentVideo: null
