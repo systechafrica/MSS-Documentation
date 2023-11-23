@@ -1,13 +1,12 @@
-
 ### How to Deploy FundMaster on Oracle and Postgress
 
-### 1. Introduction
+## 1. Introduction
 
 The guide details the prior requirements and deployment process for FundMaster Xe (and its peripherals - Member Self-Service portal (MSS) and Unstructured Supplementary Service Data (USSD)) on servers. If executed correctly, the instructions herein will lead to successful installation of FundMaster on the oracle database.
 
 Please follow this link: <https://systechafrica.github.io/#/> to access the System documentation and read more on the FundMaster core system.
 
-### 2. Software Prerequisites
+## 2. Software Prerequisites
 
 Before deploying FundMaster and its peripherals, the system requirements must be met:
 -   For Server required specification, refer to the [server and software requirements (on premise and on clouds
@@ -15,7 +14,7 @@ Before deploying FundMaster and its peripherals, the system requirements must be
     for the detailed requisite environment specification.
 -   Note that FundMaster supports all types of base Operating Systems including Windows, Linux, and macOS. But in this document, we have used Linux as the base OS.
 
-### 3. Deployment expertise
+## 3. Deployment expertise
 
 For successful deployment of the system and running of all server-side operations, the personnel ought to have the following minimum qualifications:
 
@@ -26,7 +25,7 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-### Follow these steps to deploy FundMaster Xe on Oracle
+## Follow these steps to deploy FundMaster Xe on Oracle
 
 ## **i.  Install jdk preferred version and Maven**
 
@@ -79,7 +78,7 @@ Download Sencha CMD and extjs framework. As at the time of writing this document
 
 Type sencha command, to see an output starting with "Sencha....". If however you get "command not found" error, take the installation path,and add to \$PATH manually:
 
-### Install Sencha and configure Extjs
+## Install Sencha and configure Extjs
 
 ````bash
     vim .bashrc file using vim/vi/gedit
@@ -92,7 +91,7 @@ Type sencha command, to see an output starting with "Sencha....". If however you
 
 Done. You can now build your project. Run the following command:
 
-### **Deploy FundMaster**
+## **Deploy FundMaster**
 ````bash
     cd <your-wildfly-server>/bin
     sh standalone.sh (starts the wildfly app server)
@@ -122,7 +121,7 @@ Rebuild and redeploy your project.
     cp xe/target/Xe.war /<your-wildfly>/standalone/deployments
 ````
 
-### **Follow these steps to deploy FundMaster Xe on Postgress**
+## **Follow these steps to deploy FundMaster Xe on Postgress**
 
  **Install Postgres  version >= 12.6**
  ````bash
@@ -310,23 +309,23 @@ create table USERS_SPONSORS
 
 All set, now continue the normal setup of Xe.
 
-### ORACLE - POSTGRES MIGRATION
-### TARGET
+## ORACLE - POSTGRES MIGRATION
+## TARGET
 ````
 To have Fundmaster XE run on PostgreSQL Database 
 ````
-### WHY
+## WHY
 ````
     1.Cost: Oracle license costs, using Oracle databases incurs additional costs for features like partitioning and high availability, and expenses can add up quickly. Open-source PostgreSQL is free to install and use.
     2.Flexibility: PostgreSQL has open-source licensing and is easily available from public cloud providers, including AWS. With PostgreSQL, you’re not at risk of vendor lock-in.
     3.Customizability: Because PostgreSQL is open-source, there are countless extensions and add-ons that can improve database performance markedly, and many of them are free to use. With Oracle, similar features quickly add up in cost.
   SOURCE: https://www.enterprisedb.com/blog/the-complete-oracle-to-postgresql-migration-guide-tutorial-move-convert-database-oracle-alternative
 ````
-### DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
+## DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
 ````
 NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates tables from entities.
 ````
-### Conversion Process
+## Conversion Process
 ```
 1. Modify Models/Entities to be postgres compatible . Eg using SEQUENCE generation type IDs
    source: https://vladmihalcea.com/jpa-entity-identifier-sequence/
@@ -347,7 +346,7 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 
 ```
 
-### PROCESS
+## PROCESS
 - [x] Set up PostgresSQL Database
 - [x] Set up data sources and persistence
 - [x] Make initial XE deployment
@@ -359,7 +358,7 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 - [ ] Testing
 
 
-### WEBAPP FOLDER
+## WEBAPP FOLDER
 ~~~~
 -user_doc
 -WEB-INF
@@ -368,8 +367,8 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 template_instructions.txt
 ~~~~
 
-### CHANGES MADE IN CODE
-### MUST HAVE SCHEMAS
+## CHANGES MADE IN CODE
+## MUST HAVE SCHEMAS
 ````
 aws_oracle_context
 aws_oracle_data
@@ -377,9 +376,9 @@ aws_oracle_ext
 pg_catalog
 ````
 
-### IMPORTANT SCRIPTS
+## IMPORTANT SCRIPTS
 
-### MODELS
+## MODELS
 ```java
 //@GeneratedValue(strategy = GenerationType.IDENTITY)
 @GeneratedValue(strategy = GenerationType.SEQUENCE)
@@ -391,83 +390,83 @@ private BigDecimal spotRate;
 //DTO
 //used BigInteger and Long for Ids, all variables in lowercase for mapping using transformers
 ````
-### NATIVE QUERIES
-### UPDATE
+## NATIVE QUERIES
+## UPDATE
 ```sql
 -- update MEMBERS m set m.EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 update MEMBERS m set EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 ```
-### SELECT
+## SELECT
 ```sql
 -- select m.MBSHIP_STATUS status, mb.GENDER gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 select m.MBSHIP_STATUS AS status, mb.GENDER AS gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 ```
-### hibernate sequence
+## hibernate sequence
 ````sql
 select nextval('hibernate_sequence');
 ````
-### ADD MONTHS
+## ADD MONTHS
 ```sql
 select add_months(cast(sysdate() as date),10);
 ```
-### MONTHS BETWEEN
+## MONTHS BETWEEN
 ```sql
 -- select months_between(:startPeriod,sysdate) 
 select DATE_PART('year', :startPeriod::date) - DATE_PART('year', current_timestamp::date) --Returns number of Years
 use  months_between(date, date) function
 Eg select months_between('2022-07-29 05:14:48'::date,current_date::date);
 ```
-### DATE TIME
+## DATE TIME
 ```sql
 -- SELECT sysdate
 select current_timestamp;
 
 use aws_oracle_ext.sysdate();
 ```
-### TO_DATE
+## TO_DATE
 ```sql
 select to_date('2021-08-26', 'YYYY-MM-DD') ;
 ```
-### DATE DIFF IN DAYS
+## DATE DIFF IN DAYS
 ```sql
 select (current_date-'2021-08-01') as dys;
 select daterange_subdiff(current_date,'2021-08-01') as dys;
 ```
-### LAST_DAY
+## LAST_DAY
 ```sql
 -- Created custom function last_day(date)
 use select last_day(now()::date);
 
 ```
-### ROWNUM
+## ROWNUM
 ```sql
 -- select  ROWNUM FROM MEMBERS m;
 select row_number() over (order by m.id) FROM MEMBERS m;
 -- select  ROWNUM FROM MEMBERS m where rownum=1;
 select row_number() over (order by m.id) FROM MEMBERS m LIMIT 1;
 ```
-### NVL
+## NVL
 ```sql
 -- select nvl(c.ee, 0);
 select coalesce(c.ee,0);
 ```
 
-### INSTR
+## INSTR
 ```sql
 -- select INSTR('xxx.xxx', '.');
 select position('.' in 'xxx.xxx');
 ```
-### Lob
+## Lob
 ```java
   //add @Type for postgres to know what type of lob ie ImageType/TextType etc
   @Lob
   @Type(type = "org.hibernate.type.TextType");
 ```
-### DESCRIBE TABLE
+## DESCRIBE TABLE
 ~~~sql
 SELECT table_name, column_name, data_type FROM information_schema.columns WHERE table_name = 'members';
 ~~~
-### List all procedures
+## List all procedures
 ~~~sql
 select n.nspname as schema,
        p.proname as procedure
@@ -476,12 +475,12 @@ join pg_namespace n on p.pronamespace = n.oid
 where n.nspname not in ('pg_catalog', 'information_schema')
 	and p.prokind = 'p'
 ~~~
-### FORMAT DATE
+## FORMAT DATE
 ~~~sql
 SELECT TO_CHAR(NOW() :: DATE, 'Mon dd, yyyy');
 ~~~
 
-### Examples
+## Examples
 ~~~sql
 select todate(current_date::date);
 select to_date('30-Sep-2021','dd-Mon-yyyy');
@@ -496,29 +495,29 @@ select todate(date_trunc('month',current_date));
 select to_timestamp('2022-01-01','YYYY-MM-DD');
 ~~~
 
-### ERROR
+## ERROR
 - [x] NonUniqueDiscoveredSqlAliasException: Encountered a duplicated sql alias
   `sql has more than one column with same name, introduce alias
   `
 - [x] Could not resolve PropertyAccess for dateAcquired on class com.systech.fm.dto.accounts.FixedAssetsDto
   `Find the attribute in the DTO and change to lowercase`
 
-### POSTGRES LOGIN USER
+## POSTGRES LOGIN USER
 ~~~bash
 psql -U posgres
 pwd [postgres]
 psql -V psql [ psql (PostgreSQL) 12.6 ]
 ~~~
-### IMPORT DB
+## IMPORT DB
 ~~~bash
 pg_restore -U postgres --dbname=fm --create --verbose c:\pgbackup\fm.tar
 ~~~
-### RUN SQL
+## RUN SQL
 ~~~bash
 #LOGIN TO PSQL
 \i path_to_sql_file
 ~~~
-### IMPORT MILLION RECORDS FASTER
+## IMPORT MILLION RECORDS FASTER
 ~~~postgresql
 create table peopleNames(
     name varchar(255),
@@ -530,21 +529,21 @@ create table peopleNames(
 --FROM TERMINAL
 COPY peopleNames FROM '/path/to/pp-complete.csv' with (format csv, encoding 'utf-8', header false, null '', quote '"');
 ~~~
-### SPLIT DELIMITED STRING 
+## SPLIT DELIMITED STRING 
 ~~~postgresql
 select unnest(string_to_array('1,2,3,4,5',',')) as id;
 --or
 SELECT regexp_split_to_table('1,2,3,4,5',',') AS ID;
 --https://medium.com/swlh/three-routes-convert-comma-separated-column-to-rows-c17c85079ecf
 ~~~
-### DROP ALL VIEWS SQL
+## DROP ALL VIEWS SQL
 ~~~sql
 SELECT 'DROP VIEW ' ||  (table_name) || ' cascade;'
 FROM information_schema.views
 WHERE table_schema IN ('public');
  --copy and save to file and execute
 ~~~
-### show ALL tables in schema SQL
+## show ALL tables in schema SQL
 ~~~sql
 SELECT table_name FROM information_schema.tables
 WHERE table_schema = 'public'
@@ -555,7 +554,7 @@ FROM information_schema.tables
 WHERE table_schema IN ('public')
   and table_name like 'act_%';
 ~~~
-### IMPORTANT SCRIPTS
+## IMPORTANT SCRIPTS
 ~~~sql
 
 ALTER SEQUENCE hibernate_sequence RESTART WITH 12879141;
@@ -579,7 +578,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ~~~
 
-### INSTALLING AN EXTENSION
+## INSTALLING AN EXTENSION
 ~~~
    We will be installing tsm_system_rows extension for quick randomizing rows in a table.
    1.   Download postgres source from [https://www.postgresql.org/ftp/source/]
@@ -603,7 +602,7 @@ SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND 
     make && sudo PATH=$PATH make install
 ~~~
 
-### IMPORTANT SCRIPTS
+## IMPORTANT SCRIPTS
 ````sql
 select 'alter table '||owner||'.'||table_name||' disable constraint '||constraint_name||';' from user_constraints;
 select 'alter table '||owner||'.'||table_name||' enable constraint '||constraint_name||';' from user_constraints;
@@ -621,7 +620,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ````
 
-### ALTER TABLE COLUMNS
+## ALTER TABLE COLUMNS
 ````sql
 with mitables
        as (select unnest(ARRAY ['closing_balances','BENEFITS','BENEFIT_PAYMENTS','PROV_BEN_BAL','FUND_VALUES']) as tb)
@@ -642,7 +641,7 @@ where table_name = 'closing_balances'
   and data_type = 'numeric';
 ````
 
-### Good practices
+## Good practices
     [https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe](https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe)
 1 Don't use Upper letters in the name of database, schema, tables or columns in PostgreSQL. Else you should to escape this names with quotes, and this can cause Syntax errors, so instead you can use :
 
@@ -661,14 +660,14 @@ where table_name = 'closing_balances'
 
 3 To difference between Dto and Entity its good practice to use Entity in the end of the name of your Entity for example UserEntity
 
-### IMPORTANT LINKS
+## IMPORTANT LINKS
 https://www.postgresqltutorial.com/
 [https://postgrescheatsheet.com/#/tables](https://postgrescheatsheet.com/#/tables)
 [https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 https://www.postgresqltutorial.com/postgresql-reset-password/
 
 
-### **4. Runtime Maintenance**
+## **4. Runtime Maintenance**
 
 **Software Release & Versioning**
 
@@ -700,9 +699,12 @@ Most of these changes are client-driven and some are invented by the technical t
 
 There is a feature on FundMaster where you can view the remaining number of days before the system license expires and request for a new one. See the screenshot below:
 
-<img  alt="licensing" width="90%" height="auto"  class="center"  src="../media/lincence.png">
+<!-- <img  alt="licensing" width="90%" height="auto"  class="center"  src="../media/lincence.png"> -->
+
+<img  alt="licensing" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/lincence.png">
 
 
 **Note** Once the license expires, you should get an error requiring you to get a new License as shown in the screenshot below:
 
-<img  alt="licensing" width="90%" height="auto"  class="center"  src="..//media/licenseinfo.png">
+<img  alt="licensing" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/licenseinfo.png">
+
