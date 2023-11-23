@@ -36,7 +36,7 @@ module.exports = {
       },
       {
         text: 'Deployment Guide',
-        link: '/videotutorials/'    
+        link: '/deployment/'    
       },
       {
         text: ' Video Tutorials',
