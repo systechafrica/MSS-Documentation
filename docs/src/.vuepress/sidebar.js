@@ -130,6 +130,7 @@ module.exports = {
       title: 'Installation Guide',
       children: [
         '/deployment/',
+        '/deployment/postgres',
       ],
     }
 
