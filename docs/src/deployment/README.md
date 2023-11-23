@@ -14,7 +14,7 @@ Before deploying FundMaster and its peripherals, the system requirements must be
     for the detailed requisite environment specification.
 -   Note that FundMaster supports all types of base Operating Systems including Windows, Linux, and macOS. But in this document, we have used Linux as the base OS.
 
-## 3. Deployment expertise
+## 3. Deployment Expertise
 
 For successful deployment of the system and running of all server-side operations, the personnel ought to have the following minimum qualifications:
 
@@ -25,9 +25,9 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-## Follow these steps to deploy FundMaster Xe on Oracle
+**Follow these steps to deploy FundMaster Xe on Oracle**
 
-## **i.  Install jdk preferred version and Maven**
+**i.  Install jdk preferred version and Maven**
 
 As at the date of writing this guide, the most stable version to run Xe is jdk 11.
 
@@ -47,20 +47,20 @@ Open the terminal and run the following commands to set the environment variable
     export PATH=＄M2:＄PATH
 ````
 
-## **ii. Install intellij Ultimate**
+**ii. Install intellij Ultimate**
 
 After a successful installation of Java, see previous step, visit [jetbrain.com](https://www.jetbrains.com/help/idea/installation-guide.html#98d0a3d8) to learn how to install ultimate version. Note that this version of intellij is premium, and therefore the activation key is needed. Contact your administrator for more details.
 
 
-## **iii. Install Oracle database**
+**iii. Install Oracle database**
 
 There are many resources online that can help in the installation of Oracle databases. This guide is for Linux/Mac users, although there are similarities with Windows users. The article [Install Oracle 19C on Centos8](https://www.centlinux.com/2020/04/install-oracle-database-19c-on-centos-8.html) provides clear step-by-step instructions on how to install oracle successfully.
 
-## **iv. Install & Configure wildfly**
+**iv. Install & Configure wildfly**
 
 > ``` To be filled by John Oenga ```
 
-## **v. Clone Backend (Xe) and Frontend(extjs)**
+**v. Clone Backend (Xe) and Frontend(extjs)**
 
 Go to your working directory and clone xe and extjs:
 
@@ -70,7 +70,7 @@ Go to your working directory and clone xe and extjs:
     git clone  \<xe-url\>
 ````
 
-## **vi. Install Sencha and configure Extjs**
+**vi. Install Sencha and configure Extjs**
 
 Visit Sencha support official site (provide link) and login with Systech's provided details.
 
@@ -121,7 +121,7 @@ Rebuild and redeploy your project.
     cp xe/target/Xe.war /<your-wildfly>/standalone/deployments
 ````
 
-## **Follow these steps to deploy FundMaster Xe on Postgress**
+**Follow these steps to deploy FundMaster Xe on Postgress**
 
  **Install Postgres  version >= 12.6**
  ````bash
@@ -310,22 +310,23 @@ create table USERS_SPONSORS
 All set, now continue the normal setup of Xe.
 
 ## ORACLE - POSTGRES MIGRATION
-## TARGET
+**TARGET**
 ````
 To have Fundmaster XE run on PostgreSQL Database 
 ````
-## WHY
+**WHY**
 ````
     1.Cost: Oracle license costs, using Oracle databases incurs additional costs for features like partitioning and high availability, and expenses can add up quickly. Open-source PostgreSQL is free to install and use.
     2.Flexibility: PostgreSQL has open-source licensing and is easily available from public cloud providers, including AWS. With PostgreSQL, you’re not at risk of vendor lock-in.
     3.Customizability: Because PostgreSQL is open-source, there are countless extensions and add-ons that can improve database performance markedly, and many of them are free to use. With Oracle, similar features quickly add up in cost.
   SOURCE: https://www.enterprisedb.com/blog/the-complete-oracle-to-postgresql-migration-guide-tutorial-move-convert-database-oracle-alternative
 ````
+
 ## DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
 ````
 NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates tables from entities.
 ````
-## Conversion Process
+**Conversion Process**
 ```
 1. Modify Models/Entities to be postgres compatible . Eg using SEQUENCE generation type IDs
    source: https://vladmihalcea.com/jpa-entity-identifier-sequence/
@@ -346,7 +347,8 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 
 ```
 
-## PROCESS
+**PROCESS**
+
 - [x] Set up PostgresSQL Database
 - [x] Set up data sources and persistence
 - [x] Make initial XE deployment
@@ -358,7 +360,7 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 - [ ] Testing
 
 
-## WEBAPP FOLDER
+**WEBAPP FOLDER**
 ~~~~
 -user_doc
 -WEB-INF
@@ -367,7 +369,8 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 template_instructions.txt
 ~~~~
 
-## CHANGES MADE IN CODE
+**CHANGES MADE IN CODE**
+
 ## MUST HAVE SCHEMAS
 ````
 aws_oracle_context
@@ -378,7 +381,7 @@ pg_catalog
 
 ## IMPORTANT SCRIPTS
 
-## MODELS
+#### MODELS
 ```java
 //@GeneratedValue(strategy = GenerationType.IDENTITY)
 @GeneratedValue(strategy = GenerationType.SEQUENCE)
@@ -396,38 +399,38 @@ private BigDecimal spotRate;
 -- update MEMBERS m set m.EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 update MEMBERS m set EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 ```
-## SELECT
+#### SELECT
 ```sql
 -- select m.MBSHIP_STATUS status, mb.GENDER gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 select m.MBSHIP_STATUS AS status, mb.GENDER AS gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 ```
-## hibernate sequence
+#### hibernate sequence
 ````sql
 select nextval('hibernate_sequence');
 ````
-## ADD MONTHS
+#### ADD MONTHS
 ```sql
 select add_months(cast(sysdate() as date),10);
 ```
-## MONTHS BETWEEN
+#### MONTHS BETWEEN
 ```sql
 -- select months_between(:startPeriod,sysdate) 
 select DATE_PART('year', :startPeriod::date) - DATE_PART('year', current_timestamp::date) --Returns number of Years
 use  months_between(date, date) function
 Eg select months_between('2022-07-29 05:14:48'::date,current_date::date);
 ```
-## DATE TIME
+#### DATE TIME
 ```sql
 -- SELECT sysdate
 select current_timestamp;
 
 use aws_oracle_ext.sysdate();
 ```
-## TO_DATE
+#### TO_DATE
 ```sql
 select to_date('2021-08-26', 'YYYY-MM-DD') ;
 ```
-## DATE DIFF IN DAYS
+#### DATE DIFF IN DAYS
 ```sql
 select (current_date-'2021-08-01') as dys;
 select daterange_subdiff(current_date,'2021-08-01') as dys;
@@ -706,5 +709,5 @@ There is a feature on FundMaster where you can view the remaining number of days
 
 **Note** Once the license expires, you should get an error requiring you to get a new License as shown in the screenshot below:
 
-<img  alt="licensing" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/licenseinfo.png">
+<img  alt="licensing" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/licenseinfo.png">
 
