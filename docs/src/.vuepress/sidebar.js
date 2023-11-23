@@ -125,7 +125,7 @@ module.exports = {
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
       ],
-    }
+    },
     {
       title: 'Installation Guide',
       children: [
