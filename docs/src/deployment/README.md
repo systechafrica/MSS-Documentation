@@ -25,7 +25,7 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-**Follow these steps to deploy FundMaster Xe on Oracle**
+#### Follow these steps to deploy FundMaster Xe on Oracle
 
 **i.  Install jdk preferred version and Maven**
 
@@ -78,7 +78,7 @@ Download Sencha CMD and extjs framework. As at the time of writing this document
 
 Type sencha command, to see an output starting with "Sencha....". If however you get "command not found" error, take the installation path,and add to \$PATH manually:
 
-## Install Sencha and configure Extjs
+#### Install Sencha and configure Extjs
 
 ````bash
     vim .bashrc file using vim/vi/gedit
@@ -91,7 +91,7 @@ Type sencha command, to see an output starting with "Sencha....". If however you
 
 Done. You can now build your project. Run the following command:
 
-## **Deploy FundMaster**
+#### Deploy FundMaster
 ````bash
     cd <your-wildfly-server>/bin
     sh standalone.sh (starts the wildfly app server)
@@ -309,7 +309,8 @@ create table USERS_SPONSORS
 
 All set, now continue the normal setup of Xe.
 
-## ORACLE - POSTGRES MIGRATION
+#### ORACLE - POSTGRES MIGRATION
+
 **TARGET**
 ````
 To have Fundmaster XE run on PostgreSQL Database 
@@ -322,7 +323,7 @@ To have Fundmaster XE run on PostgreSQL Database
   SOURCE: https://www.enterprisedb.com/blog/the-complete-oracle-to-postgresql-migration-guide-tutorial-move-convert-database-oracle-alternative
 ````
 
-## DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
+#### DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
 ````
 NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates tables from entities.
 ````
@@ -369,9 +370,9 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 template_instructions.txt
 ~~~~
 
-**CHANGES MADE IN CODE**
+#### CHANGES MADE IN CODE
 
-## MUST HAVE SCHEMAS
+#### MUST HAVE SCHEMAS
 ````
 aws_oracle_context
 aws_oracle_data
@@ -379,7 +380,7 @@ aws_oracle_ext
 pg_catalog
 ````
 
-## IMPORTANT SCRIPTS
+#### IMPORTANT SCRIPTS
 
 #### MODELS
 ```java
@@ -435,41 +436,41 @@ select to_date('2021-08-26', 'YYYY-MM-DD') ;
 select (current_date-'2021-08-01') as dys;
 select daterange_subdiff(current_date,'2021-08-01') as dys;
 ```
-## LAST_DAY
+#### LAST_DAY
 ```sql
 -- Created custom function last_day(date)
 use select last_day(now()::date);
 
 ```
-## ROWNUM
+#### ROWNUM
 ```sql
 -- select  ROWNUM FROM MEMBERS m;
 select row_number() over (order by m.id) FROM MEMBERS m;
 -- select  ROWNUM FROM MEMBERS m where rownum=1;
 select row_number() over (order by m.id) FROM MEMBERS m LIMIT 1;
 ```
-## NVL
+#### NVL
 ```sql
 -- select nvl(c.ee, 0);
 select coalesce(c.ee,0);
 ```
 
-## INSTR
+#### INSTR
 ```sql
 -- select INSTR('xxx.xxx', '.');
 select position('.' in 'xxx.xxx');
 ```
-## Lob
+#### Lob
 ```java
   //add @Type for postgres to know what type of lob ie ImageType/TextType etc
   @Lob
   @Type(type = "org.hibernate.type.TextType");
 ```
-## DESCRIBE TABLE
+#### DESCRIBE TABLE
 ~~~sql
 SELECT table_name, column_name, data_type FROM information_schema.columns WHERE table_name = 'members';
 ~~~
-## List all procedures
+#### List all procedures
 ~~~sql
 select n.nspname as schema,
        p.proname as procedure
@@ -478,12 +479,12 @@ join pg_namespace n on p.pronamespace = n.oid
 where n.nspname not in ('pg_catalog', 'information_schema')
 	and p.prokind = 'p'
 ~~~
-## FORMAT DATE
+#### FORMAT DATE
 ~~~sql
 SELECT TO_CHAR(NOW() :: DATE, 'Mon dd, yyyy');
 ~~~
 
-## Examples
+#### Examples
 ~~~sql
 select todate(current_date::date);
 select to_date('30-Sep-2021','dd-Mon-yyyy');
@@ -498,29 +499,29 @@ select todate(date_trunc('month',current_date));
 select to_timestamp('2022-01-01','YYYY-MM-DD');
 ~~~
 
-## ERROR
+#### ERROR
 - [x] NonUniqueDiscoveredSqlAliasException: Encountered a duplicated sql alias
   `sql has more than one column with same name, introduce alias
   `
 - [x] Could not resolve PropertyAccess for dateAcquired on class com.systech.fm.dto.accounts.FixedAssetsDto
   `Find the attribute in the DTO and change to lowercase`
 
-## POSTGRES LOGIN USER
+#### POSTGRES LOGIN USER
 ~~~bash
 psql -U posgres
 pwd [postgres]
 psql -V psql [ psql (PostgreSQL) 12.6 ]
 ~~~
-## IMPORT DB
+#### IMPORT DB
 ~~~bash
 pg_restore -U postgres --dbname=fm --create --verbose c:\pgbackup\fm.tar
 ~~~
-## RUN SQL
+#### RUN SQL
 ~~~bash
 #LOGIN TO PSQL
 \i path_to_sql_file
 ~~~
-## IMPORT MILLION RECORDS FASTER
+#### IMPORT MILLION RECORDS FASTER
 ~~~postgresql
 create table peopleNames(
     name varchar(255),
@@ -532,21 +533,21 @@ create table peopleNames(
 --FROM TERMINAL
 COPY peopleNames FROM '/path/to/pp-complete.csv' with (format csv, encoding 'utf-8', header false, null '', quote '"');
 ~~~
-## SPLIT DELIMITED STRING 
+#### SPLIT DELIMITED STRING 
 ~~~postgresql
 select unnest(string_to_array('1,2,3,4,5',',')) as id;
 --or
 SELECT regexp_split_to_table('1,2,3,4,5',',') AS ID;
 --https://medium.com/swlh/three-routes-convert-comma-separated-column-to-rows-c17c85079ecf
 ~~~
-## DROP ALL VIEWS SQL
+#### DROP ALL VIEWS SQL
 ~~~sql
 SELECT 'DROP VIEW ' ||  (table_name) || ' cascade;'
 FROM information_schema.views
 WHERE table_schema IN ('public');
  --copy and save to file and execute
 ~~~
-## show ALL tables in schema SQL
+#### show ALL tables in schema SQL
 ~~~sql
 SELECT table_name FROM information_schema.tables
 WHERE table_schema = 'public'
@@ -557,7 +558,7 @@ FROM information_schema.tables
 WHERE table_schema IN ('public')
   and table_name like 'act_%';
 ~~~
-## IMPORTANT SCRIPTS
+#### IMPORTANT SCRIPTS
 ~~~sql
 
 ALTER SEQUENCE hibernate_sequence RESTART WITH 12879141;
@@ -581,7 +582,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ~~~
 
-## INSTALLING AN EXTENSION
+#### INSTALLING AN EXTENSION
 ~~~
    We will be installing tsm_system_rows extension for quick randomizing rows in a table.
    1.   Download postgres source from [https://www.postgresql.org/ftp/source/]
@@ -605,7 +606,7 @@ SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND 
     make && sudo PATH=$PATH make install
 ~~~
 
-## IMPORTANT SCRIPTS
+#### IMPORTANT SCRIPTS
 ````sql
 select 'alter table '||owner||'.'||table_name||' disable constraint '||constraint_name||';' from user_constraints;
 select 'alter table '||owner||'.'||table_name||' enable constraint '||constraint_name||';' from user_constraints;
@@ -623,7 +624,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ````
 
-## ALTER TABLE COLUMNS
+#### ALTER TABLE COLUMNS
 ````sql
 with mitables
        as (select unnest(ARRAY ['closing_balances','BENEFITS','BENEFIT_PAYMENTS','PROV_BEN_BAL','FUND_VALUES']) as tb)
@@ -644,7 +645,7 @@ where table_name = 'closing_balances'
   and data_type = 'numeric';
 ````
 
-## Good practices
+#### Good practices
     [https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe](https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe)
 1 Don't use Upper letters in the name of database, schema, tables or columns in PostgreSQL. Else you should to escape this names with quotes, and this can cause Syntax errors, so instead you can use :
 
@@ -663,7 +664,7 @@ where table_name = 'closing_balances'
 
 3 To difference between Dto and Entity its good practice to use Entity in the end of the name of your Entity for example UserEntity
 
-## IMPORTANT LINKS
+#### IMPORTANT LINKS
 https://www.postgresqltutorial.com/
 [https://postgrescheatsheet.com/#/tables](https://postgrescheatsheet.com/#/tables)
 [https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
