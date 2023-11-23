@@ -1,10 +1,12 @@
 ### Deploy FundMaster on Oracle and Postgress
 
+
 ## 1. Introduction
 
 The guide details the prior requirements and deployment process for FundMaster Xe (and its peripherals - Member Self-Service portal (MSS) and Unstructured Supplementary Service Data (USSD)) on servers. If executed correctly, the instructions herein will lead to successful installation of FundMaster on the oracle database.
 
 Please follow this link: <https://systechafrica.github.io/#/> to access the System documentation and read more on the FundMaster core system.
+
 
 ## 2. Software Prerequisites
 
@@ -13,6 +15,7 @@ Before deploying FundMaster and its peripherals, the system requirements must be
     hosting)bdocument](https://docs.google.com/document/d/1zGpBqDdy2Hp2P5gWXAyh2H0yGtdGg-DRjNpU3shHUPo/edit)
     for the detailed requisite environment specification.
 -   Note that FundMaster supports all types of base Operating Systems including Windows, Linux, and macOS. But in this document, we have used Linux as the base OS.
+
 
 ## 3. Deployment Expertise
 
@@ -56,9 +59,11 @@ After a successful installation of Java, see previous step, visit [jetbrain.com]
 
 There are many resources online that can help in the installation of Oracle databases. This guide is for Linux/Mac users, although there are similarities with Windows users. The article [Install Oracle 19C on Centos8](https://www.centlinux.com/2020/04/install-oracle-database-19c-on-centos-8.html) provides clear step-by-step instructions on how to install oracle successfully.
 
+
 ### *iv. Install & Configure wildfly*
 
 > ``` To be filled by John Oenga ```
+
 
 ### *v. Clone Backend (Xe) and Frontend(extjs)*
 
@@ -78,6 +83,7 @@ Download Sencha CMD and extjs framework. As at the time of writing this document
 
 Type sencha command, to see an output starting with "Sencha....". If however you get "command not found" error, take the installation path,and add to \$PATH manually:
 
+
 ### *Install Sencha and configure Extjs*
 
 ````bash
@@ -92,6 +98,7 @@ Type sencha command, to see an output starting with "Sencha....". If however you
 Done. You can now build your project. Run the following command:
 
 ### Deploy FundMaster
+
 ````bash
     cd <your-wildfly-server>/bin
     sh standalone.sh (starts the wildfly app server)
@@ -128,6 +135,7 @@ Rebuild and redeploy your project.
   psql -V 
 ````
 ### *Confirm version installed*
+
 
 ### Find newest guide on postgres official site
 
@@ -169,7 +177,7 @@ Rebuild and redeploy your project.
 
 ````
 
-### Login to postgres
+### *Login to postgres*
 
 ````
     psql -U postgres
@@ -177,7 +185,7 @@ Rebuild and redeploy your project.
     alter user postgres with password 'YOURPASSWORD';
 ````
 
-### Exit from postgres session
+### *Exit from postgres session*
    
 ````
     Now cd /var/lib/pgsql/15/data/
@@ -197,7 +205,7 @@ Rebuild and redeploy your project.
     sudo systemctl restart postgresql-15.service
 ````
 
-### login to postgres using 'YOURPASSWORD'
+### login to Postgres using 'YOURPASSWORD'
 
 ### *Install Wildfly  version >= 18.0 Final*
 
@@ -216,7 +224,7 @@ Rebuild and redeploy your project.
 
 ** NB: Replace above with your database name and connection credentials. Use [fm] as database name for smooth run**
 
-### *Run or deploy Xe*
+### *Run or Deploy Xe*
 
 ````bash
 git checkout xe-postgres
@@ -234,7 +242,7 @@ mvn clean compile wildfly:deploy
  \q #Quit
 ````
 
-### *Create this tables*
+### *Create These Tables*
 
 ```SQL
 create domain clob as text;
@@ -291,7 +299,7 @@ create table USERS_SPONSORS
 
 ```
 
-### Import functions and procedures and Views
+### Import Functions and Procedures and Views
 
 ````bash
 # locate routines_64.sql and views_349.sql in ../resources/pg_scripts/ in project folder
@@ -312,11 +320,11 @@ All set, now continue the normal setup of Xe.
 
 ### ORACLE - POSTGRES MIGRATION
 
-**TARGET**
+### *Target*
 ````
 To have Fundmaster XE run on PostgreSQL Database 
 ````
-**WHY**
+### *Why*
 ````
     1.Cost: Oracle license costs, using Oracle databases incurs additional costs for features like partitioning and high availability, and expenses can add up quickly. Open-source PostgreSQL is free to install and use.
     2.Flexibility: PostgreSQL has open-source licensing and is easily available from public cloud providers, including AWS. With PostgreSQL, you’re not at risk of vendor lock-in.
@@ -328,7 +336,7 @@ To have Fundmaster XE run on PostgreSQL Database
 ````
 NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates tables from entities.
 ````
-**Conversion Process**
+### Conversion Process
 ```
 1. Modify Models/Entities to be postgres compatible . Eg using SEQUENCE generation type IDs
    source: https://vladmihalcea.com/jpa-entity-identifier-sequence/
@@ -349,7 +357,7 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 
 ```
 
-**PROCESS**
+### PROCESS
 
 - [x] Set up PostgresSQL Database
 - [x] Set up data sources and persistence
@@ -610,6 +618,7 @@ SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND 
 ~~~
 
 ### IMPORTANT SCRIPTS
+
 ````sql
 select 'alter table '||owner||'.'||table_name||' disable constraint '||constraint_name||';' from user_constraints;
 select 'alter table '||owner||'.'||table_name||' enable constraint '||constraint_name||';' from user_constraints;
@@ -628,6 +637,7 @@ SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND 
 ````
 
 ### ALTER TABLE COLUMNS
+
 ````sql
 with mitables
        as (select unnest(ARRAY ['closing_balances','BENEFITS','BENEFIT_PAYMENTS','PROV_BEN_BAL','FUND_VALUES']) as tb)
@@ -649,6 +659,7 @@ where table_name = 'closing_balances'
 ````
 
 ### Good Practices
+
     [https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe](https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe)
 1 Don't use Upper letters in the name of database, schema, tables or columns in PostgreSQL. Else you should to escape this names with quotes, and this can cause Syntax errors, so instead you can use :
 
@@ -667,7 +678,8 @@ where table_name = 'closing_balances'
 
 3 To difference between Dto and Entity its good practice to use Entity in the end of the name of your Entity for example UserEntity
 
-### IMPORTANT LINKS
+### Important Links
+
 https://www.postgresqltutorial.com/
 [https://postgrescheatsheet.com/#/tables](https://postgrescheatsheet.com/#/tables)
 [https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
@@ -702,7 +714,7 @@ The versioning type that we used in semantic versioning. Semantic versioning wor
 
 Most of these changes are client-driven and some are invented by the technical team.
 
-**Licensing**
+### *Licensing*
 
 There is a feature on FundMaster where you can view the remaining number of days before the system license expires and request for a new one. See the screenshot below:
 
