@@ -129,7 +129,7 @@ module.exports = {
     {
       title: 'Installation Guide',
       children: [
-        '/deployfundmaster/',
+        '/deployment/',
       ],
     }
 
