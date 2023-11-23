@@ -25,9 +25,9 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-#### Follow these steps to deploy FundMaster Xe on Oracle
+### Follow these steps to deploy FundMaster Xe on Oracle
 
-**i.  Install jdk preferred version and Maven**
+### *i.  Install jdk preferred version and Maven*
 
 As at the date of writing this guide, the most stable version to run Xe is jdk 11.
 
@@ -47,20 +47,20 @@ Open the terminal and run the following commands to set the environment variable
     export PATH=＄M2:＄PATH
 ````
 
-**ii. Install intellij Ultimate**
+### *ii. Install intellij Ultimate*
 
 After a successful installation of Java, see previous step, visit [jetbrain.com](https://www.jetbrains.com/help/idea/installation-guide.html#98d0a3d8) to learn how to install ultimate version. Note that this version of intellij is premium, and therefore the activation key is needed. Contact your administrator for more details.
 
 
-**iii. Install Oracle database**
+### *iii. Install Oracle database*
 
 There are many resources online that can help in the installation of Oracle databases. This guide is for Linux/Mac users, although there are similarities with Windows users. The article [Install Oracle 19C on Centos8](https://www.centlinux.com/2020/04/install-oracle-database-19c-on-centos-8.html) provides clear step-by-step instructions on how to install oracle successfully.
 
-**iv. Install & Configure wildfly**
+### *iv. Install & Configure wildfly*
 
 > ``` To be filled by John Oenga ```
 
-**v. Clone Backend (Xe) and Frontend(extjs)**
+### *v. Clone Backend (Xe) and Frontend(extjs)*
 
 Go to your working directory and clone xe and extjs:
 
@@ -70,7 +70,7 @@ Go to your working directory and clone xe and extjs:
     git clone  \<xe-url\>
 ````
 
-**vi. Install Sencha and configure Extjs**
+### *vi. Install Sencha and configure Extjs*
 
 Visit Sencha support official site (provide link) and login with Systech's provided details.
 
@@ -78,7 +78,7 @@ Download Sencha CMD and extjs framework. As at the time of writing this document
 
 Type sencha command, to see an output starting with "Sencha....". If however you get "command not found" error, take the installation path,and add to \$PATH manually:
 
-#### Install Sencha and configure Extjs
+### *Install Sencha and configure Extjs*
 
 ````bash
     vim .bashrc file using vim/vi/gedit
@@ -91,7 +91,7 @@ Type sencha command, to see an output starting with "Sencha....". If however you
 
 Done. You can now build your project. Run the following command:
 
-#### Deploy FundMaster
+### Deploy FundMaster
 ````bash
     cd <your-wildfly-server>/bin
     sh standalone.sh (starts the wildfly app server)
@@ -121,15 +121,15 @@ Rebuild and redeploy your project.
     cp xe/target/Xe.war /<your-wildfly>/standalone/deployments
 ````
 
-**Follow these steps to deploy FundMaster Xe on Postgress**
+### Follow these steps to deploy FundMaster Xe on Postgress
 
- **Install Postgres  version >= 12.6**
+ ### *Install Postgres  version >= 12.6*
  ````bash
   psql -V 
 ````
-**Confirm version installed**
+### *Confirm version installed*
 
-**Find newest guide on postgres official site**
+### Find newest guide on postgres official site
 
 ````bash
     sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-37-x86_64/pgdg-fedora-repo-latest.noarch.rpm
@@ -151,9 +151,9 @@ Rebuild and redeploy your project.
     host    all             all             0.0.0.0/0                   trust
 ````
 
-**Edit postgresql.conf**
+### Edit postgresql.conf
 
-**Find and uncomment line #listen_addresses = 'localhost' and edit to**
+### *Find and uncomment line #listen_addresses = 'localhost' and edit to*
 
 ````
        listen_addresses = '*'
@@ -162,14 +162,14 @@ Rebuild and redeploy your project.
        #password_encryption = scram-sha-256     # scram-sha-256 or md5
 ````
 
-**Exit from root and restart the service**
+### *Exit from root and restart the service*
 
 ````
     sudo systemctl restart postgresql-15.service
 
 ````
 
-**Login to postgres**
+### Login to postgres
 
 ````
     psql -U postgres
@@ -177,7 +177,7 @@ Rebuild and redeploy your project.
     alter user postgres with password 'YOURPASSWORD';
 ````
 
-**Exit from postgres session**
+### Exit from postgres session
    
 ````
     Now cd /var/lib/pgsql/15/data/
@@ -191,17 +191,17 @@ Rebuild and redeploy your project.
 
 ````
    
-**Exit from root and restart the service:**
+### *Exit from root and restart the service:*
 
 ````
     sudo systemctl restart postgresql-15.service
 ````
 
-**login to postgres using 'YOURPASSWORD'**
+### login to postgres using 'YOURPASSWORD'
 
-**Install Wildfly  version >= 18.0 Final**
+### *Install Wildfly  version >= 18.0 Final*
 
-**Configure Datasource & Setup Driver**
+### *Configure Datasource & Setup Driver*
 
 ````xml
  <datasource jndi-name="java:jboss/datasources/PostgresXe" pool-name="PostgresXe" enabled="true" use-java-context="true">
@@ -216,14 +216,14 @@ Rebuild and redeploy your project.
 
 ** NB: Replace above with your database name and connection credentials. Use [fm] as database name for smooth run**
 
-**Run or deploy Xe**
+### *Run or deploy Xe*
 
 ````bash
 git checkout xe-postgres
 mvn clean compile wildfly:deploy
 ````
 
-**Confirm Creation of Tables**
+### *Confirm Creation of Tables*
 
 ````bash
  psql -U your_postgres_user
@@ -234,7 +234,7 @@ mvn clean compile wildfly:deploy
  \q #Quit
 ````
 
-**Create this tables**
+### *Create this tables*
 
 ```SQL
 create domain clob as text;
@@ -291,7 +291,7 @@ create table USERS_SPONSORS
 
 ```
 
-**Import functions and procedures and Views**
+### Import functions and procedures and Views
 
 ````bash
 # locate routines_64.sql and views_349.sql in ../resources/pg_scripts/ in project folder
@@ -309,7 +309,8 @@ create table USERS_SPONSORS
 
 All set, now continue the normal setup of Xe.
 
-#### ORACLE - POSTGRES MIGRATION
+
+### ORACLE - POSTGRES MIGRATION
 
 **TARGET**
 ````
@@ -323,7 +324,7 @@ To have Fundmaster XE run on PostgreSQL Database
   SOURCE: https://www.enterprisedb.com/blog/the-complete-oracle-to-postgresql-migration-guide-tutorial-move-convert-database-oracle-alternative
 ````
 
-#### DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
+### DO WE NEED ORACLE DATABASE TO POSTGRES DATABASE MIGRATION
 ````
 NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates tables from entities.
 ````
@@ -370,9 +371,9 @@ NO. With JPA/HIBERNATE technology, On Installation Fundmaster XE generates table
 template_instructions.txt
 ~~~~
 
-#### CHANGES MADE IN CODE
+### CHANGES MADE IN CODE
 
-#### MUST HAVE SCHEMAS
+### MUST HAVE SCHEMAS
 ````
 aws_oracle_context
 aws_oracle_data
@@ -380,9 +381,9 @@ aws_oracle_ext
 pg_catalog
 ````
 
-#### IMPORTANT SCRIPTS
+### IMPORTANT SCRIPTS
 
-#### MODELS
+### MODELS
 ```java
 //@GeneratedValue(strategy = GenerationType.IDENTITY)
 @GeneratedValue(strategy = GenerationType.SEQUENCE)
@@ -394,83 +395,83 @@ private BigDecimal spotRate;
 //DTO
 //used BigInteger and Long for Ids, all variables in lowercase for mapping using transformers
 ```
-#### NATIVE QUERIES
-#### UPDATE
+### NATIVE QUERIES
+### UPDATE
 ```sql
 -- update MEMBERS m set m.EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 update MEMBERS m set EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 ```
-#### SELECT
+### SELECT
 ```sql
 -- select m.MBSHIP_STATUS status, mb.GENDER gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 select m.MBSHIP_STATUS AS status, mb.GENDER AS gender from members m INNER JOIN MEMBERS_BIOS mb on m.MEMBERBIO_ID = mb.ID where m.ID=7165;
 ```
-#### hibernate sequence
+### hibernate sequence
 ````sql
 select nextval('hibernate_sequence');
 ````
-#### ADD MONTHS
+### ADD MONTHS
 ```sql
 select add_months(cast(sysdate() as date),10);
 ```
-#### MONTHS BETWEEN
+### MONTHS BETWEEN
 ```sql
 -- select months_between(:startPeriod,sysdate) 
 select DATE_PART('year', :startPeriod::date) - DATE_PART('year', current_timestamp::date) --Returns number of Years
 use  months_between(date, date) function
 Eg select months_between('2022-07-29 05:14:48'::date,current_date::date);
 ```
-#### DATE TIME
+### DATE TIME
 ```sql
 -- SELECT sysdate
 select current_timestamp;
 
 use aws_oracle_ext.sysdate();
 ```
-#### TO_DATE
+### TO_DATE
 ```sql
 select to_date('2021-08-26', 'YYYY-MM-DD') ;
 ```
-#### DATE DIFF IN DAYS
+### DATE DIFF IN DAYS
 ```sql
 select (current_date-'2021-08-01') as dys;
 select daterange_subdiff(current_date,'2021-08-01') as dys;
 ```
-#### LAST_DAY
+### LAST_DAY
 ```sql
 -- Created custom function last_day(date)
 use select last_day(now()::date);
 
 ```
-#### ROWNUM
+### ROWNUM
 ```sql
 -- select  ROWNUM FROM MEMBERS m;
 select row_number() over (order by m.id) FROM MEMBERS m;
 -- select  ROWNUM FROM MEMBERS m where rownum=1;
 select row_number() over (order by m.id) FROM MEMBERS m LIMIT 1;
 ```
-#### NVL
+### NVL
 ```sql
 -- select nvl(c.ee, 0);
 select coalesce(c.ee,0);
 ```
 
-#### INSTR
+### INSTR
 ```sql
 -- select INSTR('xxx.xxx', '.');
 select position('.' in 'xxx.xxx');
 ```
-#### Lob
+### Lob
 ```java
   //add @Type for postgres to know what type of lob ie ImageType/TextType etc
   @Lob
   @Type(type = "org.hibernate.type.TextType");
 ```
-#### DESCRIBE TABLE
+### DESCRIBE TABLE
 ~~~sql
 SELECT table_name, column_name, data_type FROM information_schema.columns WHERE table_name = 'members';
 ~~~
-#### List all procedures
+### List all procedures
 ~~~sql
 select n.nspname as schema,
        p.proname as procedure
@@ -479,12 +480,12 @@ join pg_namespace n on p.pronamespace = n.oid
 where n.nspname not in ('pg_catalog', 'information_schema')
 	and p.prokind = 'p'
 ~~~
-#### FORMAT DATE
+### FORMAT DATE
 ~~~sql
 SELECT TO_CHAR(NOW() :: DATE, 'Mon dd, yyyy');
 ~~~
 
-#### Examples
+### Examples
 ~~~sql
 select todate(current_date::date);
 select to_date('30-Sep-2021','dd-Mon-yyyy');
@@ -499,29 +500,30 @@ select todate(date_trunc('month',current_date));
 select to_timestamp('2022-01-01','YYYY-MM-DD');
 ~~~
 
-#### ERROR
+### ERROR
 - [x] NonUniqueDiscoveredSqlAliasException: Encountered a duplicated sql alias
   `sql has more than one column with same name, introduce alias
   `
 - [x] Could not resolve PropertyAccess for dateAcquired on class com.systech.fm.dto.accounts.FixedAssetsDto
   `Find the attribute in the DTO and change to lowercase`
 
-#### POSTGRES LOGIN USER
+### POSTGRES LOGIN USER
 ~~~bash
 psql -U posgres
 pwd [postgres]
 psql -V psql [ psql (PostgreSQL) 12.6 ]
 ~~~
-#### IMPORT DB
+### IMPORT DB
 ~~~bash
 pg_restore -U postgres --dbname=fm --create --verbose c:\pgbackup\fm.tar
 ~~~
-#### RUN SQL
+### RUN SQL
 ~~~bash
 #LOGIN TO PSQL
 \i path_to_sql_file
 ~~~
-#### IMPORT MILLION RECORDS FASTER
+
+### IMPORT MILLION RECORDS FASTER
 ~~~postgresql
 create table peopleNames(
     name varchar(255),
@@ -533,21 +535,22 @@ create table peopleNames(
 --FROM TERMINAL
 COPY peopleNames FROM '/path/to/pp-complete.csv' with (format csv, encoding 'utf-8', header false, null '', quote '"');
 ~~~
-#### SPLIT DELIMITED STRING 
+
+### SPLIT DELIMITED STRING 
 ~~~postgresql
 select unnest(string_to_array('1,2,3,4,5',',')) as id;
 --or
 SELECT regexp_split_to_table('1,2,3,4,5',',') AS ID;
 --https://medium.com/swlh/three-routes-convert-comma-separated-column-to-rows-c17c85079ecf
 ~~~
-#### DROP ALL VIEWS SQL
+### DROP ALL VIEWS SQL
 ~~~sql
 SELECT 'DROP VIEW ' ||  (table_name) || ' cascade;'
 FROM information_schema.views
 WHERE table_schema IN ('public');
  --copy and save to file and execute
 ~~~
-#### show ALL tables in schema SQL
+### show ALL tables in schema SQL
 ~~~sql
 SELECT table_name FROM information_schema.tables
 WHERE table_schema = 'public'
@@ -558,7 +561,7 @@ FROM information_schema.tables
 WHERE table_schema IN ('public')
   and table_name like 'act_%';
 ~~~
-#### IMPORTANT SCRIPTS
+### IMPORTANT SCRIPTS
 ~~~sql
 
 ALTER SEQUENCE hibernate_sequence RESTART WITH 12879141;
@@ -582,7 +585,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ~~~
 
-#### INSTALLING AN EXTENSION
+### INSTALLING AN EXTENSION
 ~~~
    We will be installing tsm_system_rows extension for quick randomizing rows in a table.
    1.   Download postgres source from [https://www.postgresql.org/ftp/source/]
@@ -606,7 +609,7 @@ SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND 
     make && sudo PATH=$PATH make install
 ~~~
 
-#### IMPORTANT SCRIPTS
+### IMPORTANT SCRIPTS
 ````sql
 select 'alter table '||owner||'.'||table_name||' disable constraint '||constraint_name||';' from user_constraints;
 select 'alter table '||owner||'.'||table_name||' enable constraint '||constraint_name||';' from user_constraints;
@@ -624,7 +627,7 @@ SELECT * FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemana
 SELECT tablename FROM pg_catalog.pg_tables WHERE schemaname != 'pg_catalog' AND schemaname != 'information_schema';
 ````
 
-#### ALTER TABLE COLUMNS
+### ALTER TABLE COLUMNS
 ````sql
 with mitables
        as (select unnest(ARRAY ['closing_balances','BENEFITS','BENEFIT_PAYMENTS','PROV_BEN_BAL','FUND_VALUES']) as tb)
@@ -645,7 +648,7 @@ where table_name = 'closing_balances'
   and data_type = 'numeric';
 ````
 
-#### Good Practices
+### Good Practices
     [https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe](https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe)
 1 Don't use Upper letters in the name of database, schema, tables or columns in PostgreSQL. Else you should to escape this names with quotes, and this can cause Syntax errors, so instead you can use :
 
@@ -664,7 +667,7 @@ where table_name = 'closing_balances'
 
 3 To difference between Dto and Entity its good practice to use Entity in the end of the name of your Entity for example UserEntity
 
-#### IMPORTANT LINKS
+### IMPORTANT LINKS
 https://www.postgresqltutorial.com/
 [https://postgrescheatsheet.com/#/tables](https://postgrescheatsheet.com/#/tables)
 [https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
@@ -673,7 +676,7 @@ https://www.postgresqltutorial.com/postgresql-reset-password/
 
 ## **4. Runtime Maintenance**
 
-**Software Release & Versioning**
+### *Software Release & Versioning*
 
 Systech Ltd rolls out FundMaster software upgrades in versions periodically. At the time of publishing this guide, the latest and LTS support version was Xe.
 
