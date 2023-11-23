@@ -35,6 +35,10 @@ module.exports = {
         link: '/glossary/'     
       },
       {
+        text: 'Installation Guide',
+        link:'/deployfundmaster/'
+      }
+      {
         text: 'Deployment Guide',
         link: '/deployment/'    
       },

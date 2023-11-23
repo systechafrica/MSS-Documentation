@@ -126,6 +126,12 @@ module.exports = {
         '/videotutorials/schemeSetup',
       ],
     }
+    {
+      title: 'Installation Guide',
+      children: [
+        '/deployfundmaster/',
+      ],
+    }
 
   ],
 };
