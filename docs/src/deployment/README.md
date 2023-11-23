@@ -1,4 +1,4 @@
-### How to Deploy FundMaster on Oracle and Postgress
+### Deploy FundMaster on Oracle and Postgress
 
 ## 1. Introduction
 
@@ -393,9 +393,9 @@ private BigDecimal spotRate;
 
 //DTO
 //used BigInteger and Long for Ids, all variables in lowercase for mapping using transformers
-````
-## NATIVE QUERIES
-## UPDATE
+```
+#### NATIVE QUERIES
+#### UPDATE
 ```sql
 -- update MEMBERS m set m.EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
 update MEMBERS m set EXIT_ID=NULL where m.ID=:memberId and m.EXIT_ID=:exitId and m.MBSHIP_STATUS='ACTIVE';
@@ -645,7 +645,7 @@ where table_name = 'closing_balances'
   and data_type = 'numeric';
 ````
 
-#### Good practices
+#### Good Practices
     [https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe](https://stackoverflow.com/questions/45782327/org-postgresql-util-psqlexception-error-column-user0-id-does-not-exist-hibe)
 1 Don't use Upper letters in the name of database, schema, tables or columns in PostgreSQL. Else you should to escape this names with quotes, and this can cause Syntax errors, so instead you can use :
 
