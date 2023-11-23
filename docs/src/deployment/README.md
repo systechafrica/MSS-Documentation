@@ -1,13 +1,13 @@
 
-### **How to Deploy FundMaster on Oracle and Postgress**
+### How to Deploy FundMaster on Oracle and Postgress**
 
-### **1. Introduction**
+### 1. Introduction
 
 The guide details the prior requirements and deployment process for FundMaster Xe (and its peripherals - Member Self-Service portal (MSS) and Unstructured Supplementary Service Data (USSD)) on servers. If executed correctly, the instructions herein will lead to successful installation of FundMaster on the oracle database.
 
 Please follow this link: <https://systechafrica.github.io/#/> to access the System documentation and read more on the FundMaster core system.
 
-### **2. Software Prerequisites**
+### 2. Software Prerequisites
 
 Before deploying FundMaster and its peripherals, the system requirements must be met:
 -   For Server required specification, refer to the [server and software requirements (on premise and on clouds
@@ -15,7 +15,7 @@ Before deploying FundMaster and its peripherals, the system requirements must be
     for the detailed requisite environment specification.
 -   Note that FundMaster supports all types of base Operating Systems including Windows, Linux, and macOS. But in this document, we have used Linux as the base OS.
 
-### **3. Deployment expertise**
+### 3. Deployment expertise
 
 For successful deployment of the system and running of all server-side operations, the personnel ought to have the following minimum qualifications:
 
@@ -26,9 +26,9 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-### **Follow these steps to deploy FundMaster Xe on Oracle**
+### Follow these steps to deploy FundMaster Xe on Oracle
 
-### **i.  Install jdk preferred version and Maven**
+## **i.  Install jdk preferred version and Maven**
 
 As at the date of writing this guide, the most stable version to run Xe is jdk 11.
 
@@ -48,18 +48,18 @@ Open the terminal and run the following commands to set the environment variable
     export PATH=＄M2:＄PATH
 ````
 
-### **ii. Install intellij Ultimate**
+## **ii. Install intellij Ultimate**
 After a successful installation of Java, see previous step, visit [jetbrain.com](https://www.jetbrains.com/help/idea/installation-guide.html#98d0a3d8) to learn how to install ultimate version. Note that this version of intellij is premium, and therefore the activation key is needed. Contact your administrator for more details.
 
 
-### **iii. Install Oracle database**
+## **iii. Install Oracle database**
 There are many resources online that can help in the installation of Oracle databases. This guide is for Linux/Mac users, although there are similarities with Windows users. The article [Install Oracle 19C on Centos8](https://www.centlinux.com/2020/04/install-oracle-database-19c-on-centos-8.html) provides clear step-by-step instructions on how to install oracle successfully.
 
-### **iv. Install & Configure wildfly**
+## **iv. Install & Configure wildfly**
 
 > ``` To be filled by John Oenga ```
 
-### **v. Clone Backend (Xe) and Frontend(extjs)**
+## **v. Clone Backend (Xe) and Frontend(extjs)**
 
 Go to your working directory and clone xe and extjs:
 
@@ -69,7 +69,7 @@ Go to your working directory and clone xe and extjs:
     git clone  \<xe-url\>
 ````
 
-### **vi. Install Sencha and configure Extjs**
+## **vi. Install Sencha and configure Extjs**
 
 Visit Sencha support official site (provide link) and login with Systech's provided details.
 
