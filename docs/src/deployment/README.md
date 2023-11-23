@@ -1,5 +1,5 @@
 
-### How to Deploy FundMaster on Oracle and Postgress**
+### How to Deploy FundMaster on Oracle and Postgress
 
 ### 1. Introduction
 
@@ -49,10 +49,12 @@ Open the terminal and run the following commands to set the environment variable
 ````
 
 ## **ii. Install intellij Ultimate**
+
 After a successful installation of Java, see previous step, visit [jetbrain.com](https://www.jetbrains.com/help/idea/installation-guide.html#98d0a3d8) to learn how to install ultimate version. Note that this version of intellij is premium, and therefore the activation key is needed. Contact your administrator for more details.
 
 
 ## **iii. Install Oracle database**
+
 There are many resources online that can help in the installation of Oracle databases. This guide is for Linux/Mac users, although there are similarities with Windows users. The article [Install Oracle 19C on Centos8](https://www.centlinux.com/2020/04/install-oracle-database-19c-on-centos-8.html) provides clear step-by-step instructions on how to install oracle successfully.
 
 ## **iv. Install & Configure wildfly**
@@ -89,7 +91,6 @@ Type sencha command, to see an output starting with "Sencha....". If however you
 ````
 
 Done. You can now build your project. Run the following command:
-
 
 ### **Deploy FundMaster**
 ````bash
@@ -150,7 +151,9 @@ Rebuild and redeploy your project.
     local   all             all                                     trust
     host    all             all             0.0.0.0/0                   trust
 ````
+
 **Edit postgresql.conf**
+
 **Find and uncomment line #listen_addresses = 'localhost' and edit to**
 
 ````
@@ -373,6 +376,7 @@ aws_oracle_data
 aws_oracle_ext
 pg_catalog
 ````
+
 ### IMPORTANT SCRIPTS
 
 ### MODELS
