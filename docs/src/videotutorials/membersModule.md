@@ -1,8 +1,8 @@
 ---
-title: Category 2
+title: Members Module Tutorials
 ---
 
-# Category 2
+# Members Module Tutorials
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 

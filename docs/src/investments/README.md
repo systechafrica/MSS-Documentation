@@ -1,4 +1,4 @@
-### Introduction
+### Investments User Guide
 
 This module enables a pension scheme to manage its investments by allowing the pension fund administrators to keep track of how their member funds are growing. The investments module handles investments in Real Estate, Debt and Equity instruments. It makes it possible to integrate key investment activities with other modules such as the
 Accounts module. This enables efficient property management through adding a new property, listing current properties, and registering scheme property managers among others.
