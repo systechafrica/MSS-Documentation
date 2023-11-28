@@ -35,8 +35,12 @@ module.exports = {
         link: '/glossary/'     
       },
       {
-        text: 'Installation Guide',
-        link: '/deployment/'    
+        text: 'Installation Guides',
+        items: [
+          {text: 'FundMaster on Oracle', link: '/deployment/' },
+          {text: 'Postgress Database', link: '/postgressdb/' },  
+          {text: 'USSD Setup', link:'/deployment/'},
+        ]
       },
       {
         text: ' Video Tutorials',
