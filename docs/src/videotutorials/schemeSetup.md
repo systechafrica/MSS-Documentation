@@ -1,8 +1,8 @@
 ---
-title: Category 3
+title: Scheme Setup Module Tutorials
 ---
 
-# Category 3
+# Scheme Setup Module Tutorials
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 

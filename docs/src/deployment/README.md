@@ -1,4 +1,4 @@
-### Deploy FundMaster on Oracle and Postgress
+### Installation Guide
 
 
 ## 1. Introduction
