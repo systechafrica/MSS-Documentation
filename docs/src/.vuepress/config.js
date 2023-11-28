@@ -28,7 +28,13 @@ module.exports = {
                 ],
             },
             {text: 'Glossary', link: '/glossary/'},
-            {text: 'Installation Guide', link: '/deployment/'},
+            {
+                text: 'Installation Guides',
+                items: [
+                    {text: 'FundMaster on Oracle', link: '/deployment/' },
+                    {text: 'Postgress Database', link: '/deployment/postgres/' }
+                ]
+            },
             {text: 'Video Tutorials', link: '/videotutorials/'},
         ],
         sidebar: getSidebar(),
@@ -207,6 +213,7 @@ function getSidebar() {
             'Installation Guide',
             [
                 '',
+                'postgres',
             ]),
     };
 }
