@@ -34,19 +34,19 @@ export default {
         {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
+          videoUrl: "https://www.youtube.com/embed/Jz1XcwrJl3cY",
           description: "Part 1: Employer registration process"
         },
                 {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/Jx3X43fk_Xg/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
+          videoUrl: "https://www.youtube.com/embed/Jx3X43fk_Xg",
           description: "Part 2: Employer registration processe"
         },
                 {
           id: 3,
           thumbnail: "https://img.youtube.com/vi/sZd2L7qs6n0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
+          videoUrl: "https://www.youtube.com/embed/sZd2L7qs6n0",
           description: "Part 3: Employer registration process"
         },
      
@@ -98,7 +98,7 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 70%;
+  width: 100%;
   padding-bottom: 56.25%;
   height: 0;
 }
