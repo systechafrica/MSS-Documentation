@@ -199,21 +199,21 @@ function getSidebar() {
                 'privateEquities',
                 'property',
             ]),
-        '/videotutorials/': generateSidebar(
-            '/videotutorials/',
-            'Videos Tutorials',
+        '/deployment/': generateSidebar(
+            '/deployment/',
+            'Installation Guides',
+            [
+                '',
+                'postgres',
+            ]),
+            '/videotutorials/': generateSidebar(
+                '/videotutorials/',
+                'Videos Tutorials',
             [
                 '',
                 'employerEnrollment',
                 'membersModule',
                 'schemeSetup',
-            ]),
-        '/deployment/': generateSidebar(
-            '/deployment/',
-            'Installation Guide',
-            [
-                '',
-                'postgres',
             ]),
     };
 }
