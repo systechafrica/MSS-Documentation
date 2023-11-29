@@ -98,7 +98,7 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 70%;
+  width: 90%;
   padding-bottom: 56.25%;
   height: 0;
 }
@@ -106,7 +106,7 @@ export default {
 .video-modal-frame iframe {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 90%;
 }
 
 .close-modal {

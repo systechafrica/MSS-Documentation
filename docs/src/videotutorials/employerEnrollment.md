@@ -39,8 +39,8 @@ export default {
         },
                 {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/Jx3X43fk_Xg/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/Jx3X43fk_Xg",
+          thumbnail: "https://img.youtube.com/vi/iHJF5y_TRD8/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/iHJF5y_TRD8",
           description: "Part 2: Employer registration processe"
         },
                 {
@@ -98,15 +98,15 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 80%;
-  padding-bottom: 56.25%;
+  width: 90%;
+  padding-bottom: 54.25%;
   height: 0;
 }
 
 .video-modal-frame iframe {
   position: absolute;
   width: 100%;
-  height: 80%;
+  height: 90%;
 }
 
 .close-modal {
