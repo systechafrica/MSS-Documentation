@@ -98,7 +98,7 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 100%;
+  width: 800%;
   padding-bottom: 56.25%;
   height: 0;
 }
