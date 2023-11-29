@@ -79,15 +79,15 @@ export default {
 }
 
 .video-item img {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .video-modal-overlay {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   background-color: rgba(0, 0, 0, 0.7);
   display: flex;
   justify-content: center;
@@ -98,15 +98,15 @@ export default {
 
 .video-modal-frame {
   position: relative;
-  width: 800%;
+  width: 80%;
   padding-bottom: 56.25%;
   height: 0;
 }
 
 .video-modal-frame iframe {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
 }
 
 .close-modal {
