@@ -1,5 +1,5 @@
 ---
-title: How to Videos
+title: FundMaster UI Navigation
 ---
 
 ### FundMaster Navigation

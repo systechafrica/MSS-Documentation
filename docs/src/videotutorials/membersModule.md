@@ -37,18 +37,6 @@ export default {
           videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
           description: "Part 1: Employer registration process"
         },
-                {
-          id: 2,
-          thumbnail: "https://img.youtube.com/vi/Jx3X43fk_Xg/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
-          description: "Part 2: Employer registration processe"
-        },
-                {
-          id: 3,
-          thumbnail: "https://img.youtube.com/vi/sZd2L7qs6n0/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
-          description: "Part 3: Employer registration process"
-        },
      
         // Add more videos here...
       ],
