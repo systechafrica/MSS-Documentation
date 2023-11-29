@@ -1,8 +1,8 @@
 ---
-title: FundMaster UI Navigation
+title: How to Videos
 ---
 
-### FundMaster Navigation
+### FundMaster UI Navigation
 
 This categories of videos shows how to navigate various user interfaces in FundMaster:
 
