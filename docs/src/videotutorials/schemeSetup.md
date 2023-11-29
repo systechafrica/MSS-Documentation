@@ -1,8 +1,8 @@
 ---
-title: Scheme Setup Module Tutorials
+title: Scheme Setup Processes
 ---
 
-# Scheme Setup Module Tutorials
+### Scheme Setup rocesses
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 

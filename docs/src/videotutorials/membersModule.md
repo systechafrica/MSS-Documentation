@@ -1,8 +1,8 @@
 ---
-title: Employer Enrollment Process
+title: Accounting Processes
 ---
 
-# Employer Enrollment Process
+# Accounts Processes
 
 This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
 
