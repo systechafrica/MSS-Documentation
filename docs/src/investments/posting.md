@@ -1,6 +1,4 @@
-
-
-## Posting
+### Posting
 
 The two links under the posting menu allow viewing of a scheme’s property details. Click on the drop-down submenu links to open the respective windows for specific configurations as shown below: 
 

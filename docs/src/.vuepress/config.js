@@ -170,11 +170,11 @@ function getSidebar() {
             'Reports Engine User Guide',
             [
                 '',
-                'batchMembersReport',
-                'dashboardComponents',
-                'gettingStarted',
                 'Introduction',
+                'gettingStarted',
+                'dashboardComponents',
                 'membersBenefitReport',
+                'batchMembersReport',  
             ]),
         '/workflow/': generateSidebar(
             '/workflow/',

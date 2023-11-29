@@ -122,6 +122,7 @@ module.exports = {
       title: 'Videos Tutorials',
       children: [
         '/videotutorials/',
+        '/videotutorials/employerEnrollment',
         '/videotutorials/membersModule',
         '/videotutorials/schemeSetup',
       ],
