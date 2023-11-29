@@ -2,7 +2,7 @@
 title: Video Tutorials
 ---
 
-#### FundMaster Navigation
+### FundMaster Navigation
 
 This categories of videos shows how different configurations and processes are done in the FundMaster Admin panel:
 
