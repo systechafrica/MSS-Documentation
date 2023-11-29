@@ -34,12 +34,12 @@ export default {
         {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/Jz1XcwrJl3cY",
+          videoUrl: "https://www.youtube.com/embed/z1XcwrJl3cY",
           description: "Part 1: Employer registration process"
         },
                 {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
+          thumbnail: "https://img.youtube.com/vi/Jx3X43fk_Xg/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/Jx3X43fk_Xg",
           description: "Part 2: Employer registration processe"
         },
@@ -79,7 +79,7 @@ export default {
 }
 
 .video-item img {
-  max-width: 80%;
+  max-width: 100%;
 }
 
 .video-modal-overlay {
@@ -106,7 +106,7 @@ export default {
 .video-modal-frame iframe {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 80%;
 }
 
 .close-modal {
