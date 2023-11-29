@@ -1,4 +1,4 @@
-## Management of properties
+### Management of properties
 
 Configurations under the manage category are set to aid in the management of various participants in a scheme. Click on the drop-down submenu links to open the respective windows for specific configurations as shown below: 
 
