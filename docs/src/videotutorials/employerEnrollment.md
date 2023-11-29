@@ -39,7 +39,7 @@ export default {
         },
                 {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/Jx3X43fk_Xg/hqdefault.jpg",
+          thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/Jx3X43fk_Xg",
           description: "Part 2: Employer registration processe"
         },
