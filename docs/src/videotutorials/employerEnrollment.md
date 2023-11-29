@@ -1,10 +1,10 @@
 ---
-title: Employer Enrollment Process
+title: Employer Enrollment Processes
 ---
 
-#### Employer Enrollment Process
+### Employer Enrollment Processes
 
-This categories of videos shows how different configurations and processes are done in the fundMaster Admin panel:
+This categories of videos shows how to onboard employers in FundMaster:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">

@@ -1,10 +1,10 @@
 ---
-title: Video Tutorials
+title: System UI Navigation
 ---
 
 ### FundMaster Navigation
 
-This categories of videos shows how different configurations and processes are done in the FundMaster Admin panel:
+This categories of videos shows how to navigate various user interfaces in FundMaster:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
