@@ -153,8 +153,7 @@ function getSidebar() {
                 'cashManagement',
                 'fixedAssets',
                 'generalLedger',
-                'budget',              
-                'journals',              
+                'budget',                      
                 'setup',
             ]),
         '/pensioners/': generateSidebar(
