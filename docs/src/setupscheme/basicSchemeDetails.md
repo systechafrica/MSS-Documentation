@@ -4,7 +4,7 @@ To capture the basic details of a newly created scheme, make sure the system is 
 
 To access the details dialog box, from the left side panel of the Setup Links window, click the **Basic Schemes Details** link. This will launch a dialog box where all the details can be viewed and edited as shown below:
 
-<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
+<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM74.png"> 
 
 
 **Tip**

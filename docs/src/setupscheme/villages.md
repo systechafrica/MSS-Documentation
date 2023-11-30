@@ -2,7 +2,7 @@
 
 FundMaster provides a window through which the details of villages covered by a scheme in terms of membership are captured as shown below:
 
-<img  alt="Village" width="70%" height="auto"  class="center"  src="../media2/scheme7.jpg">  
+<img  alt="Village" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme7.jpg">  
 
 **Action**
 

@@ -4,7 +4,7 @@ In the event an employee resigns, the vesting scales configurations will aid in 
 
 Click the **Vesting Scales** link to open the Vesting Scales Window where different vesting configurations are listed as shown below:
 
-<img  alt="Vesting Scales" width="95%" height="auto"  class="center"  src="../media2/schemeM41.png"> 
+<img  alt="Vesting Scales" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM41.png"> 
 
 
 **Action**
@@ -24,4 +24,4 @@ Click the **Vesting Scales** link to open the Vesting Scales Window where differ
 
 To create a new vesting scale, click the **New Vesting Scale** button to load a dialog box through which a new configuration can be set. Fill the dialog box with appropriate details as shown below:
 
-<img  alt="creating new Vesting Scales" width="70%" height="auto"  class="center"  src="../media2/schemeM64.png"> 
+<img  alt="creating new Vesting Scales" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM64.png"> 

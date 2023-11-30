@@ -2,7 +2,7 @@
 
 FundMaster provides a window through which the details of regions covered by a scheme in terms of membership are captured as shown below:
 
-<img  alt="regions" width="70%" height="auto"  class="center"  src="../media2/scheme8.jpg">  
+<img  alt="regions" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme8.jpg">  
 
 **Action**
 

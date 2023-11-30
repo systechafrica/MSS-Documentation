@@ -2,14 +2,14 @@
 
 After a scheme is created, the next step is to approve it by first providing a checklist for necessary documents and then approving the scheme. From the Setup Links left side panel, click the appropriate link as shown below:
 
-<img  alt="scheme approval links" width="100%" height="auto"  class="center"  src="../media2/schemeM51.png">  
+<img  alt="scheme approval links" width="100%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM51.png">  
 
 
 ## Scheme Documents Checklist
 
 Click the **Scheme Documents Checklist** link to open the window through which the management of such document is done as shown below:
 
-<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../media2/schemeM8.png"> 
+<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM8.png"> 
 
 
 **Action**
@@ -25,7 +25,7 @@ Click the **Scheme Documents Checklist** link to open the window through which t
 
 Clink the **Scheme Approval** link to open the window through which the verification and certification of the scheme is done among other actions as shown below:
 
-<img  alt="Scheme Approval" width="90%" height="auto"  class="center"  src="../media2/schemeM2.png">  
+<img  alt="Scheme Approval" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM2.png">  
 
 
 **Action**
@@ -47,7 +47,7 @@ Clink the **Scheme Approval** link to open the window through which the verifica
 
 Clicking the **Checklist Validation** button will open a **Schemes Document Approval** dialog box where documents can be searched from the list, received, and downloaded as shown below:
 
-<img  alt="Checklist Validation" width="90%" height="auto"  class="center"  src="../media2/schemeM27.png">  
+<img  alt="Checklist Validation" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM27.png">  
 
 
 **Action**
@@ -63,7 +63,7 @@ Clicking the **Checklist Validation** button will open a **Schemes Document Appr
 
 Clicking the **Receive Documents(s)** button will allow a user to upload a file from his/her device through the dialog box shown below:
 
-<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../media2/schemeM73.png">  
+<img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM73.png">  
 
 
 ## Switching Scheme
@@ -72,17 +72,17 @@ After successfully approving a newly created scheme, one can go ahead and make i
 
 To switch schemes, first navigate back to the **Admin Panel links** window and click **Existing Users** as shown in the following screenshot:
 
-<img  alt="existing users link image" width="95%" height="auto"  class="center"  src="../media2/M66.png">
+<img  alt="existing users link image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/M66.png">
 
 
 Clicking the Admin Panels links will open the **Existing Users** window displaying a grid table listing all system users. Select the current user in the table and click the **Details** button as shown below:
 
-<img  alt="existing users image" width="95%" height="auto"  class="center"  src="../media2/schemeM72.png">  
+<img  alt="existing users image" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM72.png">  
 
 
 Clicking the Details button will open the **User Details** window which shows **Allowed Schemes**, **Sponsors** and **MemberClasses**. Click the appropriate link to perform the specific action as shown in the screenshot below:
 
-<img  alt="user details window image" width="80%" height="auto"  class="center"  src="../media2/schemeM47.png"> 
+<img  alt="user details window image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM47.png"> 
 
 
 **Action**
@@ -96,7 +96,7 @@ Clicking the Details button will open the **User Details** window which shows **
 
 Clicking the **Assign Schemes to User button** will open another window from which slected or all Scheme can be allowed for a user account as shown below:
 
-<img  alt="pick allowed scheme window image" width="80%" height="auto"  class="center"  src="../media2/schemeM42.png"> 
+<img  alt="pick allowed scheme window image" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM42.png"> 
 
 
 **Action**
@@ -118,12 +118,12 @@ Clicking the **Assign Schemes to User button** will open another window from whi
 
 After assigning the new scheme to the current user account, navigate to the landing page and on the left side panel, click the **Switch Scheme** button as shown below:
 
-<img  alt="scheme switch" width="95%" height="auto"  class="center"  src="../media2/schemeM16.png">  
+<img  alt="scheme switch" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM16.png">  
 
 
 Clicking this button will open a new window displaying all the available schemes the user can switch to as shown below:
 
-<img  alt="available schemes" width="80%" height="auto"  class="center"  src="../media2/schemeM68.png">  
+<img  alt="available schemes" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM68.png">  
 
 
 **Action**

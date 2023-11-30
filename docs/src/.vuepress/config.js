@@ -18,7 +18,7 @@ module.exports = {
                 text: 'System Modules',
                 items: [
                     {text: 'Admin Panel', link: '/administration/'},
-                    {text: 'Scheme Setup', link: '/schemes/'},
+                    {text: 'Scheme Setup', link: '/setupscheme/'},
                     {text: 'Member Register', link: '/members/'},
                     {text: 'Accounts', link: '/accounts/'},
                     {text: 'Pensioner Register', link: '/pensioners/'},
@@ -51,13 +51,13 @@ function getSidebar() {
             ]),
         '/introduction/': generateSidebar(
             '',
-            'FundMaster Knowledge Base',
+            'User Resourses',
             [
                 '/introduction/',
                 '/introduction/landingPage',
                 '/introduction/productsSetup',
                 '/administration/',
-                '/schemes/',
+                '/setupscheme/',
                 '/members/',
                 '/accounts/',
                 '/pensioners/',
@@ -227,7 +227,7 @@ function generateSidebar(basePath, title, children) {
         {
             title: 'Main Menu', children: [
                 '/administration/',
-                '/schemes/',
+                '/setupscheme/',
                 '/members/',
                 '/accounts/',
                 '/pensioners/',

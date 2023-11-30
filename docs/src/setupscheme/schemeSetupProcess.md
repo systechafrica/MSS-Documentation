@@ -2,7 +2,7 @@
 
 To create a new scheme, click the **New Scheme** link to open a **Scheme Details** dialogue box where a set of configurations such as Scheme Type, Date of Commencement, Take on Date and Financial Years are done as shown below:
  
-<img  alt="new scheme dialog box" width="80%" height="auto"  class="center"  src="../media2/schemeM24.jpg"> 
+<img  alt="new scheme dialog box" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM24.jpg"> 
 
 
 **Tip**
@@ -16,7 +16,7 @@ To capture the basic details of a newly created scheme, make sure the system is 
 
 To access the details dialog box, from the left side panel of the Setup Links window, click the **Basic Schemes Details** link. This will launch a dialog box where all the details can be viewed and edited as shown below:
 
-<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
+<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/schemeM74.png"> 
 
 
 **Tip**
@@ -28,14 +28,14 @@ To access the details dialog box, from the left side panel of the Setup Links wi
 
 These are some of the key configurations that need to be set for the scheme to execute effectively. Click the drop-down submenu enclosed links to open configuration dialog boxes as shown below:
 
-<img  alt="Scheme configurations" width="98%" height="auto"  class="center"  src="../media2/configs1.jpg">  
+<img  alt="Scheme configurations" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs1.jpg">  
 
 
 ### Scheme Configurations
 
 Click the **Scheme Configurations** link to open the scheme configurations dialog box and set the required parameters for different sets of configurations such as member configurations as shown below:
 
-<img  alt="Scheme configurations" width="95%" height="auto"  class="center"  src="../media2/configs2.jpeg">  
+<img  alt="Scheme configurations" width="95%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs2.jpeg">  
 
 
 **Action**
@@ -53,14 +53,14 @@ Click the **Scheme Configurations** link to open the scheme configurations dialo
 
 Click the **Global Configurations** link to open a configurations dialog box and set the required parameters as shown below:
 
-<img  alt="Scheme configurations" width="92%" height="auto"  class="center"  src="../media2/configs5.jpg">  
+<img  alt="Scheme configurations" width="92%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs5.jpg">  
 
 
 ### Benefits Configurations
 
 Click the **Benefits** **Configurations** link to open the scheme dates and insurance covers configurations dialog box and set the required parameters as shown below:
 
-<img  alt="benefits configurations" width="92%" height="auto"  class="center"  src="../media2/configs6.jpg">  
+<img  alt="benefits configurations" width="92%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs6.jpg">  
 
 
 **Action**
@@ -82,22 +82,22 @@ This matrix addresses issues such as how to treat additional voluntary contribut
 
 To set parameters for these items, locate the **Contribution Configuration Matrix** link from the drop-down submenu as shown below:
 
-<img  alt="Contribution configurations menu" width="98%" height="auto"  class="center"  src="../media2/configs7.png">  
+<img  alt="Contribution configurations menu" width="98%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs7.png">  
 
 
 Click this link to open the Contribution Configuration Matrix dialog box where the **Severance Due Entitlement** parameters are configured as shown below:
 
-<img  alt="Severance configurations" width="92%" height="auto"  class="center"  src="../media2/configs8.jpg">  
+<img  alt="Severance configurations" width="92%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs8.jpg">  
 
 
 Click the **UnderPayments Threshold** tab to configure underpayments threshold details as shown below:
 
-<img  alt="UnderPayments configurations" width="92%" height="auto"  class="center"  src="../media2/configs9.jpg">  
+<img  alt="UnderPayments configurations" width="92%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs9.jpg">  
 
 
 Click the **Social Security Configurations Matrix** tab to configure the social security contribution details as shown below:
 
-<img  alt="NSSF configurations" width="92%" height="auto"  class="center"  src="../media2/configs10.jpg">  
+<img  alt="NSSF configurations" width="92%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs10.jpg">  
 
 
 
@@ -105,7 +105,7 @@ Click the **Social Security Configurations Matrix** tab to configure the social 
 
 Click the **Max Registered Contribution** link to open the Maximum Registered Contribution window, then click the **New Max Registered Contribution** button to create a configuration as shown below:
 
-<img  alt="Max reg link" width="96%" height="auto"  class="center"  src="../media2/configs11.png">  
+<img  alt="Max reg link" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs11.png">  
 
 
 **Tips**
@@ -117,14 +117,14 @@ Click the **Max Registered Contribution** link to open the Maximum Registered Co
 
 Click the **New Max Registered Contribution** button to load a dialog box through which a new configuration is set as shown below:
 
-<img  alt="New Max reg configurations" width="70%" height="auto"  class="center"  src="../media2/configs12.png">  
+<img  alt="New Max reg configurations" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs12.png">  
 
 
 ### NSSF Limits Configs
 
 Click the **NSSF Limits Config** link to open the NSSF Limits Confi window to view a grid table with limits configurations as shown below:
 
-<img  alt="NSSF limits configs" width="96%" height="auto"  class="center"  src="../media2/configs13.jpg">  
+<img  alt="NSSF limits configs" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs13.jpg">  
 
 **Action**
 
@@ -144,12 +144,12 @@ Click the **NSSF Limits Config** link to open the NSSF Limits Confi window to vi
 
 Clicking the **New NSSF Limit** button will open a dialog box. Fill in the details to create a new Limit shown below:
 
-<img  alt="New NSSF limit configurations" width="70%" height="auto"  class="center"  src="../media2/configs14.jpg">  
+<img  alt="New NSSF limit configurations" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs14.jpg">  
 
 
 Clicking the **New Application** button will open a dialog box to select a scheme from the drop-down list and apply the NSSF limit configurations to as shown below:
 
-<img  alt="New NSSF application" width="60%" height="auto"  class="center"  src="../media2/configs15.jpg">  
+<img  alt="New NSSF application" width="60%" height="auto"  class="center"  src="../.vuepress/public/img/media2/configs15.jpg">  
 
 
 **Note:** The scheme selected from the drop-down list will be configured in such a way that the members contributions in that scheme will be subjected to the selected NSSF limits.
