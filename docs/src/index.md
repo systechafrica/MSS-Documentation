@@ -15,7 +15,7 @@ features:
       Product differentiation  |
       Delight our clients  |
       Positive can-do attitude  |
-      Always and steadily becoming  
+      Always and steadily becoming.  
 ---
  ::: slot footer
  Licensed | Copyright © 2023 [Systech Limited](https://systechafrica.com/)
