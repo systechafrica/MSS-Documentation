@@ -216,9 +216,9 @@ function getSidebar() {
                 'membersModule',
                 'schemeSetup',
             ]),
-            '/frequentquesstions/': generateSidebar(
-                '/frequentquesstions/',
-                'FQA',
+            '/frequentquestions/': generateSidebar(
+                '/frequentquestions/',
+                'Frequently Asked Questions ',
             [
                 '',
             ]),
@@ -239,7 +239,7 @@ function generateSidebar(basePath, title, children) {
                 '/workflow/',
                 '/investments/',
                 '/videotutorials/',
-                '/deployment/',
+                '/deployment/'
             ]
         }
     ];
