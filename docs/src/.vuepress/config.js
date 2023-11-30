@@ -173,7 +173,6 @@ function getSidebar() {
             [
                 '',
                 'dashBoards',
-                'dashboardComponents',
                 'batchMembersReport',
                 'membersBenefitReport', 
             ]),
