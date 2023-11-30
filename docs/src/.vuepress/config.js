@@ -36,6 +36,7 @@ module.exports = {
                 ]
             },
             {text: 'Video Tutorials', link: '/videotutorials/'},
+            {text: 'FAQ', link: '/frequentquestions/'},
         ],
         sidebar: getSidebar(),
     },
@@ -65,6 +66,7 @@ function getSidebar() {
                 '/investments/',
                 '/videotutorials/',
                 '/deployment/',
+                '/frequentquestions'
             ]),
         '/administration/': generateSidebar(
             '/administration/',
@@ -213,6 +215,12 @@ function getSidebar() {
                 'employerEnrollment',
                 'membersModule',
                 'schemeSetup',
+            ]),
+            '/frequentquesstions/': generateSidebar(
+                '/frequentquesstions/',
+                'FQA',
+            [
+                '',
             ]),
     };
 }
