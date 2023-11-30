@@ -54,7 +54,6 @@ function getSidebar() {
             'User Resourses',
             [
                 '/introduction/',
-                '/introduction/landingPage',
                 '/introduction/productsSetup',
                 '/administration/',
                 '/setupscheme/',
@@ -191,8 +190,6 @@ function getSidebar() {
             [
                 '',
                 'property',
-                'newProperty',
-                'propertyList',
                 'equity',
                 'bond&Securities',
                 'deposits',
