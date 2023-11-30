@@ -2,7 +2,7 @@
 
 FundMaster provides a window through which the details of scheme trustees are captured. To manage the trustees, click the **Trustees** link to open the Trustees window as shown below:
 
-<img  alt="trustees" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme11.png">  
+<img  alt="trustees" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme11.png">  
 
 
 **Action**
@@ -20,15 +20,15 @@ FundMaster provides a window through which the details of scheme trustees are ca
 
 Click the **Upload Document** button to open an upload window for selecting the type of document to upload to the system as shown below:
 
-<img  alt="trustees" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme12.png">  
+<img  alt="trustees" width="80%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme12.png">  
 
 
 After selecting the type of document to upload, click the browse button to give a path for uploading a document from your device as shown below:
 
-<img  alt="trustees" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme3.png">  
+<img  alt="trustees" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme3.jpg">  
 
 
 The window below shows a list of all uploaded documents.
 
-<img  alt="trustees" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme14.png">  
+<img  alt="trustees" width="96%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme14.png">  
 

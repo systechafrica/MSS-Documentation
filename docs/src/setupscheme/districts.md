@@ -2,7 +2,7 @@
 
 FundMaster provides a window through which the details of districts covered by a scheme in terms of membership are captured as shown below:
 
-<img  alt="District" width="70%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme6.jpg">  
+<img  alt="District" width="90%" height="auto"  class="center"  src="../.vuepress/public/img/media2/scheme6.jpg">  
 
 **Action**
 
