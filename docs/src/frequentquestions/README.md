@@ -91,4 +91,7 @@ FundMaster is designed to be customizable, allowing pension funds to adapt the s
 
 **6. Does Systech provide user training and Support?**
 
-  Systech offers a range of training resources, including system documentation, webinars, and on-site training sessions. Technical support is available to assist users with any issues they may encounter while using the system.
+   Systech offers a range of training resources, including system documentation, webinars, and on-site training sessions. Technical support is available to assist users with any issues they may encounter while using the system.
+   
+   Systech offers a range of training resources, including system documentation, webinars, and on-site training sessions. Technical support is available to assist users with any issues they may encounter while using the system.
+
