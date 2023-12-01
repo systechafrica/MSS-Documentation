@@ -66,7 +66,7 @@ function getSidebar() {
                 '/investments/',
                 '/videotutorials/',
                 '/deployment/',
-                '/frequentquestions'
+                '/frequentquestions/'
             ]),
         '/administration/': generateSidebar(
             '/administration/',
