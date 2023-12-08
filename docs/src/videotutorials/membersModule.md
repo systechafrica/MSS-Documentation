@@ -45,13 +45,13 @@ export default {
         },
         {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/skNr0FsEo4EA/hqdefault.jpg",
+          thumbnail: "https://img.youtube.com/vi/kNr0FsEo4EA/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/kNr0FsEo4EA",
           description: "Part 1: Batch members upload process"
         },
         {
           id: 4,
-          thumbnail: "https://img.youtube.com/vi/sMcTUOqDArQc/hqdefault.jpg",
+          thumbnail: "https://img.youtube.com/vi/McTUOqDArQc/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/McTUOqDArQc",
           description: "Part 2: Batch members authorization process"
         },
