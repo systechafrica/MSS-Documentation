@@ -1,10 +1,10 @@
 ---
-title: Accounting Processes
+title: Member Onboarding Processes
 ---
 
-### Accounting Processes
+### Member onbording processes
 
-This categories of videos shows how different Accounting processes are done in the FundMaster:
+This category of videos shows the processes involved in onboarding  members in FundMaster Xe:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -31,11 +31,29 @@ export default {
   data() {
     return {
       videos: [
-        {
+   {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/z1XcwrJl3cY/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/J6FkE4QBZN4",
-          description: "Part 1: Employer registration process"
+          thumbnail: "https://img.youtube.com/vi/Gd35pDk4M-Q/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/Gd35pDk4M-Q",
+          description: "Part 1: Single member upload process"
+        },
+        {
+          id: 2,
+          thumbnail: "https://img.youtube.com/vi/FSxAP01P-P0/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/FSxAP01P-P0",
+          description: "Part 2: Single member authorization process"
+        },
+        {
+          id: 3,
+          thumbnail: "https://img.youtube.com/vi/skNr0FsEo4EA/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/kNr0FsEo4EA",
+          description: "Part 1: Batch members upload process"
+        },
+        {
+          id: 4,
+          thumbnail: "https://img.youtube.com/vi/sMcTUOqDArQc/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/McTUOqDArQc",
+          description: "Part 2: Batch members authorization process"
         },
      
         // Add more videos here...

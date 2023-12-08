@@ -4,7 +4,7 @@ title: How to Videos
 
 ### FundMaster UI Navigation
 
-This categories of videos shows how to navigate various user interfaces in FundMaster:
+This category of videos shows how to navigate various user interfaces (UI) in FundMaster Xe:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
