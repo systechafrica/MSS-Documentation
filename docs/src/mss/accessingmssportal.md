@@ -11,7 +11,7 @@ within the portal. The following illustration shows the landing page.
 
 #### Portal landing Page
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image1.png" docs>
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image1.png" docs>
 
 The circled numbers in this above illustration correspond to the numbers
 in the following table that describe the key components of the MSS
@@ -37,7 +37,7 @@ REGISTER as a new user to the portal. Alternatively, a registered member
 can also log in from within the page using the QUICK LOGIN section as
 illustrated below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image2.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image2.png">
 
 **Action:** Click on the **LOGIN** or **Quick LOGIN** links to access
 the portal dashboard.
@@ -55,7 +55,7 @@ log in.
 In case a use cannot recall his or her password, clicking Reset Password
 will allow the user to change the Password.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image3.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image3.png">
 
 **Action:** Enter your **Username** or **Email address** and
 **Password** and click the **LOG IN** button to access the portal
@@ -69,7 +69,7 @@ remember your password and check **Remember Me** box to save it.
 A new member can click the REGISTER link on the Menu Bar as shown in the
 illustration below to start the registration process.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image4.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image4.png">
 
 **Action:** Click the **Register** link to open the registration form.
 
@@ -78,7 +78,7 @@ illustration below to start the registration process.
 The sign-up page will open to allow the user to register through a form
 as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image5.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image5.png">
 
 **Action:** Click to select Account Type and type an email address. Then
 click **Submit** button to create an account. Otherwise, click
@@ -88,7 +88,7 @@ A user will be prompted to click to select the appropriate account type
 through a drop-down menu, and then enter an email address to register.
 This is shown in the following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image6.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image6.png">
 
 **Action:** Click on the drop-down menu to select Account Type. Type in
 your **email address** and click the **submit** button. Otherwise, click
@@ -99,7 +99,7 @@ account. The failed attempt, as shown below will prompts the system to
 direct the user to the membership section of the landing page where one
 can sign-up and become a member. See the following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image7.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image7.png">
 
 **Action:** Click the **Ok** button on the pop-up window to exit.
 
@@ -108,7 +108,7 @@ a member that a user how has successfully logged into the system can
 click to begin the process of registering for membership. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image8.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image8.png">
 
 **Action:** Click on the **Become Member** Button to launch the
 membership form.
@@ -130,7 +130,7 @@ in the FundMaster. Clicking on the Next button on the lower bottom side
 of the page will open the next section for filling more details. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image9.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image9.png">
 
 **Action:** Click on the **Next** Button to launch the membership form,
 otherwise click previous to step back.
