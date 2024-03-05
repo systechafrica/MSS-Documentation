@@ -37,6 +37,7 @@ module.exports = {
             },
             {text: 'Video Tutorials', link: '/videotutorials/'},
             {text: 'FAQ', link: '/frequentquestions/'},
+            {text: 'MSS', link: '/mss/'},
         ],
         sidebar: getSidebar(),
     },
@@ -85,9 +86,9 @@ function getSidebar() {
                 'systemUtility',
                 'otherAdminSettings',
             ]),
-            '/setupscheme/': generateSidebar(
-                '/setupscheme/',
-                'Schemes Setup User Guide',
+        '/setupscheme/': generateSidebar(
+            '/setupscheme/',
+            'Schemes Setup User Guide',
             [
                 '',
                 'newScheme',
@@ -200,13 +201,13 @@ function getSidebar() {
                 'posting',              
             ]),
         '/deployment/': generateSidebar(
-            '/deployment/',
-            'Installation Guides',
-            [
-                '',
-                'postgres',
-            ]),
-            '/videotutorials/': generateSidebar(
+                '/deployment/',
+                'Installation Guides',
+                [
+                    '',
+                    'postgres',
+                ]),
+        '/videotutorials/': generateSidebar(
                 '/videotutorials/',
                 'Videos Tutorials',
             [
@@ -215,12 +216,20 @@ function getSidebar() {
                 'membersModule',
                 'schemeSetup',
             ]),
-            '/frequentquestions/': generateSidebar(
+        '/frequentquestions/': generateSidebar(
                 '/frequentquestions/',
                 'Frequently Asked Questions ',
             [
                 '',
             ]),
+        '/mss/': generateSidebar(
+            '/mss/',
+            'Member Self Service',
+        [
+            '',
+            'accessingmssportal',
+            'userprofiles'
+        ]),
     };
 }
 
@@ -238,7 +247,8 @@ function generateSidebar(basePath, title, children) {
                 '/workflow/',
                 '/investments/',
                 '/videotutorials/',
-                '/deployment/'
+                '/deployment/',
+                '/mss/'
             ]
         }
     ];
