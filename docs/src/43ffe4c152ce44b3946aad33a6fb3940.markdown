@@ -37,7 +37,7 @@ within the portal. The following illustration shows the landing page.
 
 ## Portal landing Page
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image1.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image1.png">
 
 The circled numbers in this above illustration correspond to the numbers
 in the following table that describe the key components of the MSS
@@ -63,7 +63,7 @@ REGISTER as a new user to the portal. Alternatively, a registered member
 can also log in from within the page using the QUICK LOGIN section as
 illustrated below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image2.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image2.png">
 
 **Action:** Click on the **LOGIN** or **Quick LOGIN** links to access
 the portal dashboard.
@@ -81,7 +81,7 @@ log in.
 In case a use cannot recall his or her password, clicking Reset Password
 will allow the user to change the Password.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image3.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image3.png">
 
 **Action:** Enter your **Username** or **Email address** and
 **Password** and click the **LOG IN** button to access the portal
@@ -95,7 +95,7 @@ remember your password and check **Remember Me** box to save it.
 A new member can click the REGISTER link on the Menu Bar as shown in the
 illustration below to start the registration process.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image4.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image4.png">
 
 **Action:** Click the **Register** link to open the registration form.
 
@@ -104,7 +104,7 @@ illustration below to start the registration process.
 The sign-up page will open to allow the user to register through a form
 as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image5.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image5.png">
 
 **Action:** Click to select Account Type and type an email address. Then
 click **Submit** button to create an account. Otherwise, click
@@ -114,7 +114,7 @@ A user will be prompted to click to select the appropriate account type
 through a drop-down menu, and then enter an email address to register.
 This is shown in the following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image6.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image6.png">
 
 **Action:** Click on the drop-down menu to select Account Type. Type in
 your **email address** and click the **submit** button. Otherwise, click
@@ -125,7 +125,7 @@ account. The failed attempt, as shown below will prompts the system to
 direct the user to the membership section of the landing page where one
 can sign-up and become a member. See the following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image7.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image7.png">
 
 **Action:** Click the **Ok** button on the pop-up window to exit.
 
@@ -134,7 +134,7 @@ a member that a user how has successfully logged into the system can
 click to begin the process of registering for membership. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image8.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image8.png">
 
 **Action:** Click on the **Become Member** Button to launch the
 membership form.
@@ -156,7 +156,7 @@ in the FundMaster. Clicking on the Next button on the lower bottom side
 of the page will open the next section for filling more details. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image9.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image9.png">
 
 **Action:** Click on the **Next** Button to launch the membership form,
 otherwise click previous to step back.
@@ -210,7 +210,7 @@ the member's profile dashboard as shown in the illustration below. Note
 the pop-up window that serves to remind of a member's pending tasks such
 as uploading missing documents, adding beneficiaries, etc.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image10.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image10.png">
 
 **Action:** Clicking the **OK** button to close the pop-up window.
 
@@ -219,7 +219,7 @@ as uploading missing documents, adding beneficiaries, etc.
 The following illustration shows the member dashboard that consists of a
 menu bar on the left side and a summary of the key information:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image11.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image11.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -268,7 +268,7 @@ xi. Activity Logs
 
 xii. Log Out Button
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image12.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image12.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -285,7 +285,7 @@ personal information (bio) as captured in the system. On the right side
 is the member's contact details. Scroll down to display the lower hidden
 section.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image13.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image13.png">
 
 **Action:** Use the **Scroll Bar** on the right to view the hidden part
 of the page.
@@ -296,7 +296,7 @@ From the left side, we have the member's beneficiaries presented in a
 table while on the right side a chart of the beneficiaries' entitlement
 is displayed.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image14.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image14.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -321,7 +321,7 @@ illustration, will launch a form prompting the user to fill in text
 fields with all the details of a beneficiary. See the illustration
 below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../src/mss-images/media/image15.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image15.png">
 
 **Action:** Click the **Save** button to add a new person. Otherwise,
 click the **Close** button exit the window.
@@ -332,7 +332,7 @@ Clicking the employment details button as shown in a previous
 illustration, will launch a form displaying the user's employment
 details as shown in the illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image16.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image16.png">
 
 **Action:** Click the **Close** button to exit the window.
 
@@ -342,7 +342,7 @@ Clicking the view all details tab will display a page with tabs that can
 be clicked to display sections with all details of a member. See the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image17.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image17.png">
 
 **Action:** Click on the menu items labeled with green numbered circles
 to do the following:
@@ -368,7 +368,7 @@ to do the following:
 Click to view a member's address information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image18.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image18.png">
 
 **Action:** Click the **Save** button to commit the captured details
 
@@ -377,7 +377,7 @@ illustration below.
 Click to view a member's place of birth info as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image19.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image19.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -386,7 +386,7 @@ illustration below.
 Click to view a member's home address information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image20.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image20.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -398,7 +398,7 @@ illustration below.
 Click to view a member's employment information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image21.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image21.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -407,7 +407,7 @@ illustration below.
 Click to view a member's membership information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../src/mss-images/media/image22.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image22.png">
 
 **Action:** Click the **Save** button to commit the edited details
 

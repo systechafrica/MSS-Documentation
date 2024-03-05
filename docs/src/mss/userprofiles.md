@@ -32,7 +32,7 @@ the member's profile dashboard as shown in the illustration below. Note
 the pop-up window that serves to remind of a member's pending tasks such
 as uploading missing documents, adding beneficiaries, etc.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image10.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image10.png">
 
 **Action:** Clicking the **OK** button to close the pop-up window.
 
@@ -41,7 +41,7 @@ as uploading missing documents, adding beneficiaries, etc.
 The following illustration shows the member dashboard that consists of a
 menu bar on the left side and a summary of the key information:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image11.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image11.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -90,7 +90,7 @@ xi. Activity Logs
 
 xii. Log Out Button
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image12.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image12.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -107,7 +107,7 @@ personal information (bio) as captured in the system. On the right side
 is the member's contact details. Scroll down to display the lower hidden
 section.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image13.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image13.png">
 
 **Action:** Use the **Scroll Bar** on the right to view the hidden part
 of the page.
@@ -118,7 +118,7 @@ From the left side, we have the member's beneficiaries presented in a
 table while on the right side a chart of the beneficiaries' entitlement
 is displayed.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image14.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image14.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -143,7 +143,7 @@ illustration, will launch a form prompting the user to fill in text
 fields with all the details of a beneficiary. See the illustration
 below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image15.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image15.png">
 
 **Action:** Click the **Save** button to add a new person. Otherwise,
 click the **Close** button exit the window.
@@ -154,7 +154,7 @@ Clicking the employment details button as shown in a previous
 illustration, will launch a form displaying the user's employment
 details as shown in the illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image16.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image16.png">
 
 **Action:** Click the **Close** button to exit the window.
 
@@ -164,7 +164,7 @@ Clicking the view all details tab will display a page with tabs that can
 be clicked to display sections with all details of a member. See the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image17.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image17.png">
 
 **Action:** Click on the menu items labeled with green numbered circles
 to do the following:
@@ -190,7 +190,7 @@ to do the following:
 Click to view a member's address information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image18.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image18.png">
 
 **Action:** Click the **Save** button to commit the captured details
 
@@ -199,7 +199,7 @@ illustration below.
 Click to view a member's place of birth info as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image19.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image19.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -208,7 +208,7 @@ illustration below.
 Click to view a member's home address information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image20.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image20.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -217,7 +217,7 @@ illustration below.
 Click to view a member's employment information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image21.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image21.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -226,7 +226,7 @@ illustration below.
 Click to view a member's membership information as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../mss-images/media/image22.png">
+<img  alt="Portal landing page" width="60%" height="auto" class="center"  src="../.vuepress/public/mss-images/media/image22.png">
 
 **Action:** Click the **Save** button to commit the edited details
 
@@ -235,7 +235,7 @@ illustration below.
 Click to upload membership required documents as shown in the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image23.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image23.png">
 
 **Action:** Click the **Browse** button to upload documents, Otherwise,
 click the **Save** button.
@@ -248,7 +248,7 @@ made in the past as well as make new contributions. Note that
 contributions for a specified period can be viewed using the filter
 button.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image24.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image24.png">
 
 **Action:** Click on the **buttons** labeled with green numbered circles
 to do the following:
@@ -273,7 +273,7 @@ menu is displayed to allow a user to select the preferred method of
 payment e.g., Mobile Money, as illustrated below. Fill the form with
 details to commit a new contribution.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image25.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image25.png">
 
 **Action:** Click the **Make Payment** button to initiate the
 transaction. Otherwise, click on the **Close** button to exit the
@@ -294,7 +294,7 @@ On the right side is a button that allows the user to view her/his
 recent contributions through a pop-up window within the page. See the
 next illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image26.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image26.png">
 
 **Action:** Click the **Recent Contributions** button labeled 1 to open
 the recent contributions window. Otherwise, click on the **Refresh**
@@ -302,7 +302,7 @@ button labeled 2 to repopulate the records.
 
 *Recent contributions*
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image27.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image27.png">
 
 **Action:** Click the **Exit** button to close the recent contributions
 window.
@@ -314,7 +314,7 @@ illustration below, allowing the user to initiate a claim towards making
 benefits request withdrawal. There is a button on the right side that
 enables the user to open a wizard for making the request.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image28.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image28.png">
 
 **Action:** Click the **Initiate Claim** button to open a claim wizard
 window Otherwise, click the **refresh** button to populate the claim
@@ -325,7 +325,7 @@ records.
 When a user clicks the initiate claims button, a pop-up window opens,
 welcoming the member to a claim process. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image29.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image29.png">
 
 **Action:** Click the **Proceed** button to open a claim wizard window
 Otherwise, exit the window.
@@ -334,7 +334,7 @@ When a user clicks the Proceed button, a wizard is triggered to populate
 the user's details if he/she is a registered member. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image30.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image30.png">
 
 **Action:** Click the **Next** button to proceed, otherwise, click the
 **Cancel** button to terminate the process.
@@ -343,7 +343,7 @@ Clicking the Cancel button will prompt the user to confirm his/her
 decision to discard the claim. Otherwise, the user is given another
 chance to continue with the claim process as shown below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image31.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image31.png">
 
 **Action:** Click the **Yes** button to discard the claim or the **No**
 button to continue with the claim process.
@@ -355,14 +355,14 @@ pending claim not yet approved, when he/she clicks the **Next** button
 as shown in a previous illustration, the system informs the member of a
 pending claim as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image32.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image32.png">
 
 **Action:** Click the **Ok** button to exit the wizard.
 
 Otherwise, if a non-member clicks the next button, the following message
 will be displayed.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image33.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image33.png">
 
 **Action:** Click the **Ok** button to quit.
 
@@ -398,7 +398,7 @@ The illustrations below show the steps taken to calculate the benefits
 projection. The form shown below prompts the user to fill in the
 required details to show the results.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image34.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image34.png">
 
 **Action:** Fill in details and click the **Show Results** button,
 otherwise, click **What If Analysis** tab to open the calculator page.
@@ -409,7 +409,7 @@ If a given age and the selected reason for exit are agreeable, clicking
 the Show Results button will trigger the benefits projection calculator
 to return some results as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image35.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image35.png">
 
 **Action:** Use the **Scroll Bar** on the right to view the extra
 information.
@@ -421,7 +421,7 @@ Members can calculate their expected benefits result after filling the
 provided form with their details and future assumptions to calculate and
 predict future withdrawable balance.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image36.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image36.png">
 
 **Action:** Click on the **Calculate** button to launch the function.
 
@@ -438,7 +438,7 @@ till a green message is displayed "saying calculator is ready...'. Now
 you can adjust parameters for projections. Consider guidance from the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image37.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image37.png">
 
 **Action:** Consider the appropriate action on the areas labeled with
 green numbered circles as follows:
@@ -481,7 +481,7 @@ determine the amount of lump sum package and IRR that you may receive at
 the specified exit age. The financial constraints passed will be applied
 accordingly. See the next illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image38.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image38.png">
 
 **Action:** Consider the appropriate action on the areas labeled with
 green numbered circles as follows:
@@ -501,7 +501,7 @@ advanced parameters that a user can adjust to project Future Investment
 Return Per Annum (%), Future Inflation Per Annum (%), and Future Salary
 Increases Per Annum (%). See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image39.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image39.png">
 
 **Action:** Click on the red-colored sliders to adjust different
 parameters and see the output on the right side of the page as shown
@@ -536,7 +536,7 @@ pages by clicking the tabs on the top panel. Otherwise, a member can
 pick a document from those that are already uploaded or upload a new one
 as illustrated below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image40.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image40.png">
 
 **Action:** Click on the tabs and buttons labeled with green numbered
 circles to do the following:
@@ -555,7 +555,7 @@ The user can also open the unsubmitted documents page again or the D.M.S
 pages. The illustration below shows the page whose member has no
 submitted documents.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image41.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image41.png">
 
 **Action:** click the **Refresh** button to repopulate the records.
 
@@ -566,7 +566,7 @@ the member has already uploaded to the system towards initiating a
 claim. The user can also open the received documents page to see a list
 of documents received by the FundMaster system.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image42.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image42.png">
 
 **Action:** Click on the **tabs** and buttons labeled with green
 numbered circles to do the following:
@@ -589,7 +589,7 @@ Clicking the Received Documents tab will display the list of all the
 documents that the system has already received towards initiating a
 claim.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image43.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image43.png">
 
 **Action:** Click the **Sort** button to display records in the desired
 order.
@@ -604,7 +604,7 @@ seeing that the resetting of passwords is handled from the admin
 profile, the portal admin will see the ticket query and address it,
 giving a response thereafter.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image44.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image44.png">
 
 **Action:** Click on the tabs and buttons labeled with green numbered
 circles to do the following:
@@ -632,7 +632,7 @@ who handled the ticket and the date. On the lower section of the page,
 the user can replay the message from the ticket handler. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image45.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image45.png">
 
 **Action:** Click the tabs and buttons labeled with green numbered
 circles to do the following:
@@ -656,7 +656,7 @@ Clicking the bank menu will display the page where a member can add bank
 details. If one has more than one bank account, setting one has the
 default bank is done here.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image46.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image46.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -673,7 +673,7 @@ Clicking the form menu will display a page showing all uploaded forms
 for member's profile in the portal. A member can download the form to
 fill in and submit appropriately. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image47.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image47.png">
 
 **Action:** Click the **Refresh** buttons to repopulate the list of
 forms. Otherwise, click on the **Download file** link to have a copy of
@@ -686,7 +686,7 @@ details of the logged-in member. One can also change his/her profile
 picture, download membership certificate besides changing password
 details as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image48.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image48.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -705,7 +705,7 @@ Clicking **Add/Change Picture** button will open a window as shown in
 the illustration below. One can navigate to the folders or other
 locations to upload a new picture.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image49.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image49.png">
 
 **Action:** Click the **Browse** button to select a new picture from
 your device then click the **Save** to confirm change of images.
@@ -717,7 +717,7 @@ Clicking the **view membership certificate** button will open a window
 as shown in the illustration below, asking one to confirm his/her
 intention to view the report.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image50.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image50.png">
 
 **Action:** Click the **Yes** button to have the report downloaded to
 your device, Otherwise, click the **No** button to abort the procedure.
@@ -728,7 +728,7 @@ Clicking the activity logs menu will open a page showing a record of all
 the activities of a logged-in member in the portal. One can search
 records for specific periods through filtering by date and print a copy.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image51.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image51.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -755,7 +755,7 @@ will be demonstrated throughout this section.
 When a user login as an admin, he/she will be welcomed into the admin
 home (dashboard) as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image52.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image52.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -795,7 +795,7 @@ viii. FAQs
 
 ix. Log Out Button.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image53.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image53.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -821,7 +821,7 @@ another by simply editing the various elements of the page e.g. logo,
 images, address details among others. The following illustration shows
 an example of landing page configuration settings.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image54.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image54.png">
 
 **Action:** Click the **Edit** buttons inside every enclosed section to
 modify the content appropriately.
@@ -833,7 +833,7 @@ between creating a mobile configuration, viewing a configuration's
 settings (which will be displayed on a new window form), or removing a
 configuration. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image55.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image55.png">
 
 **Action:** Click on each enclosed tab to carry out the appropriate
 action.
@@ -845,7 +845,7 @@ settings for integration with mobile money service providers. A user can
 also view an existing mobile money configuration or remove one from the
 system. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image56.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image56.png">
 
 **Action:** Click on each enclosed tab to carry out the appropriate
 action. To view a configuration, first select a record by clicking the
@@ -857,7 +857,7 @@ Allows a user to configure settings for working with various email
 service providers. A user can also view an existing email configuration
 or remove one from the system. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image57.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image57.png">
 
 **Action:** Click on each enclosed tab to carry out the appropriate
 action. Otherwise, click the **Test SMTP** button.
@@ -868,7 +868,7 @@ Clicking the test SMTP button will launch a form prompting the user to
 enter an email address for the purposes of testing if the simple mail
 transfer protocol is working. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image58.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image58.png">
 
 **Action:** Click the **Send** button to send a test mail to the
 provided email account as shown above. After sending, check your email
@@ -880,7 +880,7 @@ Allows a user to configure settings for selfie identification from the
 chosen service provider. A user can also view existing configuration
 settings or remove one from the system. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image59.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image59.png">
 
 **Action:** Click on each enclosed tab to carry out the appropriate
 action. Otherwise, click the **Refresh** button to reload all the
@@ -893,7 +893,7 @@ various social media websites. A user can also view existing
 configuration settings or remove one from the system. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image60.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image60.png">
 
 **Action:** Click on each enclosed tab to carry out the appropriate
 action. Otherwise, click the **Refresh** button to reload all the
@@ -907,7 +907,7 @@ filtering by date. From this page, an admin can carry out several
 activities e.g., register new users, lock a user account, filter
 records, etc. as will be demonstrated in this section.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image61.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image61.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -935,7 +935,7 @@ Clicking the view users after selecting a record from the list will open
 a new window with a form populated with the user's (admin account)
 details. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image62.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image62.png">
 
 **Action:** Click the **Close** button to shut the form.
 
@@ -945,7 +945,7 @@ Clicking the Registration Actions tab will open a drop-down menu from
 which a user can select an action to take as shown in the illustration
 below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image63.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image63.png">
 
 **Action:** Click on a text link to take the appropriate action, e.g.,
 to register a user to MSS
@@ -956,7 +956,7 @@ to register a user to MSS
 When a user clicks the Register a User to MSS link, a form is displayed
 prompting for the new user's role and email address as shown below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image64.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image64.png">
 
 **Action:** Click to choose a role, type email address then click the
 **Save** button. Otherwise, click **Close** button.
@@ -968,7 +968,7 @@ window is opened prompting the user to download a template to fill in
 new members details and upload it. The user can view the successful and
 unsuccessful executions. See the illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image65.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image65.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -993,7 +993,7 @@ failed registrations identified by email used together with an exception
 message -- the reason for failed registration. See the illustration
 below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image66.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image66.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1019,7 +1019,7 @@ and reset authentication trials. To register a member, search using a
 phone number, member number, account number, or national ID. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image67.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image67.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1042,19 +1042,19 @@ illustrations.
 
 *Step 1*
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image68.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image68.png">
 
 **Action:** click to type the identification method e.g., phone number
 
 *Step 2:*
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image69.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image69.png">
 
 **Action:** click a check box to select the member
 
 *Step 3:*
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image70.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image70.png">
 
 **Action:** click to register the selfie
 
@@ -1067,7 +1067,7 @@ service else it prompts a user with a stk push via which a payment is
 done using any mobile money service e.g., Mpesa. See the illustration
 below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image71.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image71.png">
 
 **Action:** click the **Yes** button to proceed to payment, otherwise,
 click the **No** button to terminate the process.
@@ -1075,7 +1075,7 @@ click the **No** button to terminate the process.
 In case of a pending payment, the user is notified and prompted to
 continue by utilizing that payment or cancel as shown below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image72.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image72.png">
 
 **Action:** click the **Yes** button to proceed to payment, otherwise,
 click the **No** button to terminate the process.
@@ -1085,14 +1085,14 @@ click the **No** button to terminate the process.
 After clicking the **Yes** button as shown previously, another window
 opens prompting the user to take a selfie as shown below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image73.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image73.png">
 
 **Action:** click the **Request Camera Access** button to take a selfie
 from your device, otherwise, the exit window.
 
 Take a selfie as shown in the illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image74.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image74.png">
 
 **Action:** click the **Yes, use this one** button to upload the
 picture, or click **Re-take selfie** button to have a better shot**.**
@@ -1101,7 +1101,7 @@ Otherwise, close the window.
 Finally, if the picture was uploaded successful, the following message
 will be displayed to the user.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image75.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image75.png">
 
 **Action:** click the **close** button to exit the window.
 
@@ -1112,7 +1112,7 @@ demonstrated above. On the other hand, **reset authentication trails**
 will restart the trail counts for the selfie registration process as
 shown below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image76.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image76.png">
 
 **Action:** click the **OK** button to close the window.
 
@@ -1121,33 +1121,33 @@ shown below.
 Clicking the More Action drop-down menu will list actions that an admin
 can take on a selected user account.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image77.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image77.png">
 
 **Action:** Click on the **text links** highlighted above to take the
 appropriate action
 
 *Lock User:* Clicking on lock User will freeze an account
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image78.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image78.png">
 
 **Action:** Click the **OK** button to close the window
 
 *Unlock User:* Clicking Unlock User will unfreeze an account
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image79.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image79.png">
 
 **Action:** Click the **OK** button to close the window
 
 *Reset User:* Clicking Reset User credentials
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image80.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image80.png">
 
 **Action:** Click the **OK** button to close the window
 
 *Delete User:* Clicking Delete User will remove an account from the
 records. However, a user will have to confirm the action first.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image81.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image81.png">
 
 **Action:** Click the **Yes** button to proceed or the **No** button to
 cancel the process
@@ -1155,7 +1155,7 @@ cancel the process
 The following message will be displayed when a user is successfully
 deleted as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image82.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image82.png">
 
 **Action:** Click the **OK** button to close the window
 
@@ -1166,7 +1166,7 @@ the users who play the role of portal administration. One can create a
 new admin account, view an account detail, or lock an account. See the
 illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image83.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image83.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1184,7 +1184,7 @@ numbered circles to do the following:
 To create an admin account, fill the provided form with the required
 details. See the illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image84.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image84.png">
 
 **Action:** Click the **Save** button to create an account, Otherwise,
 click the **Close** button to exit the window.
@@ -1192,7 +1192,7 @@ click the **Close** button to exit the window.
 A successful account creation process will return the following message
 as shown below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image85.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image85.png">
 
 **Action:** Click the **OK** button close the window.
 
@@ -1202,7 +1202,7 @@ Clicking on the view admin button will open a dialogue window with the
 selected admin's details. The details of the account can also be edited
 for updates. See the illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image86.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image86.png">
 
 **Action:** Click the **Save button** to commit changes if the details
 were edited. Otherwise, click **Close** button to shut the window.
@@ -1210,7 +1210,7 @@ were edited. Otherwise, click **Close** button to shut the window.
 A successful edited account will return the following message as shown
 below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image87.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image87.png">
 
 **Action:** Click the **OK** button close the window
 
@@ -1219,7 +1219,7 @@ below:
 Selecting an account to lock from the list of accounts and clicking the
 lock admin account will return the message shown below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image88.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image88.png">
 
 **Action:** Click the **OK** button close the dialogue box
 
@@ -1230,7 +1230,7 @@ sent to and from the admin account. The files are grouped into Inbox and
 Outbox. From the Outbox, one can send a file to a specified profile in
 the portal. See the following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image89.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image89.png">
 
 **Action:** click the **view text link** to download a specific file and
 see all the details. Otherwise, scroll to see all the records.
@@ -1240,7 +1240,7 @@ see all the details. Otherwise, scroll to see all the records.
 Clicking the outbox tab will open a window listing all the files sent
 from a user's account. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image90.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image90.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1259,7 +1259,7 @@ window prompting the user to select from a drop-down menu the profile to
 send the file to, type a description and upload a file to send. See the
 illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image91.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image91.png">
 
 **Action:** Click the **Browse** button to select a file from your
 device and the **Upload** button to save the file in the portal.
@@ -1273,7 +1273,7 @@ management of tickets is realized: from searching for tickets from a
 list using keywords to adding new tickets among other activities as
 demonstrated in this section. See the illustration below:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image92.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image92.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1293,7 +1293,7 @@ numbered circles to do the following:
 Clicking the View Ticket button will open a new window showing more
 details about the ticket as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image93.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image93.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1313,13 +1313,13 @@ numbered circles to do the following:
 Clicking the ticket resolved button will mark the selected ticket as
 closed
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image94.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image94.png">
 
 **Action:** Click the **OK** button to exit the window.
 
 Clicking a closed ticket will display the following page
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image95.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image95.png">
 
 **Action:** Click the **Back** button to go to the tickets page,
 otherwise, click **Open Ticket** button to mark the ticket as
@@ -1328,7 +1328,7 @@ unresolved.
 Below is the message that is generated when a user clicks on the **Open
 Ticket** button:
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image96.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image96.png">
 
 **Action:** Click the **OK** button to exit.
 
@@ -1340,7 +1340,7 @@ ticket record from the list and view details. Besides being able to
 search for a ticket using ticket ID, a user can also forward a ticket to
 another profile to be handled there. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image97.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image97.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1359,7 +1359,7 @@ Clicking All Tickets tab will open a window displaying a list of all
 tickets raised giving more details about every ticket as shown in the
 following illustration.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image98.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image98.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1378,7 +1378,7 @@ Clicking the **Forward Ticket** button will generate the following
 dialogue box prompting the user to select the target profile from a
 drop-down menu.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image99.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image99.png">
 
 **Action:** Click the **Submit** button to send the ticket, Otherwise,
 click the **Cancel** button.
@@ -1389,7 +1389,7 @@ Clicking the Ticket Issue Management tab will display a list of tickets
 and their handlers. A user can also add a ticket among other actions as
 shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image100.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image100.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1408,7 +1408,7 @@ Clicking the mail Outbox menu will open a page showing a list of all
 messages received. One can select a message from the list and view its
 details or resend. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image101.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image101.png">
 
 **Action:** Click the **View Details** button to see all the details of
 a selected message. Click **Resend** button to resubmit a message again
@@ -1419,7 +1419,7 @@ Message details
 Clicking the View Details button will open a window showing the details
 of a selected message in the Outbox. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image102.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image102.png">
 
 **Action:** Click the **Close** to exit the window.
 
@@ -1430,7 +1430,7 @@ showing a list of the frequently asked questions in the portal. One can
 click a record to view full details of frequently asked question and add
 a question too. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image103.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image103.png">
 
 **Action:** Click the **Add FAQ** button to type and submit one.
 Otherwise, click the **Refresh** button to repopulate the records.
@@ -1442,7 +1442,7 @@ user for details pertaining to the question i.e., the title, subtitle,
 and the profile to send the question and the explanation. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image104.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image104.png">
 
 **Action:** Click the **Save** button to send the question. Click the
 **Delete** button to discard the process. Otherwise, close the window.
@@ -1454,7 +1454,7 @@ the activities by all users who logged into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image105.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image105.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -1473,7 +1473,7 @@ Clicking the manage account menu will a page showing the personal
 details of the logged-in user. One can also change the profile picture
 and password details as shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image106.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image106.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -1489,7 +1489,7 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image107.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image107.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
@@ -1505,7 +1505,7 @@ illustrations below demonstrate how different configurations are done.
 The following illustration shows the different categories of setting
 possible in the portal.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image108.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image108.png">
 
 **Action:** Click on the **Text links** labeled with green numbered
 circles to do the respective configurations.
@@ -1521,7 +1521,7 @@ for a member profile on the portal.
 Clicking other tabs, e.g. Principal Officer, on the menu bar will allow
 one to modify settings for other profiles. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image109.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image109.png">
 
 **Action:** Click on the **Set Default** button to retain standard
 settings or the **Save** button to commit the new changes, if any.
@@ -1533,7 +1533,7 @@ method for accessing the different profiles in the portal. A user needs
 to select a profile from a list and then choose the login identifier as
 shown in the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image110.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image110.png">
 
 **Action:** Consider the appropriate action on the areas labeled with
 green numbered circles as follows:
@@ -1553,7 +1553,7 @@ in the portal and also create a new template that can be used to aid in
 communication from within and outside of the portal. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image111.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image111.png">
 
 **Action:** Click on the **Add/Edit** button to configure a new email
 template
@@ -1564,7 +1564,7 @@ Clicking the add/edit template button on the previous illustration will
 launch a form that allows the user to configure how a new email template
 should look like. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image112.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image112.png">
 
 **Action:** Click accordingly to set the configurations for a new email
 template. Finally, click the **Save template** button to save the new
@@ -1578,7 +1578,7 @@ security by enabling two factor authentication. This is done by
 selecting yes or no on the form select fields. The illustration below
 shows settings done to activate two factor authentication.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image113.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image113.png">
 
 **Action:** Click to select yes or no on the select fields accordingly.
 
@@ -1589,7 +1589,7 @@ who tries to log into the profile will be confronted with the need to
 authenticate by keying in a verification code sent through his/her email
 account. See the illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image114.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image114.png">
 
 #### Form Configuration
 
@@ -1606,7 +1606,7 @@ he/she dies without receiving all benefits from a pension scheme. The
 process is exactly the same as demonstrated for members form. See the
 illustration below.
 
-<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../mss-images/media/image115.png">
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image115.png">
 
 **Action:** Click on the **Set Default** button to retain standard
 settings or the **Save button** to commit the new changes, if any.
