@@ -1621,8 +1621,7 @@ The configurations can be set to allow the tooltips to show only the
 first time a new user logs into the portal profile or show them
 randomly. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image116.png){width="5.208333333333333in"
-height="2.175336832895888in"}
+<img  alt="Portal landing page" width="80%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image116.png">
 
 **Action:** Click to select yes or no on the select fields accordingly.
 
@@ -1642,8 +1641,7 @@ a form to the portal is provided together with one for deleting unwanted
 ones, downloading, and refreshing the records. See the illustration
 below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image117.png){width="6.4282338145231845in"
-height="2.2457622484689415in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image117.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -1658,8 +1656,7 @@ Clicking the Upload button will load a dialogue box prompting the user
 for the title, file attachment, and the description of the form to be
 created. See the illustration below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image118.png){width="4.1760269028871395in"
-height="2.643478783902012in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image118.png">
 
 **Action:** Click the **Browse** button to select a file from your
 device. Then click the **Save** button to upload it to the portal,
@@ -1668,18 +1665,14 @@ Otherwise, click the **Close** button.
 A successful form creation process will display a message as shown in
 the illustration below.
 
-![Graphical user interface, application Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image119.png){width="3.1354166666666665in"
-height="1.7558333333333334in"}
+<img  alt="Portal landing page" width="50%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image119.png">
 
 **Action:** Click the **OK** button to exit.
 
 On the other hand, a failed process will return the message shown in the
 illustration below:
 
-![Graphical user interface, application Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image120.png){width="3.090909886264217in"
-height="1.609847987751531in"}
+<img  alt="Portal landing page" width="50%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image120.png">
 
 **Action:** Click the **OK** button to exit.
 
@@ -1689,8 +1682,7 @@ Clicking the FAQs tab, on the upper right corner, will open a window
 showing a report of the frequently asked questions in the portal. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image121.png){width="5.104166666666667in"
-height="3.021599956255468in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image121.png">
 
 **Action:** Click the **text links** to display the list of questions in
 accordion style. Click the **Home** tab to return to the portal home
@@ -1702,10 +1694,7 @@ The logged-in users' details are displayed through a drop-down menu that
 provides a shortcut access to notifications, user profile, and a button
 to log out of the portal.
 
-![Graphical user interface, text, application, chat or text message
-Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image122.png){width="4.900073272090989in"
-height="2.525423228346457in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image122.png">
 
 **Action:** Click on the enclosed **text links** to open respective
 pages. Otherwise, click the **Logout** button to exit the portal.
@@ -1718,9 +1707,7 @@ messages sent from within the portal. They are grouped into Inbox and
 Outbox messages. One can select to read individual messages and compose.
 See the illustration below.
 
-![Graphical user interface Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image123.png){width="6.484724409448819in"
-height="2.37288167104112in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image123.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1742,8 +1729,7 @@ Check the box of the record with the message you want to read, then
 click the status text link on the right to open a new window displaying
 the message details as shown below. You can also download the message.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image124.png){width="4.565883639545057in"
-height="3.9411767279090113in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image124.png">
 
 **Action:** Click the **Download File** link to save the message file on
 your device. Otherwise, close the window.
@@ -1754,8 +1740,7 @@ You can also type a new message by clicking the **Compose** button as
 shown in a previous illustration. This will launch the window where you
 can provide the required details for the message as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image125.png){width="4.405216535433071in"
-height="4.088234908136483in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image125.png">
 
 **Action:** click the **Browse** button to attach a file from your
 device and then click the **Send Broadcast** button to upload the
@@ -1774,13 +1759,12 @@ This profile serves as an interface to the portal users who log in as
 sponsors - employers. Sponsors can request for billing and perform other
 activities, as will be demonstrated throughout this section.
 
-[]{#_Toc89257360 .anchor}**Dashboard components**
+### Dashboard components
 
 When a user login as an admin, he/she will be welcomed into the sponsor
 home page (dashboard) as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image126.png){width="6.416666666666667in"
-height="6.30698053368329in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image126.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -1796,17 +1780,12 @@ member's dashboard.
 | 6.  Contribution Billing Summary | A contribution billing graph plotted to show contributed amount per month. |
 | 7.  Bill records   | Lists all the billing records requested by the sponsor.  |
 
-[]{#_Toc89257361 .anchor}**Dashboard Menu**
+### Dashboard Menu
 
 Clicking the menu bar icon will expand the panel to reveal menu items as
 shown in the illustration below. The user can click each item to open a
 specific page. The menu comprises links to the following pages:
 
-xiii. 
-
-```{=html}
-<!-- -->
-```
 i.  Sponsor Information
 
 ii. Members
@@ -1841,13 +1820,12 @@ xvi. My Profile
 
 xvii. Log Out Button.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image127.png){width="3.6166666666666667in"
-height="5.468453630796151in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image127.png">
 
 **Action:** Click the **Home** tab to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
 
-[]{#_Toc89257362 .anchor}**Sponsor Information**
+### Sponsor Information
 
 Clicking the **Sponsor Information** menu will display the sponsor's
 personal information and contact details as shown in the following
@@ -1855,10 +1833,9 @@ illustration. From the left side of the window, sponsor details are
 displayed as captured in the system. On the right side are the sponsor's
 contact details.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image128.png){width="6.51576334208224in"
-height="2.5833333333333335in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image128.png">
 
-[]{#_Toc89257363 .anchor}**Members**
+### Members
 
 Clicking the **Members** menu item will display a page listing a
 sponsor's members in a selected scheme. From this page, through the
@@ -1867,8 +1844,7 @@ function to search members from the records via a search key and
 selecting identifier is provided to speed up the process. See the
 illustration below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image129.png){width="6.5in"
-height="3.216666666666667in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image129.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1891,8 +1867,7 @@ Clicking the **Add Single Member** tab will trigger a dialogue window
 prompting the user to enter details for the new member. See the
 illustration below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image130.png){width="6.440326990376203in"
-height="3.0729166666666665in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image130.png">
 
 **Action:** Click the **Save** button to commit the records, Otherwise,
 click **Cancel** to terminate the process.
@@ -1904,8 +1879,7 @@ dialogue window prompting the user to upload members in batch. In case a
 user does not have the template already, he/she can download it and use
 it. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image131.png){width="6.462055993000875in"
-height="2.0104166666666665in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image131.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1922,7 +1896,7 @@ numbered circles to do the following:
 
 -   Otherwise, click the close button to exit the window.
 
-<!-- *Potential members*
+*Potential members*
 
 Clicking the **Potential members** tab will open a page displaying a
 list of all members who have submitted their request to join a scheme
@@ -1930,19 +1904,17 @@ under your sponsorship. To check a members details, click a checkbox
 preceding a record and then view details button as shown in the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image132.png){width="6.43387467191601in"
-height="2.5in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image132.png">
 
 **Action:** select a record by clicking the checkbox, then click **View
 Details** button to see all the details of a selected member.
 
-[]{#_Toc89257364 .anchor}**Claims**
+**Claims**
 
 Clicking the **Claims** menu item will open the claims page, allowing
 the sponsor to see a list of all claims launched by scheme members.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image133.png){width="6.5049267279090115in"
-height="1.8333333333333333in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image133.png">
 
 **Action:** Click the **View** button to see all the details of a
 selected claim record. You can also type a keyword in the **Search box**
@@ -1957,8 +1929,7 @@ below. The sponsor can also see the documents submitted to support a
 claim. Finally, after evaluating the claim, the sponsor can make a
 decision by declining the claim or certifying and approving it.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image134.png){width="4.484379921259842in"
-height="2.714583333333333in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image134.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -1978,8 +1949,7 @@ the previous illustration, the portal offers a USSD functionality that
 allows the sponsor to make payments within the system using mobile money
 services as shown in the following illustration.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image135.png){width="6.5in"
-height="1.9986111111111111in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image135.png">
 
 **Action:** Click the **Checkbox** preceding a claim record and then
 click on the **Action** button to open a drop-down menu to choose an
@@ -1992,15 +1962,11 @@ clicking the benefits button, as shown in the illustration below.
 Otherwise, terminating the process at this stage is also allowed by
 clicking the decline benefits button.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image136.png){width="5.93379593175853in"
-height="2.183333333333333in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image136.png">
 
 **Action:** Click the **Approve Benefits** button to commit the payment,
 Otherwise, click the **Decline Benefits** button to terminate the
 process.
-
-[]{#_Toc89257365 .anchor}**\
-**
 
 **Benefits**
 
@@ -2008,14 +1974,13 @@ Clicking the benefits menu will open a page displaying a list of members
 with their benefits-related details. You can search a member's details
 quickly using keywords. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image137.png){width="6.423729221347331in"
-height="2.86871719160105in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image137.png">
 
 **Action:** Click to type a keyword in the **Search box** to retrieve
 particular records quickly. Otherwise, click the **Refresh** button to
 repopulate the list.
 
-[]{#_Toc89257366 .anchor}**Staged Contributions**
+**Staged Contributions**
 
 Clicking the staged contributions menu will open a page displaying all
 the contributions made through the portal by the scheme members via USSD
@@ -2023,14 +1988,13 @@ on their mobile phones. A sponsor can see the status of different
 contributions and select a record on the list to commit the
 contributions to the FundMaster. See the following illustration.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image138.png){width="6.48000656167979in"
-height="2.6016951006124236in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image138.png">
 
 **Action:** Click the **Send to FundMaster** button to commit the
 contributions of a selected record to the FundMaster. Otherwise, click
 on the R**efresh** button to repopulate records.
 
-[]{#_Toc89257367 .anchor}**Billing**
+**Billing**
 
 Clicking the billing menu will open a page listing all the billing
 records from the sponsor. Bills received by the sponsor can be validated
@@ -2038,8 +2002,7 @@ or canceled from this page. Otherwise, the sponsor can book for new
 contribution bills and download a billing record, as shown in the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image139.png){width="6.391374671916011in"
-height="2.0423720472440943in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image139.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2061,21 +2024,19 @@ the following:
 Clicking on the action button, as shown above, will allow the sponsor to
 validate a bill or cancel a selected bill from the list.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image140.png){width="5.5272725284339455in"
-height="2.3557370953630796in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image140.png">
 
 **Action:** Click the **Validate Bill** button to approve the bill
 details, otherwise, click the **Cancel Bill** button to terminate the
 process.
 
-[]{#_Toc89257368 .anchor}**TPFA**
+**TPFA**
 
 Clicking the TPFA menu will open a page with Temporary Pension Fund
 Account (TPFA) fund transfer details within a selected sponsor's scheme.
 See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image141.png){width="6.345454943132109in"
-height="2.4015562117235345in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image141.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2088,14 +2049,13 @@ the following:
 
 -   Label 4: click to print a copy.
 
-[]{#_Toc89257369 .anchor}**Receipts**
+**Receipts**
 
 Clicking the receipts menu will display a page with a list of records
 showing all receipted transactions for the open account. See the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image142.png){width="6.439108705161855in"
-height="2.6in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image142.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2106,20 +2066,19 @@ the following:
 
 -   Label 3: click to print a copy.
 
-[]{#_Toc89257370 .anchor}**Documents**
+**Documents**
 
 Clicking the documents menu will open a page listing all documents that
 have been sent to the sponsor's account from other profiles within the
 portal. A user can select a document from the list to approve or
 download. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image143.png){width="6.118181321084864in"
-height="2.2740551181102364in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image143.png">
 
 **Action:** Click **Approve Document** button for approval, otherwise,
 click the **Refresh** button to repopulate the records.
 
-[]{#_Toc89257371 .anchor}**Ticket**
+**Ticket**
 
 Clicking the manage tickets menu will open a page showing a list of all
 the tickets sent from the sponsor profile. From this page, a user can
@@ -2127,8 +2086,7 @@ quickly search for tickets from the list using keywords, adding new
 tickets among other activities as demonstrated in this section. See the
 illustration below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image144.png){width="6.306930227471566in"
-height="2.0416666666666665in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image144.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2143,15 +2101,14 @@ numbered circles to do the following:
 
 -   Label 5: click to add a new ticket.
 
-[]{#_Toc89257372 .anchor}**Activity Logs**
+**Activity Logs**
 
 Clicking the activity logs menu will open a page showing a record of all
 the activities by all users who logged into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image145.png){width="6.3302930883639545in"
-height="2.9270833333333335in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image145.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2164,15 +2121,14 @@ the following:
 
 -   Label4: click to print a copy.
 
-[]{#_Toc89257373 .anchor}**Users**
+**Users**
 
 Clicking the user's menu will open a page showing a record of all the
 portal users under the sponsor profile. A user can take actions over the
 accounts listed, such as editing details and adding a new one among
 other activities. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image146.png){width="6.15in"
-height="2.1866666666666665in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image146.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2189,19 +2145,17 @@ Clicking on the Action button will display a drop-down window from which
 a selected record can be modified. Click to drop a user, edit user or
 reset a password appropriately as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image147.png){width="4.966666666666667in"
-height="3.046613079615048in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image147.png">
 
 **Action:** Click an item on the drop-down menu to execute an action.
 
-[]{#_Toc89257374 .anchor}**Manage Account**
+**Manage Account**
 
 Clicking the manage account menu will a page showing the personal
 details of the logged-in user. One can also change the profile picture
 and password details, as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image148.png){width="6.5in"
-height="2.5652777777777778in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image148.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2217,43 +2171,34 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image149.png){width="2.1527766841644795in"
-height="3.3333333333333335in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image149.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
 exit the window.
 
-**\
-**
-
-[]{#_Toc89257375 .anchor}**FAQs**
+**FAQs**
 
 Clicking the FAQs tab, in the upper right corner, will open a window
 showing a report of the frequently asked questions in the portal. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image121.png){width="4.422697944006999in"
-height="2.6181813210848643in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image121.png">
 
 **Action:** Click the **text links** to display the list of questions in
 accordion style. Click the **Home** tab to return to the portal home
 page. Otherwise, close the window.
 
-[]{#_Toc89257376 .anchor}**User Account**
+**User Account**
 
 The logged-in users' details are displayed through a drop-down menu that
 provides shortcut to access notifications, user profile, and a button to
 log out of the portal.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image150.png){width="5.127272528433946in"
-height="2.84081583552056in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image150.png">
 
 **Action:** Click on the enclosed **text links** to open respective
 pages. Otherwise, click the **Logout** button to exit the portal.
-
-***\
-***
 
 ***Notifications***
 
@@ -2263,9 +2208,7 @@ messages sent from within the portal. They are grouped into Inbox and
 Outbox messages. One can select to read individual messages and compose.
 See the illustration below.
 
-![Graphical user interface Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image123.png){width="6.385416666666667in"
-height="2.3365441819772528in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image123.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2284,8 +2227,7 @@ Check the box of the record with the message you want to read, then
 click the status text link on the right to open a new window displaying
 the message details as shown below. You can also download the message.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image124.png){width="4.566666666666666in"
-height="3.941852580927384in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image124.png">
 
 **Action:** Click the **Download File** link to save the message file on
 your device. Otherwise, close the window.
@@ -2298,7 +2240,7 @@ the logged-in user. One can change profile picture, download membership
 certificate, and change password details. Refer to the Manage Account
 menu for the illustrations.
 
-## Client Relationship Executive (CRE) Profile
+### Client Relationship Executive (CRE) Profile
 
 This profile serves as an interface to the portal users who take the
 role of CREs. These users work under the authority of a sponsor and are
@@ -2311,8 +2253,7 @@ activities, as will be demonstrated throughout this section.
 When a user login as a CRE, he/she will be welcomed into the CRE's home
 page (dashboard) as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image151.png){width="6.5in"
-height="4.759027777777778in"}
+<img  alt="Portal landing page" width="90%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image151.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -2342,8 +2283,7 @@ iv. Activity Logs
 
 v.  Log Out Button.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image152.png){width="2.78961832895888in"
-height="3.316666666666667in"}
+<img  alt="Portal landing page" width="50%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image152.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -2353,8 +2293,7 @@ click on a **menu item** to open the respective page.
 Clicking the schemes menu will open a page showing a list of all the
 schemes under that specific sponsor account. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image153.png){width="6.5in"
-height="2.6013888888888888in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image153.png">
 
 **Action:** Click and scroll down to view more listed scheme records
 
@@ -2366,8 +2305,7 @@ quickly search for tickets from the list using keywords, adding new
 tickets among other activities as demonstrated in this section. See the
 illustration below:
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image92.png){width="6.5in"
-height="2.102777777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image92.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2389,8 +2327,7 @@ open a form whereby one is able to prepare a ticket by providing details
 such as selecting the issue, priority, subject, and attaching a document
 if need be. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image154.png){width="3.816666666666667in"
-height="3.0063210848643918in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image154.png">
 
 **Action:** After identifying the issue, ticket priority and typing in
 the subject, click on the buttons labeled with green numbered circles to
@@ -2410,8 +2347,7 @@ details of the logged-in user. Through the provided form, one can change
 the account profile picture and password details, as shown in the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image155.png){width="6.5in"
-height="2.609027777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image155.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2427,14 +2363,11 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image156.png){width="1.9593077427821521in"
-height="3.0416666666666665in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image156.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
 exit the window.
-
-[]{#_Toc89257383 .anchor}
 
 ### Activity Logs
 
@@ -2443,8 +2376,7 @@ the activities by all users who logged into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image157.png){width="5.983333333333333in"
-height="3.187275809273841in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image157.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2457,16 +2389,13 @@ the following:
 
 -   Label4: click to print a copy.
 
-[]{#_Toc89257384 .anchor}
-
 ### FAQs
 
 Clicking the FAQs tab, in the upper right corner, will open a window
 showing a report of the frequently asked questions in the portal. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image121.png){width="5.687061461067366in"
-height="3.3666666666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image121.png">
 
 **Action:** Click the **text links** to display the list of questions in
 accordion style. Click the **Home** tab to return to the portal home
@@ -2478,8 +2407,7 @@ The logged-in users' details are displayed through a drop-down menu that
 provides shortcut access to notifications, user profile, and a button to
 log out of the portal.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image158.png){width="5.3in"
-height="2.720107174103237in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image158.png">
 
 **Action:** Click on the enclosed **text links** to open respective
 pages. Otherwise, click the **Logout** button to exit the portal.
@@ -2492,9 +2420,7 @@ messages sent from within the portal. They are grouped into Inbox and
 Outbox messages. One can select to read individual messages and compose.
 See the illustration below.
 
-![Graphical user interface Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image123.png){width="6.447916666666667in"
-height="2.359413823272091in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image123.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2513,8 +2439,7 @@ Check the box of the record with the message you want to read, then
 click the status text link on the right to open a new window displaying
 the message details as shown below. You can also download the message.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image124.png){width="4.2285531496063in"
-height="3.65in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image124.png">
 
 **Action:** Click the **Download File** link to save the message file on
 your device. Otherwise, close the window.
@@ -2527,7 +2452,7 @@ the logged-in user. One can change profile picture, download membership
 certificate, and change password details. Refer to the Manage Account
 menu for the illustrations.
 
-## Pensioner Profile
+### Pensioner Profile
 
 This profile serves as an interface to the portal users who take the
 role of pensioners. Authenticated users (Pensioners) can access
@@ -2539,8 +2464,7 @@ beneficiaries among other forms of interactions.
 When a user logins as a pensioner, he/she will be welcomed into the
 pensioner's home page (dashboard) as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image159.png){width="6.779800962379703in"
-height="5.46875in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image159.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -2578,8 +2502,7 @@ vii. Manage Accounts
 
 viii. Log out Button.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image160.png){width="3.933333333333333in"
-height="4.178591426071741in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image160.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -2592,10 +2515,7 @@ side, the key details are displayed as captured on the system. On the
 right side is the pensioner's other details such as bank account
 details.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image161.png){width="6.5in"
-height="2.959722222222222in"}
-
-[]{#_Toc89257390 .anchor}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image161.png">
 
 ### Payroll
 
@@ -2604,8 +2524,7 @@ Clicking the payroll menu to open a page showing a list of all payrolls
 together with other details such as deductions made. See the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image162.png){width="6.455807086614173in"
-height="2.983051181102362in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image162.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2620,8 +2539,7 @@ Click the payroll deduction menu to open a page with a list of
 deductions made upon the different payroll records. See the illustration
 below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image163.png){width="6.478562992125984in"
-height="2.3090288713910763in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image163.png">
 
 **Action:** Click the **Refresh** button in the upper right corner to
 repopulate records.
@@ -2635,8 +2553,7 @@ a list of certificates of existence cycles, a tab to selfie registration
 history. From this page, a user can register a selfie, authenticate and
 view a cycle certificate as shown in the following illustration.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image164.png){width="6.5in"
-height="2.23125in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image164.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2670,16 +2587,13 @@ iii. On authentication, you select a cycle first and the process follows
      as on registration. If COE is received, the pensioner can view a
      COE certificate.
 
-*\
-*
-
 *Viewing selfie images history*
 
 Clicking the view selfie history tab will allow a user to review the
 history of selfie taken for a particular pensioner. See illustration
 below.
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image165.png){width="6.5in"
-height="2.0375in"}
+
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image165.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2697,8 +2611,7 @@ identification engine will compare the two images based on two
 parameters: Liveness check and confidential level. See the illustration
 below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image166.png){width="3.855583989501312in"
-height="3.5083333333333333in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image166.png">
 
 **Action:** Click the **Close** button to shut the window.
 
@@ -2710,8 +2623,7 @@ can quickly search for tickets from the list using keywords, adding new
 tickets among other activities as demonstrated in this section. See the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image92.png){width="6.5in"
-height="2.102777777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image92.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2733,8 +2645,7 @@ open a form whereby one is able to prepare a ticket by providing details
 pertaining to the ticket such as selecting the issue, priority, subject
 and attaching a document if need be. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image154.png){width="3.945069991251094in"
-height="3.1074628171478564in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image154.png">
 
 **Action:** After identifying the issue, ticket priority and typing in
 the subject, click on the buttons labeled with green numbered circles to
@@ -2755,8 +2666,7 @@ ticket record from the list and view details. Besides being able to
 search for a ticket using ticket ID, a user can also forward a ticket to
 another profile to be handled there. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image167.png){width="6.5in"
-height="2.122916666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image167.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2776,8 +2686,7 @@ allow a user to send a selected ticket from his/her list of tickets to
 another profile within the portal. A window from which a target profile
 is selected is launched at a click, as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image168.png){width="3.011174540682415in"
-height="3.163636264216973in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image168.png">
 
 **Action:** Click the **Submit** buttons to send the ticket. Otherwise,
 click the **Cancel** button to terminate the process.
@@ -2788,8 +2697,7 @@ Clicking the manage account menu will a page showing the personal
 details of the logged-in user. One can also change the profile picture
 and password details, as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image169.png){width="6.5in"
-height="2.9458333333333333in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image169.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2805,8 +2713,7 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image170.png){width="2.1666666666666665in"
-height="3.3520188101487314in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image170.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
@@ -2819,8 +2726,7 @@ the activities by all users who logged into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image157.png){width="6.5in"
-height="3.4625in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image157.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -2833,16 +2739,13 @@ the following:
 
 -   Label 4: click to print a copy.
 
-[]{#_Toc89257396 .anchor}
-
 ### FAQs
 
 Clicking the FAQs tab, in the upper right corner, will open a window
 showing a report of the frequently asked questions in the portal. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image121.png){width="5.812926509186352in"
-height="3.4411767279090113in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image121.png">
 
 **Action:** Click the **Text links** to display the list of questions in
 accordion style. Click the **Home** tab to return to the portal home
@@ -2854,8 +2757,7 @@ The logged-in users' details are displayed through a drop-down menu that
 provides shortcut access to notifications, user profile, and a button to
 log out of the portal.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image171.png){width="4.723465660542432in"
-height="2.550847550306212in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image171.png">
 
 **Action:** Click on the enclosed **text links** to open respective
 pages. Otherwise, click the **Logout** button to exit the portal.
@@ -2868,9 +2770,7 @@ messages sent from within the portal. They are grouped into Inbox and
 Outbox messages. One can select to read individual messages and compose.
 See the illustration below.
 
-![Graphical user interface Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image123.png){width="6.458333333333333in"
-height="2.3632250656167977in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image123.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -2889,8 +2789,7 @@ Check the box of the record with the message you want to read, then
 click the status text link on the right to open a new window displaying
 the message details as shown below. You can also download the message.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image124.png){width="4.2285531496063in"
-height="3.65in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image124.png">
 
 **Action:** Click the **Download File** link to save the message file on
 your device. Otherwise, close the window.
@@ -2903,7 +2802,7 @@ the logged-in user. One can change profile picture, download membership
 certificate, and change password details. Refer to the Manage Account
 menu for the illustrations,
 
-## Admin and Principal Officer (PO) Profile
+### Admin and Principal Officer (PO) Profile
 
 This profile serves as an interface to the portal users who take the
 role of Admin and Principal Officers. PO officers have access to all the
@@ -2917,8 +2816,7 @@ sponsors.
 When a user login as a PO, he/she will be welcomed into the Principal
 Officers home page (dashboard) as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image172.png){width="6.5in"
-height="4.08125in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image172.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -2941,11 +2839,6 @@ Clicking the menu bar icon will expand the panel to reveal menu items as
 shown in the illustration below. The user can click each item to open a
 specific page. The menu comprises links to the following pages:
 
-xiv. 
-
-```{=html}
-<!-- -->
-```
 i.  Personal info
 
 ii. Schemes
@@ -2964,8 +2857,7 @@ viii. Activity Log
 
 ix. Log out Button.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image173.png){width="3.433333333333333in"
-height="4.372491251093614in"}
+<img  alt="Portal landing page" width="50%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image173.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -2975,8 +2867,7 @@ click on a **menu item** to open the respective page.
 Clicking the personal information menu will display the Principal
 Officer's account details as shown in the following illustration.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image174.png){width="6.5in"
-height="3.079861111111111in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image174.png">
 
 ### Schemes
 
@@ -2984,8 +2875,7 @@ Clicking the schemes menu will open a page listing all the schemes in
 the portal. An officer can select a scheme from the list and view
 sponsor (employer) details. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image175.png){width="6.5in"
-height="2.0409722222222224in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image175.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -3000,8 +2890,7 @@ Clicking the view sponsor tab seen in the previous illustration will
 open a page listing all employers under a selected scheme, as shown in
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image176.png){width="6.5in"
-height="2.2597222222222224in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image176.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -3017,8 +2906,7 @@ information on members who have registered through the portal, the
 beneficiaries who are not approved, together with unapproved members.
 See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image177.png){width="6.5in"
-height="1.9791666666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image177.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -3032,21 +2920,16 @@ do the following:
 Click to see a list of members who have changed their details through
 the portal and waiting for approval from the FundMaster.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image178.png){width="6.5in"
-height="2.275in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image178.png">
 
 **Action:** Click on the **Refresh** button to repopulate all records.
-
-*\
-*
 
 *Unapproved Beneficiary Details*
 
 Click to see a list of beneficiaries, both new and those whose details
 have been updated and waiting for approval from the FundMaster.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image179.png){width="6.5in"
-height="2.154861111111111in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image179.png">
 
 **Action:** Click on the **Refresh** button to repopulate all records.
 
@@ -3057,8 +2940,7 @@ records for all claims initiated in the portal. One can view the details
 of a claim by selecting it in the list and clicking the view button as
 shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image180.png){width="6.5in"
-height="1.7361111111111112in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image180.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -3075,8 +2957,7 @@ below. The officer can also see the documents submitted to support a
 claim. Finally, after evaluating the claim, the sponsor can make a
 decision by declining the claim or certifying and approving it.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image181.png){width="5.010363079615048in"
-height="3.875in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image181.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3096,8 +2977,7 @@ portal. A user can identify a form on the list by title and description.
 A text link for downloading a form is provided for every record in the
 list. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image182.png){width="6.5in"
-height="2.3201388888888888in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image182.png">
 
 **Action:** Click the **Download File** link to have a copy saved to
 your device. Otherwise, click the Refresh button to repopulate the
@@ -3112,8 +2992,7 @@ the status of tickets, view accompanying documents and add new tickets
 among other activities as demonstrated in this section. See the
 illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image183.png){width="6.5in"
-height="2.2534722222222223in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image183.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3135,8 +3014,7 @@ open a form whereby one is able to prepare a ticket by providing details
 pertaining to the ticket such as selecting the issue, priority, subject
 and attaching a document if need be. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image154.png){width="5.096858048993876in"
-height="4.0147058180227475in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image154.png">
 
 **Action:** After identifying the issue, ticket priority and typing in
 the subject, click on the buttons labeled with green numbered circles to
@@ -3149,9 +3027,6 @@ do the following:
 
 -   Label 3: click to close the form.
 
-*\
-*
-
 *Support Ticket*
 
 Clicking the support tickets tab display a list of all support tickets
@@ -3161,8 +3036,7 @@ able to search for a ticket using ticket ID, a user can also forward a
 ticket to another profile to be handled there. See the illustration
 below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image167.png){width="6.5in"
-height="2.122916666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image167.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3182,8 +3056,7 @@ allow a user to send a selected ticket from the list of tickets to
 another profile within the portal. A window from which a target profile
 is selected is launched at a click, as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image168.png){width="2.634782370953631in"
-height="2.7681856955380577in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image168.png">
 
 **Action:** Click the **Submit** buttons to send the ticket. Otherwise,
 click the **Cancel** button to terminate the process.
@@ -3194,8 +3067,7 @@ Clicking the manage account menu will a page showing the personal
 details of the logged-in user. One can also change the profile picture
 and password details, as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image184.png){width="6.5in"
-height="3.1256944444444446in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image184.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -3213,8 +3085,7 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image185.png){width="2.497916666666667in"
-height="3.9188331146106736in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image185.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
@@ -3227,8 +3098,7 @@ the activities by all users who logged into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image186.png){width="6.5in"
-height="2.901388888888889in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image186.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -3241,7 +3111,7 @@ the following:
 
 -   Label 4: click to print a copy.
 
-## Client Relationship Manager Profile
+### Client Relationship Manager Profile
 
 This profile serves as an interface to the portal users who take the
 role of Client Relationship Manager. CRM users represent sponsors on the
@@ -3254,8 +3124,7 @@ throughout this section.
 When a user login as CRM, he/she will be welcomed into the admin home
 (dashboard) as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image187.png){width="6.5in"
-height="4.503472222222222in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image187.png">
 
 The numbered sections in this illustration above correspond to the
 numbers in the following table that describe the key components of the
@@ -3290,9 +3159,7 @@ v.  Manage Account
 
 vi. Activity Logs
 
-[]{#_Toc89257412
-.anchor}![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image188.png){width="3.0695647419072616in"
-height="3.2964457567804026in"}
+<img  alt="Portal landing page" width="50%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image188.png">
 
 **Action:** Click the **Home tab** to expand the menu bar. Otherwise,
 click on a **menu item** to open the respective page.
@@ -3304,8 +3171,7 @@ sponsors including the schemes they have subscribed to. The CRM officer
 can select a sponsor from the list and view the details of all members
 in a particular scheme as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image189.png){width="6.5in"
-height="1.9291666666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image189.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3323,8 +3189,7 @@ will open a page displaying a list of members under a sponsor. The CRM
 can view a selected member details and search through the records using
 a search key among other actions. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image190.png){width="6.5in"
-height="2.6479166666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image190.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3350,8 +3215,7 @@ beneficiary's allocations and employment details. A member is also
 provided with a link to download his/her membership certificate and
 membership statement. See the following illustration.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image191.png){width="6.5in"
-height="5.983333333333333in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image191.png">
 
 **Action:** Click on the buttons labeled with green numbered circles to
 do the following:
@@ -3369,8 +3233,7 @@ do the following:
 Clicking the employment details button will open a window displaying a
 members employment details as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image192.png){width="4.15in"
-height="2.820029527559055in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image192.png">
 
 **Action:** Click the **Close** button to exit the window.
 
@@ -3381,8 +3244,7 @@ member under a sponsor. The CRM is view a selected member details and
 search through the records using a search key among other actions. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image193.png){width="6.5in"
-height="2.1590277777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image193.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3404,8 +3266,7 @@ quickly search for tickets from the list using keywords, view the status
 of tickets, view accompanying documents and add new tickets among other
 activities as demonstrated in this section. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image92.png){width="6.5in"
-height="2.102777777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image92.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3420,17 +3281,13 @@ numbered circles to do the following:
 
 -   Label 5: click to add a new ticket.
 
-*\
-*
-
 *View ticket*
 
 Clicking the view ticket button will open a new window showing all the
 details of a selected ticket from the list as shown in the illustration
 below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image194.png){width="6.360189195100612in"
-height="3.475in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image194.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3453,8 +3310,7 @@ open a form whereby one is able to prepare a ticket by providing details
 pertain the ticket such as selecting the issue, priority, subject and
 attaching a document if need be. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image154.png){width="4.528053368328959in"
-height="3.566666666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image154.png">
 
 **Action:** After identifying the issue, ticket priority and typing in
 the subject, click on the buttons labeled with green numbered circles to
@@ -3475,8 +3331,7 @@ record from the list and view details. Besides being able to search for
 a ticket using ticket Id, a user can also forward a ticket to another
 profile to be handled there. See the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image167.png){width="6.5in"
-height="2.122916666666667in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image167.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3497,8 +3352,7 @@ to another profile within the portal. A window from which a target
 profile is selected is launched at click as shown in the illustration
 below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image168.png){width="3.0in"
-height="3.1518952318460194in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image168.png">
 
 **Action:** Click the **Submit** buttons to send the ticket. Otherwise,
 click **Cancel** button to terminate the process.
@@ -3509,8 +3363,7 @@ Clicking the manage account menu will a page showing the personal
 details of the logged-in user. One can also change the profile picture
 and password details as shown in the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image195.png){width="6.5in"
-height="2.8465277777777778in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image195.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -3528,8 +3381,7 @@ the following:
 Click the add/change picture button as shown in the previous
 illustration to upload a picture as shown below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image196.png){width="2.1069444444444443in"
-height="3.2582370953630795in"}
+<img  alt="Portal landing page" width="40%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image196.png">
 
 **Action:** Click the **Browse** button to select a picture from your
 device. Then click the **Save** button to upload the image. Otherwise,
@@ -3542,8 +3394,7 @@ the activities by all users who logged-into the portal in the recent
 past. One can search records for specific periods through filtering by
 date.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image197.png){width="6.341666666666667in"
-height="3.4811417322834646in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image197.png">
 
 **Action:** Click the buttons labeled with green numbered circles to do
 the following:
@@ -3556,16 +3407,13 @@ the following:
 
 -   Label4: click to print a copy.
 
-[]{#_Toc89257417 .anchor}
-
 ### FAQs
 
 Clicking the FAQs tab, on the upper right corner, will open a window
 showing a report of the frequently asked questions in the portal. See
 the illustration below.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image121.png){width="5.630753499562554in"
-height="3.3333333333333335in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image121.png">
 
 **Action:** Click the **text links** to display the list of questions in
 accordion style. Click the **Home** tab to return to portal home page.
@@ -3577,8 +3425,7 @@ The logged-in users' details are displayed through a drop-down menu that
 provides a short cut access to notifications, profile, and a button to
 logout of the portal.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image198.png){width="4.50953302712161in"
-height="2.6666666666666665in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image198.png">
 
 **Action:** Click on the enclosed **text links** to open respective
 pages. Otherwise, click the **Logout** button to exit the portal.
@@ -3591,9 +3438,7 @@ messages sent from within the portal. They are grouped into inbox and
 outbox messages. One can select to read individual messages and compose.
 See the illustration below.
 
-![Graphical user interface Description automatically
-generated](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image123.png){width="6.444966097987751in"
-height="2.3583333333333334in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image123.png">
 
 **Action:** Click on the text fields and buttons labeled with green
 numbered circles to do the following:
@@ -3612,8 +3457,7 @@ Check the box of the record with the message you want to read, then
 click the status text link on the right to open a new window displaying
 the message details as shown below. You can also download the message.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image124.png){width="4.2285531496063in"
-height="3.65in"}
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image124.png">
 
 **Action:** Click the **Download File** link to save the message file on
 your device. Otherwise, close the window.
@@ -3626,5 +3470,4 @@ the logged-in user. One can change profile picture, download membership
 certificate, and change password details. Refer to the Manage Account
 menu for the illustrations.
 
-![](vertopal_43ffe4c152ce44b3946aad33a6fb3940/media/image199.png){width="3.313257874015748in"
-height="0.9416666666666667in"} -->
+<img  alt="Portal landing page" width="70%" height="auto"  class="center"  src="../.vuepress/public/mss-images/media/image199.png">
