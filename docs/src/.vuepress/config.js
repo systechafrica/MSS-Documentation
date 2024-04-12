@@ -13,31 +13,31 @@ module.exports = {
         nextLinks: true,
         prevLinks: true,
         nav: [
-            {text: 'Getting Started', link: '/introduction/'},
-            {
-                text: 'System Modules',
-                items: [
-                    {text: 'Admin Panel', link: '/administration/'},
-                    {text: 'Scheme Setup', link: '/setupscheme/'},
-                    {text: 'Member Register', link: '/members/'},
-                    {text: 'Accounts', link: '/accounts/'},
-                    {text: 'Pensioner Register', link: '/pensioners/'},
-                    {text: 'Investment', link: '/investments/'},
-                    {text: 'Workflow', link: '/workflow/'},
-                    {text: 'Reports', link: '/reports/'},
-                ],
-            },
-            {text: 'Glossary', link: '/glossary/'},
-            {
-                text: 'Installation Guides',
-                items: [
-                    {text: 'FundMaster on Oracle', link: '/deployment/' },
-                    {text: 'Postgress Database', link: '/deployment/postgres/' }
-                ]
-            },
-            {text: 'Video Tutorials', link: '/videotutorials/'},
-            {text: 'FAQ', link: '/frequentquestions/'},
-            {text: 'MSS', link: '/mss/'},
+            // {text: 'Getting Started', link: '/introduction/'},
+            // {
+            //     text: 'System Modules',
+            //     items: [
+            //         {text: 'Admin Panel', link: '/administration/'},
+            //         {text: 'Scheme Setup', link: '/setupscheme/'},
+            //         {text: 'Member Register', link: '/members/'},
+            //         {text: 'Accounts', link: '/accounts/'},
+            //         {text: 'Pensioner Register', link: '/pensioners/'},
+            //         {text: 'Investment', link: '/investments/'},
+            //         {text: 'Workflow', link: '/workflow/'},
+            //         {text: 'Reports', link: '/reports/'},
+            //     ],
+            // },
+            // {text: 'Glossary', link: '/glossary/'},
+            // {
+            //     text: 'Installation Guides',
+            //     items: [
+            //         {text: 'FundMaster on Oracle', link: '/deployment/' },
+            //         {text: 'Postgress Database', link: '/deployment/postgres/' }
+            //     ]
+            // },
+            // {text: 'Video Tutorials', link: '/videotutorials/'},
+            // {text: 'FAQ', link: '/frequentquestions/'},
+            {text: 'Member Self Service', link: '/mss/'},
         ],
         sidebar: getSidebar(),
     },
@@ -236,20 +236,20 @@ function getSidebar() {
 function generateSidebar(basePath, title, children) {
     return [
         {title, children: children.map(child => (typeof child === 'string' ? `${basePath}${child}` : child))},
-        {
-            title: 'Main Menu', children: [
-                '/administration/',
-                '/setupscheme/',
-                '/members/',
-                '/accounts/',
-                '/pensioners/',
-                '/reports/',
-                '/workflow/',
-                '/investments/',
-                '/videotutorials/',
-                '/deployment/',
-                '/mss/'
-            ]
-        }
+        // {
+            // title: 'Main Menu', children: [
+                // '/administration/',
+                // '/setupscheme/',
+                // '/members/',
+                // '/accounts/',
+                // '/pensioners/',
+                // '/reports/',
+                // '/workflow/',
+                // '/investments/',
+                // '/videotutorials/',
+                // '/deployment/',
+                // '/mss/'
+            // ]
+        // }
     ];
 }
