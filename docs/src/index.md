@@ -1,9 +1,10 @@
 ---
 home: true
 heroImage: "/img/knowledge-base-hero.jpg"
-tagline: This central repository provides relevant information on how to run various end-to-end processes in FundMaster system.
+# tagline: This central repository provides relevant information on how to run various end-to-end processes in FundMaster system.
+tagline: This central repository provides relevant information on how to run various end-to-end processes in the Member Self Service Portal.
 actionText: Get Started →
-actionLink: /introduction/
+actionLink: /mss/
 features:
   - title: Our Vision
     details: To be the leading innovative retirement benefits technology solutions provider in Africa.
